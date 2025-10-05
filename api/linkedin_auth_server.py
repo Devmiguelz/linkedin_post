@@ -31,6 +31,8 @@ AUTH_URL = (
     f"&state={STATE}"
 )
 
+TOKEN_URL = "https://www.linkedin.com/oauth/v2/accessToken"
+
 # 🔹 Headers recomendados
 HEADERS = {
     "Content-Type": "application/x-www-form-urlencoded",
@@ -49,15 +51,19 @@ def get_access_token(code):
         "client_id": CLIENT_ID,
         "client_secret": CLIENT_SECRET,
     }
-    response = requests.post(AUTH_URL, headers=HEADERS, data=data)
+    response = requests.post(TOKEN_URL, headers=HEADERS, data=data)
     if response.status_code != 200:
         raise Exception(f"Error al obtener access token: {response.status_code}, {response.text}")
     return response.json()
 
 def get_linkedin_profile(access_token):
-    """Obtener datos del perfil de LinkedIn"""
-    headers = {"Authorization": f"Bearer {access_token}", "User-Agent": HEADERS["User-Agent"]}
-    response = requests.get("https://api.linkedin.com/v2/me", headers=headers)
+    """Obtener datos del perfil de LinkedIn usando OpenID Connect"""
+    url = "https://api.linkedin.com/v2/userinfo"
+    headers = {
+        "Authorization": f"Bearer {access_token}",
+        "User-Agent": "python-script"
+    }
+    response = requests.get(url, headers=headers)
     if response.status_code != 200:
         raise Exception(f"Error al obtener perfil: {response.status_code}, {response.text}")
     return response.json()
@@ -95,7 +101,7 @@ class LinkedInAuthHandler(BaseHTTPRequestHandler):
                 print(f"🔄 Refresh token: {refresh_token}")
 
             profile = get_linkedin_profile(access_token)
-            person_urn = profile.get("id")
+            person_urn = profile.get("sub")
             print(f"👤 LinkedIn Person URN: urn:li:person:{person_urn}")
 
             save_to_env(access_token, person_urn)
