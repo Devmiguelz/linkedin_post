@@ -124,7 +124,7 @@ def build_post_content(script: dict) -> str:
     
     # Validar que structure sea lista
     if isinstance(structure, list):
-        body = "\n".join(p.strip() for p in structure)
+        body = "\n\n".join(p.strip() for p in structure)
     else:
         body = str(structure).strip()
 
@@ -145,6 +145,6 @@ def build_post_content(script: dict) -> str:
         post_parts.append(hashtags_text)
     
     # Unir secciones con saltos de línea dobles
-    post = "\n".join(part for part in post_parts if part)
+    post = "\n\n".join(part for part in post_parts if part)
 
     return post

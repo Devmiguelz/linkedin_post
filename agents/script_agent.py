@@ -28,6 +28,7 @@ def build_script(research_insights: dict, perf: dict, profile_data: dict):
         "tone": "tono recomendado (ej. cercano, profesional, provocador)",
         "recommended_length_chars": 200,
         "hashtags": ["#Ejemplo1", "#Ejemplo2", "#Ejemplo3"]
+        "promt_for_image": "prompt para generar imagen relacionada con el post"
     }}
 
     Instrucciones:

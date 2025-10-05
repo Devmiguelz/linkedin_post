@@ -56,15 +56,14 @@ if __name__ == "__main__":
         json.dump(out, f, ensure_ascii=False, indent=2)
     print("✅ Resultado guardado en output_run.json")
 
-    post_text = build_post_content(out["script"])
+    script = out.get("script", {})
+    promt_for_image = script.get("promt_for_image", "")
 
-    print(f"post_text:\n{post_text}\n")
-
-    exit(0)
+    post_text = build_post_content(script)
 
     print("\n📢 Publicando en LinkedIn...")
     try:
-        create_post_with_generated_image(post_text, [selected_topic])
+        create_post_with_generated_image(post_text, [promt_for_image])
         print("✅ Publicación exitosa en LinkedIn")
     except Exception as e:
         print(f"❌ Error publicando en LinkedIn: {e}")
