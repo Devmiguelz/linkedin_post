@@ -4,7 +4,7 @@ import time
 from pathlib import Path
 from runware import Runware, IImageInference
 
-async def generate_images_with_runware(scenes, wait_seconds=2, output_dir="data/images"):
+async def generate_images_with_runware(prompts, wait_seconds=2, output_dir="data/images"):
     """
     Genera imágenes usando Runware por cada escena.
     :param scenes: Lista de escenas (cada escena es un dict con clave 'Imagen')
@@ -22,12 +22,7 @@ async def generate_images_with_runware(scenes, wait_seconds=2, output_dir="data/
     runware = Runware(api_key=RUN_API_KEY) 
     await runware.connect()
 
-    for idx, scene in enumerate(scenes, start=1):
-        prompt = scene.get("Imagen")
-        if not prompt:
-            continue
-
-
+    for idx, prompt in enumerate(prompts, start=1):
         try:
             request = IImageInference(
                 positivePrompt=prompt,
@@ -35,12 +30,9 @@ async def generate_images_with_runware(scenes, wait_seconds=2, output_dir="data/
                 width=width,
                 height=height,
             )
-
             result = await runware.imageInference(requestImage=request)
-
             if not result:
                 return []
-
             image_url = result[0].imageURL  
 
             file_path = os.path.join(output_dir, f"image_{idx}.jpg")            

@@ -4,7 +4,7 @@ from agents.research_agent import research_topic
 from agents.performance_agent import analyze_performance
 from agents.script_agent import build_script
 from agents.hook_agent import pick_top_hooks
-from services.linkedin_service import publish_linkedin_post, build_post_content
+from services.linkedin_service import create_post_with_generated_image, build_post_content
 from services.openai_client import get_trending_topic
 
 def run_flow(user_topic, profile_path="data/profile_data.json"):
@@ -56,11 +56,15 @@ if __name__ == "__main__":
         json.dump(out, f, ensure_ascii=False, indent=2)
     print("✅ Resultado guardado en output_run.json")
 
-    post_text = build_post_content(out["script"], out["hooks"])
+    post_text = build_post_content(out["script"])
+
+    print(f"post_text:\n{post_text}\n")
+
+    exit(0)
 
     print("\n📢 Publicando en LinkedIn...")
     try:
-        publish_linkedin_post(post_text)
+        create_post_with_generated_image(post_text, [selected_topic])
         print("✅ Publicación exitosa en LinkedIn")
     except Exception as e:
         print(f"❌ Error publicando en LinkedIn: {e}")

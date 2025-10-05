@@ -101,9 +101,9 @@ def publish_linkedin_post(text, image_urn=None):
 # -------------------------------
 # 3️⃣ Crear post con imagen generada por IA
 # -------------------------------
-def create_post_with_generated_image(prompt, scenes):
+def create_post_with_generated_image(prompt, prompts_for_images):
     """Genera una imagen con IA, la sube y publica un post"""
-    image_files = asyncio.run(generate_images_with_runware(scenes))
+    image_files = asyncio.run(generate_images_with_runware(prompts_for_images))
     image_urn = None
 
     if image_files:
@@ -111,36 +111,40 @@ def create_post_with_generated_image(prompt, scenes):
 
     return publish_linkedin_post(prompt, image_urn=image_urn)
 
-
 def build_post_content(script: dict) -> str:
     """
     Construye el contenido final del post de LinkedIn a partir del guion generado por el agente.
+    Retorna un texto listo para publicar en LinkedIn.
     """
     # Extraer partes del guion
-    title = script.get("title", "")
+    title = script.get("title", "").strip()
     structure = script.get("structure", [])
-    cta = script.get("cta", "")
-    tone = script.get("tone", "")
+    cta = script.get("cta", "").strip()
+    hashtags = script.get("hashtags", [])
+    
+    # Validar que structure sea lista
+    if isinstance(structure, list):
+        body = "\n".join(p.strip() for p in structure)
+    else:
+        body = str(structure).strip()
 
-    # Unir las partes en formato tipo publicación
-    body = "\n\n".join(structure) if isinstance(structure, list) else str(structure)
+    # Construir la sección de hashtags
+    if isinstance(hashtags, list) and hashtags:
+        hashtags_text = " ".join(hashtags)
+    elif isinstance(hashtags, str):
+        hashtags_text = hashtags.strip()
+    else:
+        hashtags_text = ""
 
-    # Opcional: agregar hashtags automáticos según tono o contenido
-    hashtags = ""
-    if "IA" in body or "inteligencia artificial" in body.lower():
-        hashtags += "#InteligenciaArtificial #FuturoDigital "
-    if "desarrollo" in body.lower():
-        hashtags += "#DesarrolloPersonal #Aprendizaje "
-    if tone == "provocador":
-        hashtags += "#Reflexión #Tendencias2025 "
-
-    # Ensamblar post completo
-    post = f"""{title}
-
-    {body}
-
-    💬 {cta}
-
-    {hashtags.strip()}"""
+    # Ensamblar post completo con formato limpio
+    post_parts = [title, body]
+    
+    if cta:
+        post_parts.append(f"💬 {cta}")
+    if hashtags_text:
+        post_parts.append(hashtags_text)
+    
+    # Unir secciones con saltos de línea dobles
+    post = "\n".join(part for part in post_parts if part)
 
     return post
