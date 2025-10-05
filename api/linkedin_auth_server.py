@@ -72,7 +72,7 @@ def save_to_env(access_token, person_urn):
     """Guardar token y URN en .env"""
     with open(".env", "a") as f:
         f.write(f"\nLINKEDIN_ACCESS_TOKEN={access_token}")
-        f.write(f"\nLINKEDIN_PERSON_URN={person_urn}")
+        f.write(f"\nLINKEDIN_PERSON_URN=urn:li:person:{person_urn}")
 
 # ==========================
 # 🔹 HTTP Server

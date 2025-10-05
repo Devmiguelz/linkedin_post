@@ -1,10 +1,11 @@
 # main.py
 import json
-import argparse
 from agents.research_agent import research_topic
 from agents.performance_agent import analyze_performance
 from agents.script_agent import build_script
 from agents.hook_agent import pick_top_hooks
+from services.linkedin_service import publish_linkedin_post, build_post_content
+from services.openai_client import get_trending_topic
 
 def run_flow(user_topic, profile_path="data/profile_data.json"):
     profile = json.load(open(profile_path, "r", encoding="utf-8"))
@@ -36,10 +37,30 @@ def ask_option(prompt, options, default=None):
         print("⚠️ Opción inválida, intente de nuevo.")
 
 if __name__ == "__main__":
-    temas = ["Productividad", "Desarrollo personal", "Liderazgo", "Programación", "Inteligencia Artificial"]
-    selected_topic = ask_option("¿Sobre qué tema quieres crear tu publicación?", temas)
+    temas = [
+        "Inteligencia Artificial Generativa",
+        "Agentes autónomos e IA multimodal",
+        "Integración de IA en productos .NET y Python",
+        "Arquitectura limpia y DDD moderno",
+        "Automatización con n8n y herramientas no-code",
+        "Scrum y equipos híbridos con IA",
+        "Carreras y empleos en la era de la IA",
+        "Branding personal para desarrolladores",
+        "Productividad con IA y copilots",
+        "Futuro del desarrollo de software 2026",
+    ]
+    selected_topic = get_trending_topic(temas)
     out = run_flow(selected_topic)
-    import json
+    
     with open("output_run.json", "w", encoding="utf-8") as f:
         json.dump(out, f, ensure_ascii=False, indent=2)
     print("✅ Resultado guardado en output_run.json")
+
+    post_text = build_post_content(out["script"], out["hooks"])
+
+    print("\n📢 Publicando en LinkedIn...")
+    try:
+        publish_linkedin_post(post_text)
+        print("✅ Publicación exitosa en LinkedIn")
+    except Exception as e:
+        print(f"❌ Error publicando en LinkedIn: {e}")
