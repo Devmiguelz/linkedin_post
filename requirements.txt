@@ -1,0 +1,27 @@
+# Usuario-provided + recomendaciones
+langchain
+langgraph
+openai
+pandas
+numpy
+requests
+python-dotenv
+beautifulsoup4
+serpapi
+tqdm
+matplotlib
+tenacity
+
+# Recomendadas para embeddings y NLP local
+sentence-transformers
+scikit-learn
+nltk
+spacy
+
+# Opcionales (scraping dinámico)
+playwright
+selenium
+joblib
+
+# Testing / dev
+pytest

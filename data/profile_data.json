@@ -1,0 +1,52 @@
+{
+  "name": "Miguel Zambrano Herrera",
+  "headline": "Software Engineer | C# | .NET | Python | Integration IA | Angular | SQL | Scrum | Azure | Git",
+  "location": "Colombia",
+  "followers": 988,
+  "connections": "500+",
+  "current_company": "PersonalSoft",
+  "education": "Universidad Simón Bolívar",
+  "job_search": true,
+  "desired_positions": [
+    "Desarrollador de .NET",
+    "Senior Software Developer",
+    "Ingeniero de Software",
+    "Programador Full Stack"
+  ],
+  "about": "Ingeniero de software con más de 6 años de experiencia en el desarrollo de aplicaciones web robustas y escalables. Comprometido con la escritura de código limpio, mantenible y bien documentado, siguiendo las mejores prácticas y patrones de diseño, y con habilidades en el diseño y optimización de bases de datos relacionales. Fascinado por los nuevos desafíos de la web y cómo podemos utilizarlos para construir mejores software para las personas.",
+  "skills": [
+    "C#",
+    ".NET Core",
+    "Angular",
+    "JavaScript",
+    "Spring Boot",
+    "Python",
+    "SQL",
+    "Scrum",
+    "Azure",
+    "Git"
+  ],
+  "audience": {
+    "target_roles": [
+      "Desarrolladores de software",
+      "Ingenieros de software",
+      "Líderes técnicos",
+      "Reclutadores IT",
+      "CTOs"
+    ],
+    "interests": [
+      "Desarrollo de software",
+      "Buenas prácticas de código",
+      "Arquitectura limpia",
+      "Inteligencia Artificial aplicada a software",
+      "Productividad de desarrolladores",
+      "Tendencias tecnológicas"
+    ]
+  },
+  "goals": [
+    "Mejorar visibilidad profesional",
+    "Aumentar interacción en LinkedIn",
+    "Posicionarse como experto en desarrollo .NET",
+    "Atraer oportunidades laborales y proyectos"
+  ]
+}
