@@ -37,39 +37,92 @@ def ask_option(prompt, options, default=None):
             return options[int(choice)-1]
         print("⚠️ Opción inválida, intente de nuevo.")
 
-if __name__ == "__main__":
+def main():
+    # Paso 1: Elegir tipo de tema
+    tema_choice = ask_option(
+        "Seleccionar como quieres elegir el tema del post:",
+        ["Automático", "Semi-Automatico", "Manual"]
+    )
+
     temas = [
-        "Inteligencia Artificial Generativa",
-        "Agentes autónomos e IA multimodal",
-        "Integración de IA en productos .NET y Python",
-        "Arquitectura limpia y DDD moderno",
-        "Automatización con n8n y herramientas no-code",
-        "Scrum y equipos híbridos con IA",
-        "Carreras y empleos en la era de la IA",
-        "Branding personal para desarrolladores",
-        "Productividad con IA y copilots",
-        "Futuro del desarrollo de software 2026",
+        "Tendencias tecnológicas 2025-2026: lenguajes, frameworks y paradigmas emergentes",
+        "Diseño de software escalable: arquitecturas limpias, DDD y buen dominio técnico",
+        "Automatización práctica: integraciones reales con n8n, herramientas no-code y low-code",
+        "Desarrollo híbrido: combinar .NET, Python y otros stacks en soluciones modernas",
+        "Agentes autónomos e IA multimodal como asistentes del sistema",
+        "Copilots e IA generativa integrados en el ciclo de vida del software (CI/CD, QA, monitoreo)",
+        "Productividad del desarrollador: scripts, automatización y uso estratégico de IA",
+        "Equipos inteligentes: Scrum 2.0, colaboración híbrida y herramientas de apoyo",
+        "Carreras tech 2026: nuevos roles, habilidades y estrategias de preparación",
+        "Branding personal para ingenieros: autoridad, nicho y visibilidad en mercados competitivos",
+        "Del código manual a la orquestación: evolución del desarrollo de software",
+        "Ecosistema moderno: contenedores, microservicios, serverless y nube como estándar",
+        "No-code vs código: criterios para elegir, límites, casos de éxito",
+        "Tecnología con propósito: emprendimiento responsable, software sostenible y ética tech",
+        "Historias de software: narrativas de startups, fracasos, pivot y éxito tecnológico"
     ]
-    selected_topic = get_trending_topic(temas)
+    selected_topic = ""
+    if tema_choice == "Automático":
+        selected_topic = get_trending_topic(temas)
+    elif tema_choice == "Semi-Automatico":
+        selected_topic = ask_option("Selecciona un tema:", temas)
+    else:
+        selected_topic = input("\n✍️ Escribe el tema que quieres usar: ").strip()
+
+
+    if not selected_topic:        
+        print("⚠️ No se ha proporcionado un tema.")
+        return main()
+
+    print(f"\n🧠 Generando contenido para el tema: {selected_topic}")
+
+    # Paso 2: Ejecutar flujo de generación
     out = run_flow(selected_topic)
 
     timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")
-    
     with open(f"output_run_{timestamp}.json", "w", encoding="utf-8") as f:
         json.dump(out, f, ensure_ascii=False, indent=2)
     print(f"✅ Resultado guardado en output_run_{timestamp}.json")
 
     script = out.get("script", {})
     promt_for_image = script.get("promt_for_image", "")
-
     post_text = build_post_content(script)
 
-    author = ask_option("¿Dónde quieres publicar?", ["Cuenta personal", "Página de empresa"])
-    mode = "personal" if author == "Cuenta personal" else "organization"
+    print("\n📄 Contenido generado:")
+    print(f"{post_text}\n")
 
-    print("\n📢 Publicando en LinkedIn...")
-    try:
-        create_post_with_generated_image(post_text, [promt_for_image], mode=mode)
-        print("✅ Publicación exitosa en LinkedIn")
-    except Exception as e:
-        print(f"❌ Error publicando en LinkedIn: {e}")
+    # Paso 3: Menú principal
+    main_choice = ask_option(
+        "¿Qué quieres hacer ahora?",
+        [
+            "Publicar en perfil personal",
+            "Publicar en cuenta de empresa",
+            "Generar nuevamente sin publicar",
+            "Salir"
+        ]
+    )
+
+    if main_choice == "Salir":
+        print("👋 Saliendo del programa...")
+        return
+
+    if "Generar nuevamente" in main_choice:
+        print("🔁 Reiniciando generación...")
+        return main()  # vuelve a empezar el flujo completo
+
+    mode = "personal" if "personal" in main_choice.lower() else "organization"
+
+    # Paso 4: Confirmar publicación
+    publish = ask_option("¿Deseas publicar este post en LinkedIn?", ["Sí", "No"], default="Sí")
+    if publish == "Sí":
+        print("\n📢 Publicando en LinkedIn...")
+        try:
+            create_post_with_generated_image(post_text, [promt_for_image], mode=mode)
+            print("✅ Publicación exitosa en LinkedIn")
+        except Exception as e:
+            print(f"❌ Error publicando en LinkedIn: {e}")
+    else:
+        print("⏭️ Publicación omitida. Puedes revisar el archivo generado.")
+
+if __name__ == "__main__":
+    main()
