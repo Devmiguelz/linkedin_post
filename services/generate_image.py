@@ -1,6 +1,7 @@
 import os
 import requests
-import time
+import time 
+from datetime import datetime
 from pathlib import Path
 from runware import Runware, IImageInference
 
@@ -35,7 +36,8 @@ async def generate_images_with_runware(prompts, wait_seconds=2, output_dir="data
                 return []
             image_url = result[0].imageURL  
 
-            file_path = os.path.join(output_dir, f"image_{idx}.jpg")            
+            timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")
+            file_path = os.path.join(output_dir, f"image_{timestamp}.jpg")            
             download_image(image_url, file_path)
             image_files.append(file_path)
 

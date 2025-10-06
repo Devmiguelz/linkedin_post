@@ -68,11 +68,44 @@ def get_linkedin_profile(access_token):
         raise Exception(f"Error al obtener perfil: {response.status_code}, {response.text}")
     return response.json()
 
-def save_to_env(access_token, person_urn):
+def get_admin_organizations(access_token):
+    """
+    Obtiene todas las organizaciones (páginas de empresa) donde el usuario autenticado es administrador aprobado.
+    Devuelve una lista de URNs.
+    """
+    url = "https://api.linkedin.com/rest/organizationAuthorizations"
+    params = {
+        "q": "roleAssignee",
+        "role": "ADMINISTRATOR",
+        "state": "APPROVED"
+    }
+    headers = {
+        "Authorization": f"Bearer {access_token}",
+        "LinkedIn-Version": "202509",
+        "X-Restli-Protocol-Version": "2.0.0"
+    }
+
+    resp = requests.get(url, headers=headers, params=params)
+    if resp.status_code != 200:
+        raise Exception(f"Error al obtener organizaciones: {resp.status_code}, {resp.text}")
+    
+    data = resp.json()
+    org_urns = []
+    elements = data.get("elements", [])
+    for element in elements:
+        org = element.get("organization")
+        if org:
+            org_urns.append(org)
+    
+    return org_urns
+
+def save_to_env(access_token, refresh_token, person_urn, organization_urn):
     """Guardar token y URN en .env"""
     with open(".env", "a") as f:
         f.write(f"\nLINKEDIN_ACCESS_TOKEN={access_token}")
+        f.write(f"\nLINKEDIN_REFRESH_TOKEN={refresh_token}")
         f.write(f"\nLINKEDIN_PERSON_URN=urn:li:person:{person_urn}")
+        f.write(f"\nLINKEDIN_ORGANIZATION_URN={organization_urn}")
 
 # ==========================
 # 🔹 HTTP Server
@@ -101,10 +134,13 @@ class LinkedInAuthHandler(BaseHTTPRequestHandler):
                 print(f"🔄 Refresh token: {refresh_token}")
 
             profile = get_linkedin_profile(access_token)
-            person_urn = profile.get("sub")
-            print(f"👤 LinkedIn Person URN: urn:li:person:{person_urn}")
+            #organizations = get_admin_organizations(access_token)
+            #print(f"🏢 Organizaciones administradas: {organizations}")
 
-            save_to_env(access_token, person_urn)
+            person_urn = profile.get("sub")
+            organization_urn = "abc12345";
+
+            save_to_env(access_token, refresh_token, person_urn, organization_urn)
 
             self.send_response(200)
             self.end_headers()

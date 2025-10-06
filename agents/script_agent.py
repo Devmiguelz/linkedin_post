@@ -23,7 +23,7 @@ def build_script(research_insights: dict, perf: dict, profile_data: dict):
 
     {{
         "title": "<línea inicial potente/hook (1-2 frases)>",
-        "structure": texto entre 150 y 250 palabras cada párrafo en un ítem de lista ["párrafo 1", "párrafo 2", ...],
+        "structure": texto entre 100 y 200 palabras cada párrafo en un ítem de lista ["párrafo 1", "párrafo 2", ...],
         "cta": "Llamada a la acción (máx 1 línea)",
         "tone": "tono recomendado (ej. cercano, profesional, provocador)",
         "recommended_length_chars": 200,
@@ -34,9 +34,10 @@ def build_script(research_insights: dict, perf: dict, profile_data: dict):
     Instrucciones:
     - Puedes generar entre **1 y 4 párrafos**, según lo que consideres necesario para explicar bien la idea.
     - Mantén un lenguaje natural, directo y profesional.
-    - El post completo debe tener entre **500 palabras** máximo.
+    - El post completo debe tener entre **300 palabras** máximo.
     - Los hashtags deben ser relevantes al tema del post (tecnología, IA, programación, liderazgo, productividad, empleo, etc.).
     - No incluyas emojis.
+    - No menciones nada sobre Perfil (voz y audiencia)
     - El formato final **debe ser JSON válido**.
     """
     text = generate_text(prompt, max_tokens=600)

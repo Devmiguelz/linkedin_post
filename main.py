@@ -1,5 +1,6 @@
 # main.py
 import json
+from datetime import datetime
 from agents.research_agent import research_topic
 from agents.performance_agent import analyze_performance
 from agents.script_agent import build_script
@@ -51,19 +52,24 @@ if __name__ == "__main__":
     ]
     selected_topic = get_trending_topic(temas)
     out = run_flow(selected_topic)
+
+    timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")
     
-    with open("output_run.json", "w", encoding="utf-8") as f:
+    with open(f"output_run_{timestamp}.json", "w", encoding="utf-8") as f:
         json.dump(out, f, ensure_ascii=False, indent=2)
-    print("✅ Resultado guardado en output_run.json")
+    print(f"✅ Resultado guardado en output_run_{timestamp}.json")
 
     script = out.get("script", {})
     promt_for_image = script.get("promt_for_image", "")
 
     post_text = build_post_content(script)
 
+    author = ask_option("¿Dónde quieres publicar?", ["Cuenta personal", "Página de empresa"])
+    mode = "personal" if author == "Cuenta personal" else "organization"
+
     print("\n📢 Publicando en LinkedIn...")
     try:
-        create_post_with_generated_image(post_text, [promt_for_image])
+        create_post_with_generated_image(post_text, [promt_for_image], mode=mode)
         print("✅ Publicación exitosa en LinkedIn")
     except Exception as e:
         print(f"❌ Error publicando en LinkedIn: {e}")

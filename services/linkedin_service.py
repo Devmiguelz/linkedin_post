@@ -11,6 +11,7 @@ load_dotenv()
 
 LINKEDIN_ACCESS_TOKEN = os.getenv("LINKEDIN_ACCESS_TOKEN")
 LINKEDIN_PERSON_URN = os.getenv("LINKEDIN_PERSON_URN")
+LINKEDIN_ORGANIZATION_URN = os.getenv("LINKEDIN_ORGANIZATION_URN")
 
 BASE_URL = "https://api.linkedin.com/v2"
 
@@ -24,13 +25,13 @@ HEADERS = {
 # -------------------------------
 # 1️⃣ Subir imagen a LinkedIn
 # -------------------------------
-def upload_image_to_linkedin(image_path):
+def upload_image_to_linkedin(image_path, author=LINKEDIN_PERSON_URN):
     """Registra y sube una imagen a LinkedIn"""
     register_url = f"{BASE_URL}/assets?action=registerUpload"
     register_body = {
         "registerUploadRequest": {
             "recipes": ["urn:li:digitalmediaRecipe:feedshare-image"],
-            "owner": LINKEDIN_PERSON_URN,
+            "owner": author,
             "serviceRelationships": [
                 {
                     "relationshipType": "OWNER",
@@ -62,10 +63,11 @@ def upload_image_to_linkedin(image_path):
 # -------------------------------
 # 2️⃣ Publicar un post (texto o imagen)
 # -------------------------------
-def publish_linkedin_post(text, image_urn=None):
+def publish_linkedin_post(text, image_urn=None, author=LINKEDIN_PERSON_URN):
     """Publica un post en LinkedIn con o sin imagen"""
+
     payload = {
-        "author": LINKEDIN_PERSON_URN,
+        "author": author,
         "lifecycleState": "PUBLISHED",
         "specificContent": {
             "com.linkedin.ugc.ShareContent": {
@@ -101,15 +103,17 @@ def publish_linkedin_post(text, image_urn=None):
 # -------------------------------
 # 3️⃣ Crear post con imagen generada por IA
 # -------------------------------
-def create_post_with_generated_image(prompt, prompts_for_images):
+def create_post_with_generated_image(prompt, prompts_for_images, mode="personal"):
     """Genera una imagen con IA, la sube y publica un post"""
     image_files = asyncio.run(generate_images_with_runware(prompts_for_images))
     image_urn = None
 
-    if image_files:
-        image_urn = upload_image_to_linkedin(image_files[0])
+    AUTHOR_URN = LINKEDIN_PERSON_URN if mode == "personal" else LINKEDIN_ORGANIZATION_URN
 
-    return publish_linkedin_post(prompt, image_urn=image_urn)
+    if image_files:
+        image_urn = upload_image_to_linkedin(image_files[0], author=AUTHOR_URN)
+
+    return publish_linkedin_post(prompt, image_urn=image_urn, author=AUTHOR_URN)
 
 def build_post_content(script: dict) -> str:
     """
