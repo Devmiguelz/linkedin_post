@@ -1,5 +1,6 @@
-from services.openai_client import generate_text
 import json
+from datetime import datetime
+from services.openai_client import generate_text
 
 def build_script(research_insights: dict, perf: dict, profile_data: dict):
     """
@@ -7,6 +8,7 @@ def build_script(research_insights: dict, perf: dict, profile_data: dict):
     Devuelve un dict con title, structure, CTA y recomendaciones.
     """
     top_texts = [p.get("text","")[:400] for p in perf.get("top_posts", [])][:6]
+    current_date = datetime.now().strftime("%d/%m/%Y")
     prompt = f"""
     Eres un creador de guiones para publicaciones virales en LinkedIn. Usa la siguiente información para construir un post atractivo, profesional y con alto potencial de engagement.
 
@@ -18,6 +20,8 @@ def build_script(research_insights: dict, perf: dict, profile_data: dict):
 
     Posts top (ejemplos breves):
     {top_texts}
+
+    Fecha actual: {current_date}
 
     Genera una respuesta en formato JSON EXACTO con las siguientes claves:
 
