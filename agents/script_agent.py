@@ -37,7 +37,7 @@ def build_script(research_insights: dict, perf: dict, profile_data: dict):
 
     Instrucciones:
     - Puedes generar entre **1 y 4 párrafos**, según lo que consideres necesario para explicar bien la idea.
-    - Mantén un lenguaje natural, directo y profesional.
+    - Mantén un lenguaje natural, directo, profesional, no tienes que se tan tecnico.
     - El post completo debe tener entre **300 palabras** máximo.
     - Los hashtags deben ser relevantes al tema del post (tecnología, IA, programación, liderazgo, productividad, empleo, etc.).
     - No incluyas emojis.

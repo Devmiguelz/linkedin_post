@@ -1,0 +1,217 @@
+{
+  "profile": {
+    "name": "Miguel Zambrano Herrera",
+    "headline": "Software Engineer | C# | .NET | Python | Integration IA | Angular | SQL | Scrum | Azure | Git",
+    "location": "Colombia",
+    "followers": 988,
+    "connections": "500+",
+    "current_company": "PersonalSoft",
+    "education": "Universidad Simón Bolívar",
+    "job_search": true,
+    "desired_positions": [
+      "Desarrollador de .NET",
+      "Senior Software Developer",
+      "Ingeniero de Software",
+      "Programador Full Stack"
+    ],
+    "about": "Ingeniero de software con más de 7 años de experiencia en el desarrollo de aplicaciones web robustas y escalables. Comprometido con la escritura de código limpio, mantenible y bien documentado, siguiendo las mejores prácticas y patrones de diseño, y con habilidades en el diseño y optimización de bases de datos relacionales. Fascinado por los nuevos desafíos de la web y cómo podemos utilizarlos para construir mejores software para las personas.",
+    "skills": [
+      "C#",
+      ".NET Core",
+      "Angular",
+      "JavaScript",
+      "Spring Boot",
+      "Python",
+      "SQL",
+      "Scrum",
+      "Azure",
+      "Git"
+    ],
+    "audience": {
+      "target_roles": [
+        "Desarrolladores de software",
+        "Ingenieros de software",
+        "Líderes técnicos",
+        "Reclutadores IT",
+        "CTOs"
+      ],
+      "interests": [
+        "Desarrollo de software",
+        "Buenas prácticas de código",
+        "Arquitectura limpia",
+        "Inteligencia Artificial aplicada a software",
+        "Productividad de desarrolladores",
+        "Tendencias tecnológicas"
+      ]
+    },
+    "goals": [
+      "Mejorar visibilidad profesional",
+      "Aumentar interacción en LinkedIn",
+      "Posicionarse como experto en desarrollo .NET",
+      "Atraer oportunidades laborales y proyectos"
+    ]
+  },
+  "research": {
+    "topic": "Automatización práctica: integraciones reales con n8n, herramientas no-code y low-code",
+    "summary": "n8n is a workflow automation platform that uniquely combines AI capabilities with business process automation, giving technical teams the flexibility of ... Beyond n8n and Make, there's a thriving ecosystem of tools that automate workflows, integrate APIs, and orchestrate data — ranging from ... In this video I'm going to show you exactly how to create AI Agents from scratch without any coding backgrounds needed. See how a beginner tackled Automation with n8n. Learn how No-Code Workflow tools can unlock fast results—even with no coding background. Explore the top N8N training courses available in 2025, comparing free and paid options to help you master workflow automation effectively.",
+    "sources": [
+      {
+        "title": "AI Workflow Automation Platform & Tools - n8n",
+        "link": "https://n8n.io/",
+        "snippet": "n8n is a workflow automation platform that uniquely combines AI capabilities with business process automation, giving technical teams the flexibility of ..."
+      },
+      {
+        "title": "The 2025 Landscape of No-Code/Low-Code Automation ...",
+        "link": "https://medium.com/@jewelhuq/the-2025-landscape-of-no-code-low-code-automation-best-n8n-make-alternatives-when-to-use-them-19647be1f0e2",
+        "snippet": "Beyond n8n and Make, there's a thriving ecosystem of tools that automate workflows, integrate APIs, and orchestrate data — ranging from ..."
+      },
+      {
+        "title": "No-Code AI Agents: Automate with n8n & OpenAI (2025 Guide)",
+        "link": "https://m.youtube.com/watch?v=kHcJwoO5CUQ&pp=0gcJCYsJAYcqIYzv",
+        "snippet": "In this video I'm going to show you exactly how to create AI Agents from scratch without any coding backgrounds needed."
+      },
+      {
+        "title": "No-Code Workflow Automation with n8n from Scratch",
+        "link": "https://hatchworks.com/blog/ai-agents/no-code-workflow-automation-with-n8n/",
+        "snippet": "See how a beginner tackled Automation with n8n. Learn how No-Code Workflow tools can unlock fast results—even with no coding background."
+      },
+      {
+        "title": "Best N8N Training Courses 2025: 12 Learning Options ...",
+        "link": "https://latenode.com/blog/best-n8n-training-courses-2025-12-learning-options-reviewed-realistic-expectations",
+        "snippet": "Explore the top N8N training courses available in 2025, comparing free and paid options to help you master workflow automation effectively."
+      },
+      {
+        "title": "No-Code vs Low-Code – Where n8n Fits In",
+        "link": "https://www.hashstudioz.com/blog/no-code-vs-low-code-where-n8n-fits-in/",
+        "snippet": "According to Gartner, by 2025, 70% of new enterprise applications will be developed using no-code vs low-code technologies."
+      },
+      {
+        "title": "Top No-Code Workflow Automation Platforms in 2025",
+        "link": "https://www.nocodefinder.com/categories/automation",
+        "snippet": "No-code automation platforms are tools that allow you to create and manage automated workflows between different applications without writing any code."
+      },
+      {
+        "title": "7 Best n8n Alternatives in 2025 [Detailed Expert Comparison]",
+        "link": "https://www.intuz.com/blog/top-n8n-alternatives",
+        "snippet": "1. Zapier. Zapier is perhaps the most well-known no-/low-code automation platform. · 2. Make (formerly Integromat). Make is a visual, low-code/no ..."
+      },
+      {
+        "title": "¿Qué es n8n? La herramienta de automatización que está ...",
+        "link": "https://www.mentorestech.com/resource-blog-content/que-es-n8n-la-herramienta-de-automatizacion-que-esta-transformando-como-trabajamos-con-tecnologia",
+        "snippet": "n8n es una plataforma de automatización de flujos de trabajo open source que te permite conectar cientos de servicios, herramientas y APIs, ..."
+      },
+      {
+        "title": "Curso de Automatizaciones con n8n",
+        "link": "https://platzi.com/cursos/n8n-lowcode/",
+        "snippet": "Aprende a identificar, diseñar y ejecutar workflows en n8n Cloud usando un enfoque low-code, optimizando procesos y reduciendo tareas ..."
+      },
+      {
+        "title": "15 ejemplos de flujo de trabajo N8N 2025: Plantillas de ...",
+        "link": "https://latenode.com/es/blog/15-n8n-workflow-examples-2025-real-automation-templates-implementation-analysis",
+        "snippet": "Aprenda a crear agentes de IA y automatizar negocios sin código. 15 ejemplos de flujo de trabajo N8N 2025: Plantillas de automatización reales + ..."
+      },
+      {
+        "title": "Make X N8N X Zapier: las mejores herramientas de ...",
+        "link": "https://nocodestartup.io/es/haga-que-x-n8n-x-zapier-x-buildship-sean-las-mejores-herramientas-de-automatizacion/?conversion=isca-dify",
+        "snippet": "Aprenda cómo ganar dinero en el mercado de IA y NoCode, creando agentes de IA, software y aplicaciones de IA y automatizaciones de IA."
+      },
+      {
+        "title": "Top 10 alternativas a n8n en 2025",
+        "link": "https://www.gptbots.ai/es_ES/blog/n8n-alternatives",
+        "snippet": "Pipedream es una plataforma de automatización low-code/pro-code que permite crear aplicaciones potentes conectando bases de datos, IA, APIs y ..."
+      },
+      {
+        "title": "n8n: Qué es, cómo funciona y por qué usarlo en 2025",
+        "link": "https://www.nocodehackers.es/herramientas-no-code/n8n",
+        "snippet": "n8n es una plataforma No-code que se integra con +400 aplicaciones para crear automatizaciones que te permitan escalar las operaciones de tu empresa. Es una ..."
+      },
+      {
+        "title": "AI Workflow Automation Platform & Tools - n8n",
+        "link": "https://n8n.io/",
+        "snippet": "n8n is a workflow automation platform that uniquely combines AI capabilities with business process automation, giving technical teams the flexibility of ..."
+      },
+      {
+        "title": "No-Code vs Low-Code – Where n8n Fits In",
+        "link": "https://www.hashstudioz.com/blog/no-code-vs-low-code-where-n8n-fits-in/",
+        "snippet": "Custom Code Capabilities: Unlike traditional no-code platforms, n8n allows users to write JavaScript to extend the functionality of workflows."
+      },
+      {
+        "title": "3 reasons why companies should adopt NoCode (and how ...",
+        "link": "https://blog.n8n.io/reasons-why-companies-should-adopt-nocode-and-how-to-get-started/",
+        "snippet": "1. NoCode empowers non-technical people to implement their ideas. You probably know this from yourself, or from conversations with other people ..."
+      },
+      {
+        "title": "Ahora se puede hacer con N8n, una herramienta No-Code ...",
+        "link": "https://www.youtube.com/watch?v=vrq08YIaxAs",
+        "snippet": "Ahora se puede hacer con N8n, una herramienta No-Code que usamos en nuestra consultora para crear sistemas de cold outreach automatizado."
+      },
+      {
+        "title": "n8n Makes AI Easy: Explore Automation with Low Code Use",
+        "link": "https://croz.net/n8n-makes-ai-easy-explore-automation-with-low-code-use/",
+        "snippet": "AI Workflow automation platforms let you visually design workflows that connect data sources, APIs, AI models, and business processes, with minimal or no code."
+      },
+      {
+        "title": "Curso de Automatizaciones con n8n",
+        "link": "https://platzi.com/cursos/n8n-lowcode/",
+        "snippet": "Aprende a identificar, diseñar y ejecutar workflows en n8n Cloud usando un enfoque low-code, optimizando procesos y reduciendo tareas ..."
+      }
+    ]
+  },
+  "performance": {
+    "top_posts": [],
+    "avg_length": 0,
+    "common_words": [],
+    "counts": 0
+  },
+  "script": {
+    "title": "¿Estás listo para automatizar tu flujo de trabajo sin escribir una sola línea de código?",
+    "structure": [
+      "En el mundo actual, la automatización de procesos se ha convertido en una necesidad para las empresas que buscan eficiencia y productividad. Herramientas como n8n permiten a los equipos técnicos integrar capacidades de inteligencia artificial con la automatización de procesos empresariales, facilitando la creación de flujos de trabajo complejos sin necesidad de ser un experto en programación.",
+      "Imagina poder orquestar datos y automatizar tareas repetitivas de manera sencilla. No necesitas ser un desarrollador para comenzar; existen recursos de formación accesibles que pueden guiarte desde los conceptos básicos hasta la creación de agentes de IA personalizados. Desde cursos gratuitos hasta opciones más avanzadas, el ecosistema de herramientas de automatización está creciendo rápidamente, ofreciendo oportunidades para todos.",
+      "La clave está en dar el primer paso. Si eres un desarrollador de software o un líder técnico, explorar estas herramientas puede abrir la puerta a nuevas formas de optimizar tus proyectos. No solo mejorarás la eficiencia de tu equipo, sino que también podrás dedicar más tiempo a la innovación y a resolver problemas complejos."
+    ],
+    "cta": "¡Comienza tu viaje hacia la automatización hoy mismo!",
+    "tone": "profesional",
+    "recommended_length_chars": 200,
+    "hashtags": [
+      "#Automatización",
+      "#IA",
+      "#DesarrolloDeSoftware",
+      "#Productividad",
+      "#Tecnología"
+    ],
+    "promt_for_image": "Una ilustración que representa la automatización de flujos de trabajo con herramientas de IA, mostrando gráficos y conexiones entre diferentes procesos."
+  },
+  "hooks": [
+    {
+      "id": 65,
+      "hook": "¿Qué herramienta no puede faltar en tu stack diario?",
+      "similarity": 0.43879248446489705,
+      "meta": {
+        "id": 65,
+        "category": "Question",
+        "hook_text": "¿Qué herramienta no puede faltar en tu stack diario?"
+      }
+    },
+    {
+      "id": 40,
+      "hook": "Lo que aprendí construyendo software para clientes reales.",
+      "similarity": 0.42155791377902285,
+      "meta": {
+        "id": 40,
+        "category": "Experience",
+        "hook_text": "Lo que aprendí construyendo software para clientes reales."
+      }
+    },
+    {
+      "id": 52,
+      "hook": "5 herramientas que mejoraron mi productividad como desarrollador.",
+      "similarity": 0.41376248069608523,
+      "meta": {
+        "id": 52,
+        "category": "Value",
+        "hook_text": "5 herramientas que mejoraron mi productividad como desarrollador."
+      }
+    }
+  ]
+}

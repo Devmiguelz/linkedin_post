@@ -45,21 +45,24 @@ def main():
     )
 
     temas = [
-        "Tendencias tecnológicas 2025-2026: lenguajes, frameworks y paradigmas emergentes",
-        "Diseño de software escalable: arquitecturas limpias, DDD y buen dominio técnico",
-        "Automatización práctica: integraciones reales con n8n, herramientas no-code y low-code",
-        "Desarrollo híbrido: combinar .NET, Python y otros stacks en soluciones modernas",
-        "Agentes autónomos e IA multimodal como asistentes del sistema",
-        "Copilots e IA generativa integrados en el ciclo de vida del software (CI/CD, QA, monitoreo)",
-        "Productividad del desarrollador: scripts, automatización y uso estratégico de IA",
-        "Equipos inteligentes: Scrum 2.0, colaboración híbrida y herramientas de apoyo",
-        "Carreras tech 2026: nuevos roles, habilidades y estrategias de preparación",
-        "Branding personal para ingenieros: autoridad, nicho y visibilidad en mercados competitivos",
-        "Del código manual a la orquestación: evolución del desarrollo de software",
-        "Ecosistema moderno: contenedores, microservicios, serverless y nube como estándar",
-        "No-code vs código: criterios para elegir, límites, casos de éxito",
-        "Tecnología con propósito: emprendimiento responsable, software sostenible y ética tech",
-        "Historias de software: narrativas de startups, fracasos, pivot y éxito tecnológico"
+        # 🚀 Tendencias y aspiraciones
+        "Tendencias tecnológicas 2025-2026: lenguajes, frameworks y paradigmas que marcarán la próxima ola",
+        "Arquitectura limpia y DDD moderno: ¿realmente escalable o exceso de complejidad?",
+        "Automatización práctica: cómo integrar n8n y herramientas no-code sin perder control técnico",
+        "Desarrollo híbrido .NET + Python: cómo combinar ecosistemas sin duplicar esfuerzos",
+        "Agentes autónomos e IA multimodal: casos reales y riesgos de su adopción prematura",
+        "Productividad del desarrollador en 2026: IA, scripts y automatización como ventaja competitiva",
+        "Historias de software: éxitos y fracasos reales de startups tecnológicas",
+        "Tecnología con propósito: emprendimientos sostenibles y ética en la era de la automatización",
+
+        # ⚖️ Temas críticos y debates
+        "¿Puede n8n o herramientas no-code sostener software de gran escala? Análisis de costos y límites",
+        "El mito de la IA que reemplaza desarrolladores: ¿productividad o dependencia?",
+        "Microservicios vs Monolitos modernos: ¿qué arquitectura tiene más sentido en 2026?",
+        "Copilots e IA generativa: ¿mejoran la calidad del código o crean deuda técnica invisible?",
+        "Scrum 2.0 y equipos híbridos con IA: ¿más eficiencia o más burocracia digital?",
+        "Cloud y costos ocultos: cómo evitar sorpresas en proyectos medianos y grandes",
+        "No-code vs código tradicional: ¿democratización o pérdida de control?"
     ]
     selected_topic = ""
     if tema_choice == "Automático":
