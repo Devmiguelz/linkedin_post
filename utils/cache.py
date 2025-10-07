@@ -1,19 +1,26 @@
 # utils/cache.py
 import os
 import json
+import re
 import time
 from pathlib import Path
 
 CACHE_DIR = os.getenv("CACHE_DIR", "./.cache")
 Path(CACHE_DIR).mkdir(parents=True, exist_ok=True)
 
+def sanitize_filename(name):
+    # Reemplaza todos los caracteres inválidos por "_"
+    return re.sub(r'[\\/*?:"<>|]', "_", name)
+
 def save_cache(key, data):
-    path = os.path.join(CACHE_DIR, f"{key}.json")
+    name_file = sanitize_filename(key)
+    path = os.path.join(CACHE_DIR, f"{name_file}.json")
     with open(path, "w", encoding="utf-8") as f:
         json.dump({"ts": time.time(), "data": data}, f, ensure_ascii=False, indent=2)
 
 def load_cache(key, ttl_seconds=None):
-    path = os.path.join(CACHE_DIR, f"{key}.json")
+    name_file = sanitize_filename(key)
+    path = os.path.join(CACHE_DIR, f"{name_file}.json")
     if not os.path.exists(path):
         return None
     with open(path, "r", encoding="utf-8") as f:

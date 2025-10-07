@@ -1,0 +1,216 @@
+{
+  "profile": {
+    "name": "Miguel Zambrano Herrera",
+    "headline": "Software Engineer | C# | .NET | Python | Integration IA | Angular | SQL | Scrum | Azure | Git",
+    "location": "Colombia",
+    "followers": 988,
+    "connections": "500+",
+    "current_company": "PersonalSoft",
+    "education": "Universidad Simón Bolívar",
+    "job_search": true,
+    "desired_positions": [
+      "Desarrollador de .NET",
+      "Senior Software Developer",
+      "Ingeniero de Software",
+      "Programador Full Stack"
+    ],
+    "about": "Ingeniero de software con más de 7 años de experiencia en el desarrollo de aplicaciones web robustas y escalables. Comprometido con la escritura de código limpio, mantenible y bien documentado, siguiendo las mejores prácticas y patrones de diseño, y con habilidades en el diseño y optimización de bases de datos relacionales. Fascinado por los nuevos desafíos de la web y cómo podemos utilizarlos para construir mejores software para las personas.",
+    "skills": [
+      "C#",
+      ".NET Core",
+      "Angular",
+      "JavaScript",
+      "Spring Boot",
+      "Python",
+      "SQL",
+      "Scrum",
+      "Azure",
+      "Git"
+    ],
+    "audience": {
+      "target_roles": [
+        "Desarrolladores de software",
+        "Ingenieros de software",
+        "Líderes técnicos",
+        "Reclutadores IT",
+        "CTOs"
+      ],
+      "interests": [
+        "Desarrollo de software",
+        "Buenas prácticas de código",
+        "Arquitectura limpia",
+        "Inteligencia Artificial aplicada a software",
+        "Productividad de desarrolladores",
+        "Tendencias tecnológicas"
+      ]
+    },
+    "goals": [
+      "Mejorar visibilidad profesional",
+      "Aumentar interacción en LinkedIn",
+      "Posicionarse como experto en desarrollo .NET",
+      "Atraer oportunidades laborales y proyectos"
+    ]
+  },
+  "research": {
+    "topic": "hablemos un poco de una alternativa de N8N sim, repo: https://github.com/simstudioai/sim",
+    "summary": "This starts both the main Next.js application and the realtime socket server required for full functionality. Alternative - run servers separately: Next.js app ... Enter Sim Studio an elegant, open-source AI agent workflow builder that changes the game. Sim Studio offers a lightweight yet powerful interface ... Meet Sim AI – the open-source alternative to n8n that makes creating AI agents easier than ever! With a simple drag-and-drop interface, Sim ...",
+    "sources": [
+      {
+        "title": "Open-source platform to build and deploy AI agent workflows.",
+        "link": "https://github.com/simstudioai/sim",
+        "snippet": "This starts both the main Next.js application and the realtime socket server required for full functionality. Alternative - run servers separately: Next.js app ..."
+      },
+      {
+        "title": "N8N Alternative — Open-Source AI Agent Workflow Builder",
+        "link": "https://xthemadgenius.medium.com/n8n-alternative-open-source-ai-agent-workflow-builder-a7fd885c024b",
+        "snippet": "Enter Sim Studio an elegant, open-source AI agent workflow builder that changes the game. Sim Studio offers a lightweight yet powerful interface ..."
+      },
+      {
+        "title": "Sim AI: Easily Create AI Agents That Can Automate Anything ...",
+        "link": "https://www.youtube.com/watch?v=_Mr-mga_hG4",
+        "snippet": "Meet Sim AI – the open-source alternative to n8n that makes creating AI agents easier than ever! With a simple drag-and-drop interface, Sim ..."
+      },
+      {
+        "title": "SimStudio for AI and Agentic workflows - alternative to n8n, ...",
+        "link": "https://forum.cloudron.io/topic/13828/simstudio-for-ai-and-agentic-workflows-alternative-to-n8n-langchain-langflow-flowise",
+        "snippet": "Sim Studio is a powerful platform for building, testing, and optimizing agentic workflows. It provides developers with intuitive tools to design sophisticated ..."
+      },
+      {
+        "title": "Discover Sim: An Open-Source Alternative to n8n for AI ...",
+        "link": "https://www.linkedin.com/posts/akshay-pachaar_i-found-a-100-open-source-alternative-to-activity-7366826262352285696-_WzZ",
+        "snippet": "I found a 100% open-source alternative to n8n! (it runs locally, powered by local LLMs) Sim is a drag-and-drop UI for creating powerful AI ..."
+      },
+      {
+        "title": "Is Sim AI the Game Changing Alternative to n8n You've Been ...",
+        "link": "https://www.youtube.com/watch?v=EkC9Cnp2UlA",
+        "snippet": "The thing about this new no code platform is that you can actually create entire workflows by just asking a copilot to do that for you."
+      },
+      {
+        "title": "Sehaj Singh",
+        "link": "https://x.com/heysehajsingh/status/1973807566938649025",
+        "snippet": "This is completely 100% open-source alternative to n8n! Sim is a tool you can use to build things by dragging and dropping."
+      },
+      {
+        "title": "NEW Sim AI compare to N8N → Quantum and You",
+        "link": "https://meta-quantum.today/?p=7977",
+        "snippet": "SIM AI is an open-source, visual workflow builder specifically designed for AI agents, backed by Y Combinator and used by 20000+ developers ..."
+      },
+      {
+        "title": "Open-source platform to build and deploy AI agent workflows.",
+        "link": "https://github.com/simstudioai/sim",
+        "snippet": "This starts both the main Next.js application and the realtime socket server required for full functionality. Alternative - run servers separately: Next.js app ..."
+      },
+      {
+        "title": "Sim",
+        "link": "https://github.com/simstudioai",
+        "snippet": "Sim is a powerful, user-friendly platform that allows developers and agents to build, test, and optimize agentic workflows. - Sim."
+      },
+      {
+        "title": "N8N Alternative — Open-Source AI Agent Workflow Builder",
+        "link": "https://xthemadgenius.medium.com/n8n-alternative-open-source-ai-agent-workflow-builder-a7fd885c024b",
+        "snippet": "Enter Sim Studio an elegant, open-source AI agent workflow builder that changes the game. Sim Studio offers a lightweight yet powerful interface ..."
+      },
+      {
+        "title": "Sim AI: Easily Create AI Agents That Can Automate Anything ...",
+        "link": "https://www.youtube.com/watch?v=_Mr-mga_hG4",
+        "snippet": "Meet Sim AI – the open-source alternative to n8n that makes creating AI agents easier than ever! With a simple drag-and-drop interface, Sim ..."
+      },
+      {
+        "title": "Discover Sim: An Open-Source Alternative to n8n for AI ...",
+        "link": "https://www.linkedin.com/posts/akshay-pachaar_i-found-a-100-open-source-alternative-to-activity-7366826262352285696-_WzZ",
+        "snippet": "I found a 100% open-source alternative to n8n! (it runs locally, powered by local LLMs) Sim is a drag-and-drop UI for creating powerful AI ..."
+      },
+      {
+        "title": "Is Sim AI the Game Changing Alternative to n8n You've Been ...",
+        "link": "https://www.youtube.com/watch?v=EkC9Cnp2UlA",
+        "snippet": "The thing about this new no code platform is that you can actually create entire workflows by just asking a copilot to do that for you."
+      },
+      {
+        "title": "Why I Ditched N8N for This Free AI Workflow Builder (And ...",
+        "link": "https://medium.com/synthetic-futures/why-i-ditched-n8n-for-this-free-ai-workflow-builder-and-you-should-too-47db0a59c4e1",
+        "snippet": "Sim AI treats AI like the main character. Every block, every feature, every design choice is optimized for AI workflows. The difference is ..."
+      },
+      {
+        "title": "NEW Sim AI compare to N8N → Quantum and You",
+        "link": "https://meta-quantum.today/?p=7977",
+        "snippet": "SIM AI is an open-source, visual workflow builder specifically designed for AI agents, backed by Y Combinator and used by 20000+ developers ..."
+      },
+      {
+        "title": "Open-source platform to build and deploy AI agent workflows.",
+        "link": "https://github.com/simstudioai/sim",
+        "snippet": "Open-source platform to build and deploy AI agent workflows. - simstudioai/sim."
+      },
+      {
+        "title": "Is Sim AI the Game Changing Alternative to n8n You've Been ...",
+        "link": "https://www.youtube.com/watch?v=EkC9Cnp2UlA",
+        "snippet": "The thing about this new no code platform is that you can actually create entire workflows by just asking a copilot to do that for you."
+      },
+      {
+        "title": "N8N Alternative — Open-Source AI Agent Workflow Builder",
+        "link": "https://xthemadgenius.medium.com/n8n-alternative-open-source-ai-agent-workflow-builder-a7fd885c024b",
+        "snippet": "Enter Sim Studio an elegant, open-source AI agent workflow builder that changes the game. Sim Studio offers a lightweight yet powerful interface ..."
+      },
+      {
+        "title": "Sim AI: Easily Create AI Agents That Can Automate ...",
+        "link": "https://outilsnocode.com/ressources/sim-ai-easily-create-ai-agents-that-can-automate-anything-opensource-n8n-1756811723818x531872104446570900",
+        "snippet": "Meet Sim AI – the open-source alternative to n8n that makes creating AI agents easier than ever! With a simple drag-and-drop interface, Sim AI ..."
+      }
+    ]
+  },
+  "performance": {
+    "top_posts": [],
+    "avg_length": 0,
+    "common_words": [],
+    "counts": 0
+  },
+  "script": {
+    "title": "¿Cómo la inteligencia artificial puede revolucionar el desarrollo de software?",
+    "structure": [
+      "La evolución de la inteligencia artificial ha transformado múltiples industrias, y el desarrollo de software no es la excepción. Herramientas como Sim AI están facilitando la creación de agentes de IA de manera accesible y eficiente. Este tipo de soluciones no solo optimiza los procesos, sino que también permite a los desarrolladores enfocarse en aspectos más creativos y estratégicos de su trabajo.",
+      "Implementar una arquitectura limpia y seguir buenas prácticas de código se vuelve esencial en este nuevo panorama. Con el auge de plataformas que simplifican la integración de IA, los desarrolladores deben adaptarse y aprender a utilizar estas herramientas para mantenerse competitivos. Además, una correcta optimización de bases de datos relacionales es vital para asegurar el rendimiento de las aplicaciones impulsadas por IA.",
+      "El futuro del desarrollo de software está aquí, y los profesionales que abracen estos cambios estarán un paso adelante. Invertir en formación continua y estar al tanto de las tendencias tecnológicas es clave para cualquier ingeniero de software que desee sobresalir en un entorno laboral cada vez más dinámico."
+    ],
+    "cta": "Comparte tu opinión sobre el impacto de la IA en desarrollo de software.",
+    "tone": "profesional",
+    "recommended_length_chars": 200,
+    "hashtags": [
+      "#InteligenciaArtificial",
+      "#DesarrolloDeSoftware",
+      "#Tecnología",
+      "#Productividad"
+    ],
+    "promt_for_image": "Una ilustración de un desarrollador de software utilizando herramientas de inteligencia artificial en su trabajo, con gráficos de rendimiento y productividad."
+  },
+  "hooks": [
+    {
+      "id": 40,
+      "hook": "Lo que aprendí construyendo software para clientes reales.",
+      "similarity": 0.34885788075216023,
+      "meta": {
+        "id": 40,
+        "category": "Experience",
+        "hook_text": "Lo que aprendí construyendo software para clientes reales."
+      }
+    },
+    {
+      "id": 11,
+      "hook": "La mayoría de los desarrolladores fallan aquí...",
+      "similarity": 0.3239126368354233,
+      "meta": {
+        "id": 11,
+        "category": "Problem",
+        "hook_text": "La mayoría de los desarrolladores fallan aquí..."
+      }
+    },
+    {
+      "id": 31,
+      "hook": "He trabajado más de 6 años en desarrollo… esto es lo que aprendí.",
+      "similarity": 0.3229136554353215,
+      "meta": {
+        "id": 31,
+        "category": "Experience",
+        "hook_text": "He trabajado más de 6 años en desarrollo… esto es lo que aprendí."
+      }
+    }
+  ]
+}

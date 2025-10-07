@@ -1,0 +1,216 @@
+{
+  "profile": {
+    "name": "Miguel Zambrano Herrera",
+    "headline": "Software Engineer | C# | .NET | Python | Integration IA | Angular | SQL | Scrum | Azure | Git",
+    "location": "Colombia",
+    "followers": 988,
+    "connections": "500+",
+    "current_company": "PersonalSoft",
+    "education": "Universidad Simón Bolívar",
+    "job_search": true,
+    "desired_positions": [
+      "Desarrollador de .NET",
+      "Senior Software Developer",
+      "Ingeniero de Software",
+      "Programador Full Stack"
+    ],
+    "about": "Ingeniero de software con más de 7 años de experiencia en el desarrollo de aplicaciones web robustas y escalables. Comprometido con la escritura de código limpio, mantenible y bien documentado, siguiendo las mejores prácticas y patrones de diseño, y con habilidades en el diseño y optimización de bases de datos relacionales. Fascinado por los nuevos desafíos de la web y cómo podemos utilizarlos para construir mejores software para las personas.",
+    "skills": [
+      "C#",
+      ".NET Core",
+      "Angular",
+      "JavaScript",
+      "Spring Boot",
+      "Python",
+      "SQL",
+      "Scrum",
+      "Azure",
+      "Git"
+    ],
+    "audience": {
+      "target_roles": [
+        "Desarrolladores de software",
+        "Ingenieros de software",
+        "Líderes técnicos",
+        "Reclutadores IT",
+        "CTOs"
+      ],
+      "interests": [
+        "Desarrollo de software",
+        "Buenas prácticas de código",
+        "Arquitectura limpia",
+        "Inteligencia Artificial aplicada a software",
+        "Productividad de desarrolladores",
+        "Tendencias tecnológicas"
+      ]
+    },
+    "goals": [
+      "Mejorar visibilidad profesional",
+      "Aumentar interacción en LinkedIn",
+      "Posicionarse como experto en desarrollo .NET",
+      "Atraer oportunidades laborales y proyectos"
+    ]
+  },
+  "research": {
+    "topic": "Agentes autónomos e IA multimodal: casos reales y riesgos de su adopción prematura",
+    "summary": "Para 2025, la narrativa de innovación dominante es el agente de IA. Pero, ¿qué podemos esperar de manera realista de la IA agéntica en 2025 y cómo afectará ... Descubre cómo los agentes IA autónomos están transformando las pymes españolas en 2025. El 89% de directivos planea implementarlos y el 83% ya ve aumentos en ... La Encuesta sobre actitudes ante la adopción y el riesgo de la IA de 2025 identificó un cambio en la actitud hacia la IA de los líderes empresariales a nivel ... El estudio “Madurez de TI para la adopción de IA 2025” identificó patrones de uso, retos y oportunidades en Latinoamérica que pueden ...",
+    "sources": [
+      {
+        "title": "Los agentes de IA en 2025: expectativas frente a la realidad",
+        "link": "https://www.ibm.com/mx-es/think/insights/ai-agents-2025-expectations-vs-reality",
+        "snippet": "Para 2025, la narrativa de innovación dominante es el agente de IA. Pero, ¿qué podemos esperar de manera realista de la IA agéntica en 2025 y cómo afectará ..."
+      },
+      {
+        "title": "Top 5 Casos de Uso de Agentes de IA para Empresas en ...",
+        "link": "https://www.tubot.es/post/top-5-casos-de-uso-de-agentes-de-ia-para-empresas-en-2025",
+        "snippet": "Descubre cómo los agentes IA autónomos están transformando las pymes españolas en 2025. El 89% de directivos planea implementarlos y el 83% ya ve aumentos en ..."
+      },
+      {
+        "title": "Encuesta 2025 sobre las actitudes hacia la adopción y el ...",
+        "link": "https://www.ajg.com/co/noticias-y-perspectivas/features/2025-attitudes-to-ai-adoption-and-risk-benchmarking-survey/",
+        "snippet": "La Encuesta sobre actitudes ante la adopción y el riesgo de la IA de 2025 identificó un cambio en la actitud hacia la IA de los líderes empresariales a nivel ..."
+      },
+      {
+        "title": "Intel e IDC revelan el estado de adopción de la inteligencia ...",
+        "link": "https://www.itwarelatam.com/2025/09/12/intel-e-idc-revelan-el-estado-de-adopcion-de-la-inteligencia-artificial-y-sus-principales-retos-en-latinoamerica/",
+        "snippet": "El estudio “Madurez de TI para la adopción de IA 2025” identificó patrones de uso, retos y oportunidades en Latinoamérica que pueden ..."
+      },
+      {
+        "title": "Agentes de IA en 2025: expectativas frente a realidad",
+        "link": "https://www.ibm.com/es-es/think/insights/ai-agents-2025-expectations-vs-reality",
+        "snippet": "\"Ahora mismo estamos viendo los primeros indicios: los agentes de IA ya son capaces de analizar datos, predecir tendencias y automatizar flujos de trabajo, ..."
+      },
+      {
+        "title": "Tendencias del mercado global de IA y agentes autónomos",
+        "link": "https://www.researchnester.com/es/reports/autonomous-ai-and-autonomous-agents-market/5948",
+        "snippet": "En 2025, el tamaño de la industria de IA y agentes autónomos se estima en USD 10.510 millones. El crecimiento del mercado ..."
+      },
+      {
+        "title": "7 ejemplos de agentes de IA de próxima generación en 2025",
+        "link": "https://www.expertise.ai/es/blog/ai-agent-examples",
+        "snippet": "Vehículos autónomos como los coches Tesla son ejemplos perfectos de agentes de IA en acción. Recopilan datos de sensores, comprenden las condiciones del ..."
+      },
+      {
+        "title": "Tamaño del mercado de IA y agentes autónomos, 2025-2034",
+        "link": "https://www.gminsights.com/es/industry-analysis/autonomous-ai-and-autonomous-agents-market",
+        "snippet": "El tamaño de mercado de la IA autónoma global y los agentes autónomos fue valorado en USD 6.800 millones en 2024 y se calcula que registrará una CAGR de 30,3% ..."
+      },
+      {
+        "title": "Agentes de IA autónomos y sistemas multimodales",
+        "link": "https://www.guideglare.com/es/plataforma/chat-ia/futuro-de-la-ia-conversacional/agentes-autonomos-ia-multimodal",
+        "snippet": "Una tendencia de desarrollo paralela que transforma la inteligencia artificial conversacional es la evolución hacia sistemas totalmente multimodales, que operan ..."
+      },
+      {
+        "title": "10 casos reales de agentes de inteligencia artificial que ...",
+        "link": "https://botpress.com/es/blog/ai-agent-case-study",
+        "snippet": "Los agentes de IA automatizan los flujos de trabajo, realizan análisis de datos y toman decisiones de forma autónoma, ahorrando a las ..."
+      },
+      {
+        "title": "Agentes de IA: 'the next big thing' en la transformación ... - CIO",
+        "link": "https://www.cio.com/article/3977300/agentes-de-ia-the-next-big-thing-en-la-transformacion-del-negocio.html",
+        "snippet": "Los agentes son sistemas que pueden operar de manera independiente, adaptarse en tiempo real a los cambios de contexto y tomar decisiones ..."
+      },
+      {
+        "title": "Agentes autónomos de IA | Baufest",
+        "link": "https://baufest.com/agentes-autonomos-ia/",
+        "snippet": "En esencia, los agentes de IA son entidades de software capaces de percibir su entorno, procesar datos y actuar para alcanzar objetivos ..."
+      },
+      {
+        "title": "Agentes IA Autónomos: La Revolución Silenciosa que Está ...",
+        "link": "https://www.tubot.es/post/agentes-ia-autonomos-revolucion-pymes-espanolas-2025",
+        "snippet": "A diferencia de contratar más personal, los agentes IA se adaptan instantáneamente a picos de demanda, permitiendo a las pymes competir con empresas mucho más ..."
+      },
+      {
+        "title": "Agentes de IA: seis casos de uso prometedores para las ... - CIO",
+        "link": "https://www.cio.com/article/3607079/agentes-de-ia-seis-casos-de-uso-prometedores-para-las-empresas.html",
+        "snippet": "Los agentes de IA se integrarán sin problemas con los sistemas ERP, CRM e inteligencia empresarial para automatizar los flujos de trabajo, ..."
+      },
+      {
+        "title": "13.04.25: Agentes de IA Autónomos y su Impacto en la ...",
+        "link": "https://www.humanandnonhumancommunicationlab.com/post/agentes-de-ia-aut%C3%B3nomos-y-su-impacto-en-la-sociedad-contempor%C3%A1nea",
+        "snippet": "En el umbral de la tercera década del siglo XXI, la inteligencia artificial (IA) ha dejado de ser una promesa futurista para convertirse en ..."
+      },
+      {
+        "title": "Agentes Autónomos IA: La silenciosa revolución que esta ...",
+        "link": "https://substack.com/home/post/p-164249785?utm_campaign=post&utm_medium=web",
+        "snippet": "Un Agente Autónomo de IA no es solo software inteligente. Es un sistema que percibe, razona, planifica, decide y ejecuta acciones para ..."
+      },
+      {
+        "title": "¿Por qué los agentes autónomos son el siguiente paso en la ...",
+        "link": "https://www.youtube.com/watch?v=WjJZL81mKOw",
+        "snippet": "En este webinar exploraremos cómo los agentes autónomos están transformando el mundo empresarial, desde la hiperpersonalización en la ..."
+      },
+      {
+        "title": "Agentes Autónomos IA: La silenciosa revolución que esta ...",
+        "link": "https://substack.com/home/post/p-164249785?utm_campaign=post&utm_medium=web",
+        "snippet": "Un Agente Autónomo de IA no es solo software inteligente. Es un sistema que percibe, razona, planifica, decide y ejecuta acciones para ..."
+      },
+      {
+        "title": "La próxima ola de IA ya está aquí: los agentes autónomos ...",
+        "link": "https://es-us.finanzas.yahoo.com/noticias/pr%C3%B3xima-ola-ia-agentes-aut%C3%B3nomos-210000079.html",
+        "snippet": "Un agente de IA autónomo puede interactuar con el entorno, tomar decisiones, actuar y aprender del proceso. Esto representa un cambio radical en ..."
+      },
+      {
+        "title": "Ya está aquí el primer agente autónomo de IA, pero ...",
+        "link": "https://noticias.foxnews.com/tech/first-autonomous-ai-agent-here-worth-risks",
+        "snippet": "La IA de Manus plantea riesgos aún mayores. A diferencia de la mayoría de las herramientas de IA que responden a órdenes que les das ..."
+      }
+    ]
+  },
+  "performance": {
+    "top_posts": [],
+    "avg_length": 0,
+    "common_words": [],
+    "counts": 0
+  },
+  "script": {
+    "title": "¿Está tu empresa lista para la revolución de la IA en 2025?",
+    "structure": [
+      "La IA agéntica está transformando la manera en que las pymes operan. En 2025, el 89% de los directivos planea implementar estos sistemas autónomos, y el 83% ya está viendo beneficios significativos. La pregunta es: ¿cómo está tu empresa preparándose para esta ola de innovación?",
+      "Las oportunidades son enormes, pero también lo son los retos. La Encuesta sobre actitudes ante la adopción de IA de 2025 muestra un cambio en la percepción de los líderes empresariales en Latinoamérica. Las empresas que adopten estas tecnologías no solo mejorarán su productividad, sino que también se posicionarán como líderes en sus sectores.",
+      "Como ingenieros de software, tenemos el deber de estar a la vanguardia de estas tendencias. Utilizar la IA para optimizar nuestros procesos y crear software más eficiente es fundamental. ¿Estás listo para aprovechar estas oportunidades en tu carrera?"
+    ],
+    "cta": "Comparte tus pensamientos sobre la adopción de IA en los comentarios.",
+    "tone": "profesional",
+    "recommended_length_chars": 200,
+    "hashtags": [
+      "#InteligenciaArtificial",
+      "#Innovación",
+      "#DesarrolloDeSoftware",
+      "#TransformaciónDigital"
+    ],
+    "promt_for_image": "Una imagen que represente la integración de inteligencia artificial en pymes, mostrando gráficos de crecimiento y tecnología."
+  },
+  "hooks": [
+    {
+      "id": 84,
+      "hook": "No todo necesita inteligencia artificial.",
+      "similarity": 0.42423712795621255,
+      "meta": {
+        "id": 84,
+        "category": "Contrarian",
+        "hook_text": "No todo necesita inteligencia artificial."
+      }
+    },
+    {
+      "id": 58,
+      "hook": "El error más común al aprender [tecnología] (y cómo evitarlo).",
+      "similarity": 0.3310194682694328,
+      "meta": {
+        "id": 58,
+        "category": "Value",
+        "hook_text": "El error más común al aprender [tecnología] (y cómo evitarlo)."
+      }
+    },
+    {
+      "id": 40,
+      "hook": "Lo que aprendí construyendo software para clientes reales.",
+      "similarity": 0.31432103899672775,
+      "meta": {
+        "id": 40,
+        "category": "Experience",
+        "hook_text": "Lo que aprendí construyendo software para clientes reales."
+      }
+    }
+  ]
+}

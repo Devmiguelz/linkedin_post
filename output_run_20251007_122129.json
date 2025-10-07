@@ -1,0 +1,217 @@
+{
+  "profile": {
+    "name": "Miguel Zambrano Herrera",
+    "headline": "Software Engineer | C# | .NET | Python | Integration IA | Angular | SQL | Scrum | Azure | Git",
+    "location": "Colombia",
+    "followers": 988,
+    "connections": "500+",
+    "current_company": "PersonalSoft",
+    "education": "Universidad Simón Bolívar",
+    "job_search": true,
+    "desired_positions": [
+      "Desarrollador de .NET",
+      "Senior Software Developer",
+      "Ingeniero de Software",
+      "Programador Full Stack"
+    ],
+    "about": "Ingeniero de software con más de 7 años de experiencia en el desarrollo de aplicaciones web robustas y escalables. Comprometido con la escritura de código limpio, mantenible y bien documentado, siguiendo las mejores prácticas y patrones de diseño, y con habilidades en el diseño y optimización de bases de datos relacionales. Fascinado por los nuevos desafíos de la web y cómo podemos utilizarlos para construir mejores software para las personas.",
+    "skills": [
+      "C#",
+      ".NET Core",
+      "Angular",
+      "JavaScript",
+      "Spring Boot",
+      "Python",
+      "SQL",
+      "Scrum",
+      "Azure",
+      "Git"
+    ],
+    "audience": {
+      "target_roles": [
+        "Desarrolladores de software",
+        "Ingenieros de software",
+        "Líderes técnicos",
+        "Reclutadores IT",
+        "CTOs"
+      ],
+      "interests": [
+        "Desarrollo de software",
+        "Buenas prácticas de código",
+        "Arquitectura limpia",
+        "Inteligencia Artificial aplicada a software",
+        "Productividad de desarrolladores",
+        "Tendencias tecnológicas"
+      ]
+    },
+    "goals": [
+      "Mejorar visibilidad profesional",
+      "Aumentar interacción en LinkedIn",
+      "Posicionarse como experto en desarrollo .NET",
+      "Atraer oportunidades laborales y proyectos"
+    ]
+  },
+  "research": {
+    "topic": "¿Puede n8n o herramientas no-code sostener software de gran escala? Análisis de costos y límites",
+    "summary": "N8N es un plataforma de automatización de flujo de trabajo Ofrecemos opciones de precios tanto autoalojadas como basadas en la nube. Descubre cómo integrar N8N en tus proyectos web para automatización y chatbots, incluyendo WhatsApp. #N8N #automatización #chatbots #whatsapp. Hemos analizado n8n y Make para comparar en detalle sus funciones de automatización del flujo de trabajo. Descubre cuál es mejor para ti. N8N es un Plataforma de automatización de código bajo que permite a los usuarios crear flujos de trabajo visualmente e integrar diversas API ...",
+    "sources": [
+      {
+        "title": "Precios de N8N 2025: Comparación completa de planes y ...",
+        "link": "https://latenode.com/es/blog/n8n-pricing-2025-complete-plans-comparison-hidden-costs-analysis-vs-alternatives",
+        "snippet": "N8N es un plataforma de automatización de flujo de trabajo Ofrecemos opciones de precios tanto autoalojadas como basadas en la nube."
+      },
+      {
+        "title": "Integración de N8N en Proyectos Web Eficientes",
+        "link": "https://www.tiktok.com/@erik.py/video/7534571120771517710",
+        "snippet": "Descubre cómo integrar N8N en tus proyectos web para automatización y chatbots, incluyendo WhatsApp. #N8N #automatización #chatbots #whatsapp."
+      },
+      {
+        "title": "n8n vs. Make: ¿Qué herramienta gana? (2025)",
+        "link": "https://softailed.com/es/blog/n8n-vs-make",
+        "snippet": "Hemos analizado n8n y Make para comparar en detalle sus funciones de automatización del flujo de trabajo. Descubre cuál es mejor para ti."
+      },
+      {
+        "title": "Casos de uso de N8N 2025: 25 aplicaciones reales + ...",
+        "link": "https://latenode.com/es/blog/n8n-use-cases-2025-25-real-applications-implementation-complexity-analysis",
+        "snippet": "N8N es un Plataforma de automatización de código bajo que permite a los usuarios crear flujos de trabajo visualmente e integrar diversas API ..."
+      },
+      {
+        "title": "Guia Completa de n8n | Paso a paso de cómo crear tu primer ...",
+        "link": "https://www.youtube.com/watch?v=GJIcfjOrO8E",
+        "snippet": "Guía Completa de n8n: Aprende paso a paso a crear tu primer agente automatizado. Descubre cómo integrar y automatizar tareas en tu negocio ..."
+      },
+      {
+        "title": "n8n Pricing. Todo lo que necesitas saber",
+        "link": "https://www.nocodehackers.es/post/pricing-n8n",
+        "snippet": "n8n es una de las herramientas open source más usadas para automatizar procesos sin programar. Con él puedes conectar aplicaciones y automatizar procesos ..."
+      },
+      {
+        "title": "🔧 Automatización Inteligente con n8n: Cómo una ...",
+        "link": "https://es.linkedin.com/pulse/automatizaci%C3%B3n-inteligente-con-n8n-c%C3%B3mo-una-de-c%C3%B3digo-marquez-0u02e",
+        "snippet": "¿Qué es n8n y por qué usarlo? · ✓ Es código abierto y auto-hosteable · ✓ Permite crear nodos personalizados y flujos complejos · ✓ Soporta ..."
+      },
+      {
+        "title": "Top 10 alternativas a n8n en 2025",
+        "link": "https://www.gptbots.ai/es_ES/blog/n8n-alternatives",
+        "snippet": "Buscas alternativas potentes a n8n? Descubre las mejores herramientas de automatización de flujos de trabajo para empresas en 2025, ..."
+      },
+      {
+        "title": "Por qué el no-code se rompe a gran escala : r/n8n",
+        "link": "https://www.reddit.com/r/n8n/comments/1mf9uf8/why_nocode_breaks_at_scale/?tl=es-419",
+        "snippet": "Sí, con suficiente esfuerzo, puedes escalar n8n. Pero no todos los equipos quieren ingeniárselas para sortear esos límites. Para muchos, es más ..."
+      },
+      {
+        "title": "Requisitos del sistema N8N 2025: Especificaciones ...",
+        "link": "https://latenode.com/es/blog/n8n-system-requirements-2025-complete-hardware-specs-real-world-resource-analysis",
+        "snippet": "N8N Es una plataforma de automatización que permite a los usuarios crear flujos de trabajo que conectan diversas aplicaciones y servicios."
+      },
+      {
+        "title": "n8n: Qué es, cómo funciona y por qué usarlo en 2025",
+        "link": "https://www.nocodehackers.es/herramientas-no-code/n8n",
+        "snippet": "n8n es una plataforma No-code que se integra con +400 aplicaciones para crear automatizaciones que te permitan escalar las operaciones de tu empresa. Es una ..."
+      },
+      {
+        "title": "Optimización de costos en N8N usando APIs",
+        "link": "https://www.tiktok.com/@erik.py/video/7534571293908208910",
+        "snippet": "Hablamos sobre cómo instalar Odoo como CRM de manera gratuita en tu propio VPS, reutilizando el mismo servidor que usas para otras aplicaciones ..."
+      },
+      {
+        "title": "Automatiza sin límites: Descubre n8n, la herramienta open ...",
+        "link": "https://www.youtube.com/watch?v=6iA1Ep6xAUQ",
+        "snippet": "¡Es hora de automatizar! En esta clase, te presentamos n8n, una potente herramienta open-source que te permite crear flujos de trabajo ..."
+      },
+      {
+        "title": "Top 10 alternativas a n8n en 2025",
+        "link": "https://www.gptbots.ai/es_ES/blog/n8n-alternatives",
+        "snippet": "Make, anteriormente Integromat, es una plataforma de desarrollo sin código muy intuitiva. Ofrece un editor visual para automatizar uno o varios ..."
+      },
+      {
+        "title": "Casos de uso de N8N 2025: 25 aplicaciones reales + ...",
+        "link": "https://latenode.com/es/blog/n8n-use-cases-2025-25-real-applications-implementation-complexity-analysis",
+        "snippet": "N8N es un Plataforma de automatización de código bajo que permite a los usuarios crear flujos de trabajo visualmente e integrar diversas API ..."
+      },
+      {
+        "title": "Integración de MCP y n8n: Potenciando la Automatización ...",
+        "link": "https://dataseoacademy.com/n8n-mcp/",
+        "snippet": "Gracias a MCP, los flujos de trabajo de n8n pueden incorporar la toma de decisiones impulsada por la inteligencia artificial. Esto significa que tus procesos ya ..."
+      },
+      {
+        "title": "No-Code vs Low-Code – Where n8n Fits In",
+        "link": "https://www.hashstudioz.com/blog/no-code-vs-low-code-where-n8n-fits-in/",
+        "snippet": "Custom Code Capabilities: Unlike traditional no-code platforms, n8n allows users to write JavaScript to extend the functionality of workflows."
+      },
+      {
+        "title": "n8n: La alternativa no-code para automatizar procesos de ...",
+        "link": "https://ecuador.unir.net/actualidad-unir/n8n-que-es/",
+        "snippet": "Gracias a ella, cualquier profesional puede crear flujos automatizados que optimicen tareas repetitivas, ahorren tiempo y reduzcan errores ..."
+      },
+      {
+        "title": "N8N para automatización inteligente low code | Clase Abierta",
+        "link": "https://www.youtube.com/watch?v=PkaatqU6NLA",
+        "snippet": "En esta clase abierta y gratuita, vamos a mostrarte cómo N8N, la herramienta lowcode que está liderando este año, te permite optimizar tu ..."
+      },
+      {
+        "title": "n8n: Qué es, cómo funciona y por qué usarlo en 2025",
+        "link": "https://www.nocodehackers.es/herramientas-no-code/n8n",
+        "snippet": "n8n es una plataforma No-code que se integra con +400 aplicaciones para crear automatizaciones que te permitan escalar las operaciones de tu empresa. Es una ..."
+      }
+    ]
+  },
+  "performance": {
+    "top_posts": [],
+    "avg_length": 0,
+    "common_words": [],
+    "counts": 0
+  },
+  "script": {
+    "title": "¿Estás listo para llevar la automatización de tus proyectos al siguiente nivel?",
+    "structure": [
+      "La automatización se ha convertido en un pilar esencial en el desarrollo de software. Con herramientas como N8N, los desarrolladores pueden crear flujos de trabajo visuales que integran diversas API, facilitando la creación de aplicaciones más eficientes y escalables. Imagina poder automatizar procesos, gestionar datos y crear chatbots en plataformas como WhatsApp sin necesidad de escribir miles de líneas de código. Esto no solo optimiza tiempo, sino que también reduce errores y mejora la productividad del equipo.",
+      "Comparando N8N con otras plataformas como Make, se vuelve evidente que la flexibilidad y la capacidad de personalización de N8N ofrecen ventajas significativas. Su modelo de bajo código permite a los desarrolladores, desde principiantes hasta expertos, implementar soluciones complejas sin complicaciones. En un entorno donde el tiempo y los recursos son limitados, estas herramientas se vuelven fundamentales para mantener la competitividad y responder rápidamente a las necesidades del mercado.",
+      "Para aquellos que buscan innovar en sus proyectos, explorar plataformas como N8N puede abrir nuevas puertas. La automatización no solo es una tendencia, sino una necesidad en el desarrollo moderno. ¿Estás aprovechando al máximo estas oportunidades para optimizar tu flujo de trabajo y mejorar tus proyectos?"
+    ],
+    "cta": "Comparte tu experiencia con la automatización en los comentarios.",
+    "tone": "profesional",
+    "recommended_length_chars": 200,
+    "hashtags": [
+      "#Automatización",
+      "#DesarrolloDeSoftware",
+      "#N8N",
+      "#Productividad",
+      "#IA"
+    ],
+    "promt_for_image": "Una representación visual de flujos de trabajo automatizados, con elementos como chatbots, API, y herramientas de desarrollo como N8N."
+  },
+  "hooks": [
+    {
+      "id": 65,
+      "hook": "¿Qué herramienta no puede faltar en tu stack diario?",
+      "similarity": 0.4320898682501677,
+      "meta": {
+        "id": 65,
+        "category": "Question",
+        "hook_text": "¿Qué herramienta no puede faltar en tu stack diario?"
+      }
+    },
+    {
+      "id": 64,
+      "hook": "¿Cómo gestionas tu tiempo como desarrollador?",
+      "similarity": 0.41452164985222506,
+      "meta": {
+        "id": 64,
+        "category": "Question",
+        "hook_text": "¿Cómo gestionas tu tiempo como desarrollador?"
+      }
+    },
+    {
+      "id": 40,
+      "hook": "Lo que aprendí construyendo software para clientes reales.",
+      "similarity": 0.4065681367049925,
+      "meta": {
+        "id": 40,
+        "category": "Experience",
+        "hook_text": "Lo que aprendí construyendo software para clientes reales."
+      }
+    }
+  ]
+}

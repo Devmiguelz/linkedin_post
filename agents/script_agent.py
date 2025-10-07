@@ -41,6 +41,9 @@ def build_script(research_insights: dict, perf: dict, profile_data: dict):
     - El post completo debe tener entre **300 palabras** máximo.
     - Los hashtags deben ser relevantes al tema del post (tecnología, IA, programación, liderazgo, productividad, empleo, etc.).
     - No incluyas emojis.
+    - Puedes mencionar rendimientos, estadisticas, costos, beneficios, etc. si es relevante.
+    - Tener en cuenta los proyectos de gran escala y su impacto.
+    - No invites a usar o probar herramientas.
     - No menciones nada sobre Perfil (voz y audiencia)
     - Tener en cuenta la fecha actual para referencias temporales.
     - No incluyas explicaciones ni comentarios adicionales fuera del JSON.
