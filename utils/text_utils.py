@@ -18,3 +18,13 @@ def extract_common_words(texts, top_n=20, stopwords=None):
     filtered = [w for w in tokens if w not in stopwords and len(w)>2]
     c = Counter(filtered)
     return c.most_common(top_n)
+
+def ask_option(prompt, options, default=None):
+    print(f"\n{prompt}")
+    for i, opt in enumerate(options, start=1):
+        print(f"{i}. {opt}")
+    while True:
+        choice = input("Seleccione una opción: ").strip()
+        if choice.isdigit() and 1 <= int(choice) <= len(options):
+            return options[int(choice)-1]
+        print("⚠️ Opción inválida, intente de nuevo.")

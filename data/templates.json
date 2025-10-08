@@ -1,0 +1,112 @@
+{
+    "templates": [
+        {
+            "id": "reflection_story",
+            "name": "Historia de reflexión",
+            "description": "Para compartir una experiencia pasada y la lección aprendida.",
+            "structure": "Recordando {Año} cuando {Experiencia}.\n↳ Aprendí:\n\n{Lección}\n\nA veces, mirar atrás es la mejor manera de avanzar."
+        },
+        {
+            "id": "growth_lessons",
+            "name": "Lecciones de crecimiento",
+            "description": "Comparte percepciones y aprendizajes clave de una experiencia.",
+            "structure": "Todo el mundo está persiguiendo el éxito... pero el verdadero crecimiento? Todo se trata de {Mensaje Central}. 🚀\n\nEsto es lo que he aprendido de {Experiencia/Acción}:\n- ➡️ {Percepción 1}\n- ➡️ {Percepción 2}\n- ➡️ {Percepción 3}\n\nRecuerda, {Percepción Concluyente}. ✨\n\nPD: Curioso... ¿qué significa {Tema} para TI? 🤔"
+        },
+        {
+            "id": "complete_guide",
+            "name": "Guía completa",
+            "description": "Ideal para explicar un proceso paso a paso o compartir conocimiento técnico.",
+            "structure": "Después de {Periodo de Tiempo} {Investigando/Trabajando en} {Tema}, he compilado una guía completa que cubre todo lo que necesitas saber:\n\nIntroducción:\n- {Breve Introducción al Tema}\n\nProceso Paso a Paso:\n1. {Paso Detallado 1}\n2. {Paso Detallado 2}\n3. {Paso Detallado 3}\n\nErrores Comunes:\n- {Error 1 y cómo evitarlo}\n- {Error 2 y cómo evitarlo}\n\nConsejos Profesionales:\n- {Consejo 1}\n- {Consejo 2}\n\nPreguntas Frecuentes:\n- {Pregunta 1 y Respuesta}\n- {Pregunta 2 y Respuesta}\n\nYa seas un {Audiencia Objetivo 1} o un {Audiencia Objetivo 2}, esta guía te llevará desde {Punto de Inicio} hasta {Meta Final}."
+        },
+        {
+            "id": "turning_point",
+            "name": "Punto de inflexión",
+            "description": "Para contar una historia de transformación personal o profesional.",
+            "structure": "Hace {Periodo de Tiempo}, estaba en {Situación}. Nunca imaginé que estaría {Resultado} hoy. 🚀\nAquí está el giro que cambió mi camino:\n\n{Momento crucial}\n\nCada contratiempo fue solo una preparación para una gran recuperación."
+        },
+        {
+            "id": "journey_summary",
+            "name": "Resumen de viaje o experiencia",
+            "description": "Para compartir aprendizajes después de un proceso.",
+            "structure": "Mi viaje con {X} ha sido revelador:\n\n1. {Expectativa inicial}\n2. {Chequeo de la realidad}\n3. {Cómo me adapté}\n\nEsta experiencia me enseñó {lección valiosa}."
+        },
+        {
+            "id": "quick_tip",
+            "name": "Consejo rápido",
+            "description": "Post breve con un consejo directo.",
+            "structure": "Consejo rápido para {Día}! 💡\n\n{Consejo breve sobre el Tema}.\n\nRápido, fácil, efectivo. ¡Inténtalo y dime cómo te va! 👇"
+        },
+        {
+            "id": "achievement_celebration",
+            "name": "Celebración de logro",
+            "description": "Para celebrar un hito y compartir aprendizajes.",
+            "structure": "Hoy estoy celebrando {logro específico o hito}!\nAsí es como se vio este viaje:\n\n• {Desafío inicial}\n• {Descubrimiento clave}\n• {Resultado}\n\nLo mejor de todo fue {Reflexión final}.\n\nSiempre mantuve mi pasión por {X}.\n\nEsto es lo que hice:\n1. {Acción 1}\n2. {Acción 2}\n3. {Acción 3}"
+        },
+        {
+            "id": "personal_story",
+            "name": "Historia personal",
+            "description": "Para contar una historia con inicio, desafío y resolución.",
+            "structure": "Aquí hay una historia que rara vez comparto:\n{Breve introducción a la historia}\n\n{La introducción}\n\n{El desafío}\n\n{La resolución}\n\nEsta historia me recuerda {moral o lección}."
+        },
+        {
+            "id": "study_tips",
+            "name": "Consejos tras estudio",
+            "description": "Para compartir consejos después de investigar o estudiar un tema.",
+            "structure": "Pasé {X}+ horas estudiando {tema} para que tú no tengas que hacerlo.\nAquí hay {X} consejos que transformarán tu {tema} en {activo valioso}:\n\n1️⃣ {Consejo 1}\n↳ Recuerda: {detalle del consejo 1}\n\n2️⃣ {Consejo 2}\n↳ Consejo profesional: {detalle consejo 2}\n\n3️⃣ {Consejo 3}\n↳ Asegúrate de {detalle consejo 3}"
+        },
+        {
+            "id": "life_journey",
+            "name": "Viaje con lecciones",
+            "description": "Narrativa larga de transformación.",
+            "structure": "{Fecha/Año}, {Ubicación} - el día que decidí {Decisión o Cambio}. Nunca anticipé los giros que vendrían.\n\n🚀 El comienzo: {Situación inicial}\n🌧️ Los desafíos: {Desafíos enfrentados}\n💡 Punto de inflexión: {Evento o realización}\n📈 Crecimiento: {Acciones y resultados}\n🏆 Lecciones:\n1. {Lección 1}\n2. {Lección 2}\n3. {Lección 3}\n\nEste viaje fue {Sentimiento Final}. Si estás en un camino similar, recuerda {Aliento}."
+        },
+        {
+            "id": "short_quote",
+            "name": "Frase reflexiva",
+            "description": "Para publicaciones cortas y reflexivas.",
+            "structure": "Una decisión de {Tema} puede cambiarlo todo. Piensa {Adjetivo}. 💭\n\n¿Alguna vez has experimentado esto?"
+        },
+        {
+            "id": "myths_busted",
+            "name": "Mitos desmentidos",
+            "description": "Para corregir conceptos erróneos comunes.",
+            "structure": "Los 5 mitos principales de {Industria} DESMENTIDOS 💥:\n\nMito: {Falsa creencia 1} – Verdad: {Realidad 1}.\nMito: {Falsa creencia 2} – Verdad: {Realidad 2}.\nMito: {Falsa creencia 3} – Verdad: {Realidad 3}.\n\n¿Tienes más mitos para desmentir?"
+        },
+        {
+            "id": "improvement_tips",
+            "name": "Consejos para mejorar",
+            "description": "Lista de consejos prácticos.",
+            "structure": "¿Buscas mejorar tu {tema}? Aquí hay {número} consejos que transformaron mi enfoque:\n\n- {Consejo 1}\n- {Consejo 2}\n- {Consejo 3}\n\nAplica estos para ver una verdadera diferencia en tu {área}. ¡Déjame saber cómo te funciona!"
+        },
+        {
+            "id": "case_study",
+            "name": "Estudio de caso",
+            "description": "Para compartir experiencias con desafío, acción y resultado.",
+            "structure": "Estudio de caso: Transformando {Problema} en {Solución} 🔄\n\n- Desafío: {Breve Desafío}\n- Acción: {Breve Acción Tomada}\n- Resultado: {Breve Resultado}\n\n¿La percepción? {Percepción Clave}.\n\n¿Has enfrentado algo similar?"
+        },
+        {
+            "id": "sacrifice_story",
+            "name": "Sacrificios del éxito",
+            "description": "Para mostrar la realidad detrás del éxito.",
+            "structure": "El éxito no se entrega; se gana a través de sacrificios:\n\n1. {Sacrificio 1}\n2. {Sacrificio 2}\n3. {Sacrificio 3}\n\nHe aprendido {Lección}. ¿Qué sacrificios has hecho tú?"
+        },
+        {
+            "id": "controversial_opinion",
+            "name": "Opinión impopular",
+            "description": "Post de opinión para generar debate.",
+            "structure": "Opinión impopular: {Tu opinión controvertida} 🚫\n\nPor qué defiendo esto:\n\n🤔 Punto Controversial: {Detalle}\n📈 Evidencia: {Evidencia}\n🔄 Alternativa: {Perspectiva Alternativa}\n\n¿Cuál es tu postura?"
+        },
+        {
+            "id": "milestone_alert",
+            "name": "Hito alcanzado",
+            "description": "Para celebrar un logro y agradecer el proceso.",
+            "structure": "🎉 ¡Alerta de Hito! 🎉\n\n¡Acabamos de alcanzar {Hito}! Esto es lo que se necesitó:\n\n{Esfuerzo 1}\n{Esfuerzo 2}\n\nMás que emocionado por lo que viene."
+        },
+        {
+            "id": "trend_post",
+            "name": "Post de tendencias",
+            "description": "Para hablar de tendencias y predicciones.",
+            "structure": "Al entrar en {Año}, exploremos las tendencias emergentes:\n\n1. {Tendencia 1}\n2. {Tendencia 2}\n3. {Tendencia 3}\n\n📈 ¿Qué tendencias estás observando?\n📉 ¿Cómo planeas adaptarte?"
+        }
+    ]
+}

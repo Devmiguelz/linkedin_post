@@ -1,0 +1,217 @@
+{
+  "profile": {
+    "name": "Miguel Zambrano Herrera",
+    "headline": "Software Engineer | C# | .NET | Python | Integration IA | Angular | SQL | Scrum | Azure | Git",
+    "location": "Colombia",
+    "followers": 988,
+    "connections": "500+",
+    "current_company": "PersonalSoft",
+    "education": "Universidad Simón Bolívar",
+    "job_search": true,
+    "desired_positions": [
+      "Desarrollador de .NET",
+      "Senior Software Developer",
+      "Ingeniero de Software",
+      "Programador Full Stack"
+    ],
+    "about": "Ingeniero de software con más de 7 años de experiencia en el desarrollo de aplicaciones web robustas y escalables. Comprometido con la escritura de código limpio, mantenible y bien documentado, siguiendo las mejores prácticas y patrones de diseño, y con habilidades en el diseño y optimización de bases de datos relacionales. Fascinado por los nuevos desafíos de la web y cómo podemos utilizarlos para construir mejores software para las personas.",
+    "skills": [
+      "C#",
+      ".NET Core",
+      "Angular",
+      "JavaScript",
+      "Spring Boot",
+      "Python",
+      "SQL",
+      "Scrum",
+      "Azure",
+      "Git"
+    ],
+    "audience": {
+      "target_roles": [
+        "Desarrolladores de software",
+        "Ingenieros de software",
+        "Líderes técnicos",
+        "Reclutadores IT",
+        "CTOs"
+      ],
+      "interests": [
+        "Desarrollo de software",
+        "Buenas prácticas de código",
+        "Arquitectura limpia",
+        "Inteligencia Artificial aplicada a software",
+        "Productividad de desarrolladores",
+        "Tendencias tecnológicas"
+      ]
+    },
+    "goals": [
+      "Mejorar visibilidad profesional",
+      "Aumentar interacción en LinkedIn",
+      "Posicionarse como experto en desarrollo .NET",
+      "Atraer oportunidades laborales y proyectos"
+    ]
+  },
+  "research": {
+    "topic": "Tendencias tecnológicas 2025-2026: lenguajes, frameworks y paradigmas que marcarán la próxima ola",
+    "summary": "Conozca las principales tendencias tecnológicas del 2025: Agentes de IA, humanos sintéticos, computación cuántica, robótica y experiencias invisibles. ¿Cuáles son las principales tendencias tecnológicas para 2025? Las principales tendencias tecnológicas para 2025 son: IA agéntica. Criptografía poscuántica. Tendencias clave en el informe Top 10 tecnologías emergentes de 2025 · Aumentar la confianza y la seguridad en nuestro mundo conectado. · Mejorar ...",
+    "sources": [
+      {
+        "title": "5 Tendencias Tecnológicas para 2025",
+        "link": "https://reports.globant.com/es/trends/tendencias-tecnologicas-2025/",
+        "snippet": "Conozca las principales tendencias tecnológicas del 2025: Agentes de IA, humanos sintéticos, computación cuántica, robótica y experiencias invisibles."
+      },
+      {
+        "title": "Las 10 principales tendencias tecnológicas estratégicas de ...",
+        "link": "https://www.gartner.es/es/articulos/principales-tendencias-tecnologicas-2025",
+        "snippet": "¿Cuáles son las principales tendencias tecnológicas para 2025? Las principales tendencias tecnológicas para 2025 son: IA agéntica. Criptografía poscuántica."
+      },
+      {
+        "title": "Las Top 10 tecnologías emergentes de 2025",
+        "link": "https://es.weforum.org/stories/2025/06/top-10-tecnologias-emergentes-2025/",
+        "snippet": "Tendencias clave en el informe Top 10 tecnologías emergentes de 2025 · Aumentar la confianza y la seguridad en nuestro mundo conectado. · Mejorar ..."
+      },
+      {
+        "title": "Top 10 tendencias tecnológicas 2025",
+        "link": "https://www.auraquantic.com/es/blog/top-tendencias-tecnologicas/",
+        "snippet": "Junto con la inteligencia viva se perfilan otras tendencias tecnológicas que moldearán el ecosistema empresarial en 2025, como modelos LAM, plataformas BOAT, ..."
+      },
+      {
+        "title": "Más allá del hype: tendencias tecnológicas que marcarán ...",
+        "link": "https://www.paradigmadigital.com/dev/mas-alla-hype-tendencias-tecnologicas-2025/",
+        "snippet": "1 La voz y los vídeos en la IA · 2 Accesibilidad: desarrollando aplicaciones inclusivas · 3 De Digital Native a AI Native: la nueva era de la IA ..."
+      },
+      {
+        "title": "Frameworks y Tecnologías 2025 para Desarrollo de ...",
+        "link": "https://ozbranding.studio/blog/frameworks-y-tecnologias-2025-para-desarrollo-de-aplicaciones-moviles-con-software-personalizadas",
+        "snippet": "Este artículo explora los frameworks más destacados, las tendencias tecnológicas emergentes y cómo el desarrollo de software personalizado ..."
+      },
+      {
+        "title": "Tendencias Tech 2025: Qué avances nos depara este año",
+        "link": "https://start.docuware.com/es/blog/tendencias-tecnologicas",
+        "snippet": "1. IA generativa · 2. La IA en el análisis predictivo · 3. Procesamiento de documentos con IA · 4. Tecnología sostenible · 5. Redes 6G."
+      },
+      {
+        "title": "Las tendencias tecnológicas que se consolidan en 2025",
+        "link": "https://www.computing.es/cio/las-tendencias-tecnologicas-que-se-consolidan-en-2025/",
+        "snippet": "Las tendencias tecnológicas que se consolidan en 2025, de las que 10 de las 13 principales registran un aumento en inversión de capital."
+      },
+      {
+        "title": "5 Tendencias Tecnológicas para 2025",
+        "link": "https://reports.globant.com/es/trends/tendencias-tecnologicas-2025/",
+        "snippet": "Conozca las principales tendencias tecnológicas del 2025: Agentes de IA, humanos sintéticos, computación cuántica, robótica y experiencias invisibles."
+      },
+      {
+        "title": "Top 10 tendencias tecnológicas 2025",
+        "link": "https://www.auraquantic.com/es/blog/top-tendencias-tecnologicas/",
+        "snippet": "Junto con la inteligencia viva se perfilan otras tendencias tecnológicas que moldearán el ecosistema empresarial en 2025, como modelos LAM, plataformas BOAT, ..."
+      },
+      {
+        "title": "Las 10 principales tendencias tecnológicas estratégicas de ...",
+        "link": "https://www.gartner.es/es/articulos/principales-tendencias-tecnologicas-2025",
+        "snippet": "Explora las tecnologías emergentes de 2025 en nuestro informe de las principales tendencias tecnológicas y descubre cómo pueden transformar tu negocio."
+      },
+      {
+        "title": "Tendencias tecnológicas 2025: de frameworks a plataformas",
+        "link": "https://www.apd.es/tendencias-tecnologicas-2024/",
+        "snippet": "Las técnicas y metodologías tecnológicas modernas, como la agilidad, DevOps y el diseño centrado en el usuario son catalizadores cruciales para ..."
+      },
+      {
+        "title": "Tendencias Tecnológicas 2026",
+        "link": "https://kiwiseosoluciones.com/tendencias-tecnologicas-2026/",
+        "snippet": "Según SURF, los informes 2025–2026 destacan Web3, conectividad digital y entornos inmersivos como tendencias clave. Surf. En redes sociales ..."
+      },
+      {
+        "title": "Más allá del hype: tendencias tecnológicas que marcarán ...",
+        "link": "https://www.paradigmadigital.com/dev/mas-alla-hype-tendencias-tecnologicas-2025/",
+        "snippet": "1 La voz y los vídeos en la IA · 2 Accesibilidad: desarrollando aplicaciones inclusivas · 3 De Digital Native a AI Native: la nueva era de la IA ..."
+      },
+      {
+        "title": "Tendencias Tech 2025: Qué avances nos depara este año",
+        "link": "https://start.docuware.com/es/blog/tendencias-tecnologicas",
+        "snippet": "Este año, las tendencias apuestan por los avances en inteligencia artificial (IA), automatización, conectividad y sostenibilidad."
+      },
+      {
+        "title": "Frameworks y Tecnologías 2025 para Desarrollo de ...",
+        "link": "https://ozbranding.studio/blog/frameworks-y-tecnologias-2025-para-desarrollo-de-aplicaciones-moviles-con-software-personalizadas",
+        "snippet": "Este artículo explora los frameworks más destacados, las tendencias tecnológicas emergentes y cómo el desarrollo de software personalizado ..."
+      },
+      {
+        "title": "5 Tendencias Tecnológicas para 2025",
+        "link": "https://reports.globant.com/es/trends/tendencias-tecnologicas-2025/",
+        "snippet": "Conozca las principales tendencias tecnológicas del 2025: Agentes de IA, humanos sintéticos, computación cuántica, robótica y experiencias invisibles."
+      },
+      {
+        "title": "Tendencias Tecnológicas 2025: Guía para CIOs y Líderes TI",
+        "link": "https://blog.bismart.com/tendencias-tecnologia-2025",
+        "snippet": "Descubre las 10 principales tendencias tecnológicas para 2025 y cómo los CIOs y líderes TI pueden enfrentar los retos y oportunidades que estas presentan."
+      },
+      {
+        "title": "Technology Vision - Tendencias tecnológicas 2025",
+        "link": "https://www.accenture.com/mx-es/insights/technology/technology-trends-2025",
+        "snippet": "Nuestras tendencias tecnológicas exploran lo que sucede cuando la IA actúa de forma autónoma en el centro de la tecnología empresarial, habla en ..."
+      },
+      {
+        "title": "Tendencias Tecnológicas 2026",
+        "link": "https://kiwiseosoluciones.com/tendencias-tecnologicas-2026/",
+        "snippet": "El año 2026 se acerca con una oleada de innovaciones tecnológicas que prometen transformar cómo trabajamos, conectamos y protegemos la ..."
+      }
+    ]
+  },
+  "performance": {
+    "top_posts": [],
+    "avg_length": 0,
+    "common_words": [],
+    "counts": 0
+  },
+  "script": {
+    "title": "¿Estamos listos para las tendencias tecnológicas de 2025?",
+    "structure": [
+      "En un mundo donde la tecnología avanza a pasos agigantados, las tendencias emergentes para 2025, como la IA agéntica y la criptografía poscuántica, están preparando el terreno para un futuro más seguro y eficiente. Estas innovaciones no solo transformarán la manera en que desarrollamos software, sino que también redefinirán el concepto de confianza en un entorno digital cada vez más complejo.",
+      "Como ingenieros de software, es crucial que nos mantengamos actualizados con estas tendencias. La IA agéntica, por ejemplo, promete cambiar la interacción entre humanos y máquinas, permitiendo una integración más fluida y personalizada. Esto representa tanto un desafío como una oportunidad para construir aplicaciones que realmente comprendan y respondan a las necesidades de los usuarios.",
+      "La computación cuántica, aunque aún en sus primeras etapas, introduce la posibilidad de resolver problemas que antes eran insuperables. Esto podría impactar enormemente en la seguridad de nuestros sistemas y en la eficiencia de nuestras aplicaciones. Como profesionales del sector, debemos prepararnos para adaptar nuestras habilidades y métodos de trabajo a estas nuevas realidades."
+    ],
+    "cta": "¿Qué tendencias consideras que tendrán un mayor impacto en nuestra industria?",
+    "tone": "profesional",
+    "recommended_length_chars": 200,
+    "hashtags": [
+      "#Tecnología",
+      "#IA",
+      "#DesarrolloDeSoftware",
+      "#FuturoDigital",
+      "#Innovación"
+    ],
+    "promt_for_image": "Una ilustración futurista que represente la integración de inteligencia artificial y tecnología cuántica en el desarrollo de software."
+  },
+  "hooks": [
+    {
+      "id": 54,
+      "hook": "3 hábitos que transformaron mi forma de programar.",
+      "similarity": 0.49562325465096074,
+      "meta": {
+        "id": 54,
+        "category": "Value",
+        "hook_text": "3 hábitos que transformaron mi forma de programar."
+      }
+    },
+    {
+      "id": 17,
+      "hook": "Por qué seguir aprendiendo más frameworks no es la solución.",
+      "similarity": 0.4704925505099981,
+      "meta": {
+        "id": 17,
+        "category": "Problem",
+        "hook_text": "Por qué seguir aprendiendo más frameworks no es la solución."
+      }
+    },
+    {
+      "id": 52,
+      "hook": "5 herramientas que mejoraron mi productividad como desarrollador.",
+      "similarity": 0.4645472827990575,
+      "meta": {
+        "id": 52,
+        "category": "Value",
+        "hook_text": "5 herramientas que mejoraron mi productividad como desarrollador."
+      }
+    }
+  ]
+}

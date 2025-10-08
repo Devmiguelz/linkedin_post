@@ -113,42 +113,8 @@ def create_post_with_generated_image(prompt, prompts_for_images, mode="personal"
     if image_files:
         image_urn = upload_image_to_linkedin(image_files[0], author=AUTHOR_URN)
 
+    if not image_urn:
+        print("⚠️ No se pudo subir la imagen a LinkedIn.")
+        raise ValueError("No se pudo subir la imagen a LinkedIn.")
+
     return publish_linkedin_post(prompt, image_urn=image_urn, author=AUTHOR_URN)
-
-def build_post_content(script: dict) -> str:
-    """
-    Construye el contenido final del post de LinkedIn a partir del guion generado por el agente.
-    Retorna un texto listo para publicar en LinkedIn.
-    """
-    # Extraer partes del guion
-    title = script.get("title", "").strip()
-    structure = script.get("structure", [])
-    cta = script.get("cta", "").strip()
-    hashtags = script.get("hashtags", [])
-    
-    # Validar que structure sea lista
-    if isinstance(structure, list):
-        body = "\n\n".join(p.strip() for p in structure)
-    else:
-        body = str(structure).strip()
-
-    # Construir la sección de hashtags
-    if isinstance(hashtags, list) and hashtags:
-        hashtags_text = " ".join(hashtags)
-    elif isinstance(hashtags, str):
-        hashtags_text = hashtags.strip()
-    else:
-        hashtags_text = ""
-
-    # Ensamblar post completo con formato limpio
-    post_parts = [title, body]
-    
-    if cta:
-        post_parts.append(f"💬 {cta}")
-    if hashtags_text:
-        post_parts.append(hashtags_text)
-    
-    # Unir secciones con saltos de línea dobles
-    post = "\n\n".join(part for part in post_parts if part)
-
-    return post

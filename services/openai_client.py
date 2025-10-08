@@ -40,16 +40,18 @@ def embed_texts(texts, model: str = "text-embedding-3-small"):
         rng = np.random.default_rng(0)
         return rng.standard_normal((len(texts), 384))
 
-def get_trending_topic(temas):
+def get_trending_topic():
     """
     Selecciona el tema más viral del día entre la lista dada.
     """
     today = datetime.now().strftime("%Y-%m-%d")
     prompt = f"""
-    Hoy es {today}. Estos son temas tecnológicos:
-    {temas}
+    Hoy es {today}. Puedes investigar en internet y analizar
+    cuáles son los temas más virales y relevantes en LinkedIn hoy
+    enfocado en el mercado de tecnologia, noticias, software, emprendimiento y negocios
+    No tiene que estar relacionado con IA necesariamente.
 
-    Basado en las tendencias globales 2025, menciona SOLO uno
+    Basado en las tendencias globales, menciona SOLO uno
     que sea más viral y relevante hoy para publicar en LinkedIn.
     Responde SOLO con el nombre exacto del tema.
     """
