@@ -1,0 +1,211 @@
+{
+  "profile": {
+    "name": "Miguel Zambrano Herrera",
+    "headline": "Software Engineer | C# | .NET | Python | Integration IA | Angular | SQL | Scrum | Azure | Git",
+    "location": "Colombia",
+    "followers": 988,
+    "connections": "500+",
+    "current_company": "PersonalSoft",
+    "education": "Universidad Simón Bolívar",
+    "job_search": true,
+    "desired_positions": [
+      "Desarrollador de .NET",
+      "Senior Software Developer",
+      "Ingeniero de Software",
+      "Programador Full Stack"
+    ],
+    "about": "Ingeniero de software con más de 7 años de experiencia en el desarrollo de aplicaciones web robustas y escalables. Comprometido con la escritura de código limpio, mantenible y bien documentado, siguiendo las mejores prácticas y patrones de diseño, y con habilidades en el diseño y optimización de bases de datos relacionales. Fascinado por los nuevos desafíos de la web y cómo podemos utilizarlos para construir mejores software para las personas.",
+    "skills": [
+      "C#",
+      ".NET Core",
+      "Angular",
+      "JavaScript",
+      "Spring Boot",
+      "Python",
+      "SQL",
+      "Scrum",
+      "Azure",
+      "Git"
+    ],
+    "audience": {
+      "target_roles": [
+        "Desarrolladores de software",
+        "Ingenieros de software",
+        "Líderes técnicos",
+        "Reclutadores IT",
+        "CTOs"
+      ],
+      "interests": [
+        "Desarrollo de software",
+        "Buenas prácticas de código",
+        "Arquitectura limpia",
+        "Inteligencia Artificial aplicada a software",
+        "Productividad de desarrolladores",
+        "Tendencias tecnológicas"
+      ]
+    },
+    "goals": [
+      "Mejorar visibilidad profesional",
+      "Aumentar interacción en LinkedIn",
+      "Posicionarse como experto en desarrollo .NET",
+      "Atraer oportunidades laborales y proyectos"
+    ]
+  },
+  "research": {
+    "topic": "Una falla global en la nube de Amazon genera problemas a cientos de aplicaciones 20 de octubre 2025",
+    "summary": "La interrupción intermitente del servicio afectó a importantes redes sociales como Snapchat y Reddit, plataformas como Duolingo y Zoom, bancos ... El problema es que el sistema no podía ver dónde estaban plataformas como Snapchat, Canva y HMRC para dirigir el tráfico hacia ellas. Amazon afirmó que la interrupción continuó afectando a otros servicios de AWS, incluido EC2, un tipo de servidor virtual que muchas empresas ... El fallo se originó en el Sistema de Nombres de Dominio (DNS), el “libro telefónico” de internet que traduce las direcciones web que escribimos ... El fallo del servidor en España afecta a Prime Video, Alexa y Perplexity, también a BBVA, ING Direct, Movistar y Orange ... El miércoles 20 de octubre de 2025, un fallo masivo en la región US-EAST-1 de AWS impactó decenas de servicios globales.",
+    "sources": [
+      {
+        "title": "Una falla global en la nube de Amazon genera problemas ...",
+        "link": "https://www.bbc.com/mundo/articles/cly941r41w4o",
+        "snippet": "La interrupción intermitente del servicio afectó a importantes redes sociales como Snapchat y Reddit, plataformas como Duolingo y Zoom, bancos ..."
+      },
+      {
+        "title": "Qué causó la falla global en la nube de Amazon y por qué ...",
+        "link": "https://www.bbc.com/mundo/articles/cge57zllpnro",
+        "snippet": "El problema es que el sistema no podía ver dónde estaban plataformas como Snapchat, Canva y HMRC para dirigir el tráfico hacia ellas."
+      },
+      {
+        "title": "Internet sufrió otra caída masiva. ¿Por qué sigue pasando?",
+        "link": "https://cnnespanol.cnn.com/2025/10/20/ciencia/internet-otra-caida-masiva-razon-trax",
+        "snippet": "Amazon afirmó que la interrupción continuó afectando a otros servicios de AWS, incluido EC2, un tipo de servidor virtual que muchas empresas ..."
+      },
+      {
+        "title": "¿Qué causó la caída mundial de AWS? El fallo que ...",
+        "link": "https://www.usatoday.com/story/tech/2025/10/20/que-paso-con-aws-snapchat-reddit-roblox-y-fortnite-se-caen/86799536007/",
+        "snippet": "El fallo se originó en el Sistema de Nombres de Dominio (DNS), el “libro telefónico” de internet que traduce las direcciones web que escribimos ..."
+      },
+      {
+        "title": "Una caída global de la nube de Amazon provoca fallos en ...",
+        "link": "https://www.rtve.es/noticias/20251020/amazon-identifica-posible-causa-caida-su-nube-afectado-a-cientos-webs-apps-todo-mundo/16777953.shtml",
+        "snippet": "El fallo del servidor en España afecta a Prime Video, Alexa y Perplexity, también a BBVA, ING Direct, Movistar y Orange ..."
+      },
+      {
+        "title": "Todas las claves del fallo en AWS",
+        "link": "https://www.computing.es/infraestructuras/fallo-aws-20-octubre-2025-gran-corte-nube/",
+        "snippet": "El miércoles 20 de octubre de 2025, un fallo masivo en la región US-EAST-1 de AWS impactó decenas de servicios globales."
+      },
+      {
+        "title": "Una falla global en la nube de Amazon genera problemas ...",
+        "link": "https://www.bbc.com/mundo/articles/cly941r41w4o",
+        "snippet": "La interrupción intermitente del servicio afectó a importantes redes sociales como Snapchat y Reddit, plataformas como Duolingo y Zoom, bancos ..."
+      },
+      {
+        "title": "Qué causó la falla global en la nube de Amazon y por qué ...",
+        "link": "https://www.bbc.com/mundo/articles/cge57zllpnro",
+        "snippet": "Estos errores ocurren por diversas razones. Generalmente es un problema de mantenimiento o un fallo del servidor. A veces se trata de un error ..."
+      },
+      {
+        "title": "Resumen de la caída global de Amazon, Fortnite ...",
+        "link": "https://cnnespanol.cnn.com/economia/live-news/fallos-amazon-web-service-snapchat-facebook-fortnite-trax",
+        "snippet": "Una interrupción masiva de Amazon Web Services provocó la caída temporal de un número significativo de sitios y servicios de internet populares, ..."
+      },
+      {
+        "title": "Esto se sabe sobre la CAÍDA global de AWS que PARALIZÓ ...",
+        "link": "https://www.youtube.com/watch?v=IMdhYaIzLQY",
+        "snippet": "Esto se sabe sobre la CAÍDA global de AWS que PARALIZÓ apps y webs populares en todo el mundo | #LR · Comments."
+      },
+      {
+        "title": "Todas las claves del fallo en AWS",
+        "link": "https://www.computing.es/infraestructuras/fallo-aws-20-octubre-2025-gran-corte-nube/",
+        "snippet": "El miércoles 20 de octubre de 2025, un fallo masivo en la región US-EAST-1 de AWS impactó decenas de servicios globales."
+      },
+      {
+        "title": "Qué causó la falla global en la nube de Amazon y por qué ...",
+        "link": "https://es-us.noticias.yahoo.com/caus%C3%B3-falla-global-nube-amazon-171941958.html",
+        "snippet": "El problema es que el sistema no podía ver dónde estaban plataformas como Snapchat, Canva y HMRC para dirigir el tráfico hacia ellas."
+      },
+      {
+        "title": "¿Qué causó la caída mundial de AWS? El fallo que ...",
+        "link": "https://www.usatoday.com/story/tech/2025/10/20/que-paso-con-aws-snapchat-reddit-roblox-y-fortnite-se-caen/86799536007/",
+        "snippet": "El fallo se originó en el Sistema de Nombres de Dominio (DNS), el “libro telefónico” de internet que traduce las direcciones web que escribimos ..."
+      },
+      {
+        "title": "¿Qué ha pasado con AMAZON WEB SERVICIES? | EL PAÍS",
+        "link": "https://www.youtube.com/watch?v=yezuvTP4psc",
+        "snippet": "La caída mundial de Amazon Web Services deja miles de afectados por un fallo en la nube. El 20 de octubre de 2025, una interrupción masiva ..."
+      },
+      {
+        "title": "Una falla global en la nube de Amazon genera problemas ...",
+        "link": "https://www.bbc.com/mundo/articles/cly941r41w4o",
+        "snippet": "La interrupción intermitente del servicio afectó a importantes redes sociales como Snapchat y Reddit, plataformas como Duolingo y Zoom, bancos ..."
+      },
+      {
+        "title": "Qué causó la falla global en la nube de Amazon y por qué ...",
+        "link": "https://www.bbc.com/mundo/articles/cge57zllpnro",
+        "snippet": "La interrupción de los servicios de Amazon Web Services ha afectado a más de 1.000 empresas y millones de usuarios de internet."
+      },
+      {
+        "title": "¿Qué causó la caída mundial de AWS? El fallo que ...",
+        "link": "https://www.usatoday.com/story/tech/2025/10/20/que-paso-con-aws-snapchat-reddit-roblox-y-fortnite-se-caen/86799536007/",
+        "snippet": "El fallo se originó en el Sistema de Nombres de Dominio (DNS), el “libro telefónico” de internet que traduce las direcciones web que escribimos ..."
+      },
+      {
+        "title": "Internet sufrió otra caída masiva. ¿Por qué sigue pasando?",
+        "link": "https://cnnespanol.cnn.com/2025/10/20/ciencia/internet-otra-caida-masiva-razon-trax",
+        "snippet": "Jardin afirmó: “Estos problemas pueden ocurrir cuando los sistemas se sobrecargan o una parte clave de la red falla; y dado que muchos sitios ..."
+      },
+      {
+        "title": "Caída de Amazon Web Services afecta a Snapchat, Ring y ...",
+        "link": "https://abc7.com/post/caida-de-amazon-web-services-afecta-snapchat-ring-otros-servicios-en-linea/18044504/",
+        "snippet": "Usuarios de internet enfrentaron una interrupción debido a un problema en el servicio en la nube de Amazon que afectó a docenas de servicios ..."
+      },
+      {
+        "title": "Esto se sabe sobre la CAÍDA global de AWS que PARALIZÓ ...",
+        "link": "https://www.youtube.com/watch?v=IMdhYaIzLQY",
+        "snippet": "Esto se sabe sobre la CAÍDA global de AWS que PARALIZÓ apps y webs populares en todo el mundo | #LR. 10K views · 22 hours ago ...more ..."
+      }
+    ]
+  },
+  "performance": {
+    "top_posts": [],
+    "avg_length": 0,
+    "common_words": [],
+    "counts": 0
+  },
+  "script": {
+    "title": "Fallo masivo en AWS: ¿Qué implica para el futuro digital? 📊",
+    "content": "El 20 de octubre de 2025, un fallo masivo en la región US-EAST-1 de AWS interrumpió el servicio de múltiples plataformas globales, afectando no solo a redes sociales como Snapchat y Reddit, sino también a servicios críticos como Duolingo, Zoom y bancos como BBVA e ING Direct. Este incidente revela la vulnerabilidad de la infraestructura digital que sustenta nuestro día a día y los desafíos que enfrentamos en un mundo cada vez más interconectado.\n\n🔍 Puntos clave:\n- El fallo se originó en el Sistema de Nombres de Dominio (DNS), lo que impidió a los sistemas direccionar adecuadamente el tráfico hacia las plataformas afectadas.\n- Servicios de Amazon, incluyendo EC2, sufrieron interrupciones, impactando a muchas empresas que dependen de estos recursos para operar.\n- La magnitud de esta interrupción pone de manifiesto la necesidad de robustecer la resiliencia de nuestras infraestructuras digitales.\n\nEste evento nos invita a reflexionar sobre la dependencia que tenemos de ciertos proveedores de servicios en la nube y la importancia de contar con planes de contingencia. La interrupción de servicios masivos no solo afecta a empresas, sino que también tiene un impacto en la vida diaria de millones de personas. La resiliencia en la infraestructura tecnológica no es solo una ventaja competitiva, es una necesidad crítica en el entorno actual.\n\n¿Qué opinas al respecto? ¿Cómo crees que deberíamos prepararnos para futuros incidentes de este tipo?",
+    "cta": "Comparte tu opinión sobre cómo estos fallos pueden afectar a las empresas y a los usuarios.",
+    "hashtags": [
+      "#AWS",
+      "#Ciberseguridad",
+      "#Tecnología",
+      "#ResilienciaDigital",
+      "#Infraestructura"
+    ],
+    "prompt_for_image": "Una imagen que represente la interconexión de servicios digitales, con un fondo que muestre caídas de red o pantallas de error, simbolizando la fragilidad de la infraestructura tecnológica."
+  },
+  "hooks": [
+    {
+      "id": 72,
+      "hook": "Más del 60% de los desarrolladores cometen este error.",
+      "similarity": 0.4637511274801177,
+      "meta": {
+        "id": 72,
+        "category": "Data",
+        "hook_text": "Más del 60% de los desarrolladores cometen este error."
+      }
+    },
+    {
+      "id": 11,
+      "hook": "La mayoría de los desarrolladores fallan aquí...",
+      "similarity": 0.4195095076865364,
+      "meta": {
+        "id": 11,
+        "category": "Problem",
+        "hook_text": "La mayoría de los desarrolladores fallan aquí..."
+      }
+    },
+    {
+      "id": 71,
+      "hook": "El 80% de los proyectos fallan por esta razón...",
+      "similarity": 0.4183527515168836,
+      "meta": {
+        "id": 71,
+        "category": "Data",
+        "hook_text": "El 80% de los proyectos fallan por esta razón..."
+      }
+    }
+  ]
+}

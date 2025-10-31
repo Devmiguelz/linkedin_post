@@ -1,0 +1,210 @@
+{
+  "profile": {
+    "name": "Miguel Zambrano Herrera",
+    "headline": "Software Engineer | C# | .NET | Python | Integration IA | Angular | SQL | Scrum | Azure | Git",
+    "location": "Colombia",
+    "followers": 988,
+    "connections": "500+",
+    "current_company": "PersonalSoft",
+    "education": "Universidad Simón Bolívar",
+    "job_search": true,
+    "desired_positions": [
+      "Desarrollador de .NET",
+      "Senior Software Developer",
+      "Ingeniero de Software",
+      "Programador Full Stack"
+    ],
+    "about": "Ingeniero de software con más de 7 años de experiencia en el desarrollo de aplicaciones web robustas y escalables. Comprometido con la escritura de código limpio, mantenible y bien documentado, siguiendo las mejores prácticas y patrones de diseño, y con habilidades en el diseño y optimización de bases de datos relacionales. Fascinado por los nuevos desafíos de la web y cómo podemos utilizarlos para construir mejores software para las personas.",
+    "skills": [
+      "C#",
+      ".NET Core",
+      "Angular",
+      "JavaScript",
+      "Spring Boot",
+      "Python",
+      "SQL",
+      "Scrum",
+      "Azure",
+      "Git"
+    ],
+    "audience": {
+      "target_roles": [
+        "Desarrolladores de software",
+        "Ingenieros de software",
+        "Líderes técnicos",
+        "Reclutadores IT",
+        "CTOs"
+      ],
+      "interests": [
+        "Desarrollo de software",
+        "Buenas prácticas de código",
+        "Arquitectura limpia",
+        "Inteligencia Artificial aplicada a software",
+        "Productividad de desarrolladores",
+        "Tendencias tecnológicas"
+      ]
+    },
+    "goals": [
+      "Mejorar visibilidad profesional",
+      "Aumentar interacción en LinkedIn",
+      "Posicionarse como experto en desarrollo .NET",
+      "Atraer oportunidades laborales y proyectos"
+    ]
+  },
+  "research": {
+    "topic": "Historias de software: éxitos y fracasos reales de startups tecnológicas",
+    "summary": "Aquí tienes las estadísticas de startups que debes conocer, tanto si estás pensando en lanzar una startup como si ya tienes una. Así que prepárate: aquí tienes una guía con datos y experiencias reales sobre el ecosistema de startups de IA en 2025, cargada de estadísticas ... En el lado del éxito, encontramos ejemplos inspiradores de startups que han cambiado por completo nuestras vidas y cómo interactuamos con el ... Descubra las principales tendencias de desarrollo de software para 2025. Explore las últimas tecnologías y perspectivas que transformarán la ... La 16ª edición del informe anual Tech Trends, de Deloitte, detalla cómo se espera que, en los próximos años, que la IA se convierta en el ...",
+    "sources": [
+      {
+        "title": "Estadísticas de startups que debes conocer",
+        "link": "https://stripe.com/es/resources/more/startup-statistics-you-should-know",
+        "snippet": "Aquí tienes las estadísticas de startups que debes conocer, tanto si estás pensando en lanzar una startup como si ya tienes una."
+      },
+      {
+        "title": "Estadísticas clave sobre startups de IA que debes conocer ...",
+        "link": "https://thunderbit.com/es/blog/ai-startup-stats",
+        "snippet": "Así que prepárate: aquí tienes una guía con datos y experiencias reales sobre el ecosistema de startups de IA en 2025, cargada de estadísticas ..."
+      },
+      {
+        "title": "Casos de éxito y fracaso: Historias inspiradoras de startups ...",
+        "link": "https://www.todostartups.com/3/185696/casos-exito-fracaso-historias-inspiradoras-startups-exitosas-lecciones-aprendidas-lograron-despegar",
+        "snippet": "En el lado del éxito, encontramos ejemplos inspiradores de startups que han cambiado por completo nuestras vidas y cómo interactuamos con el ..."
+      },
+      {
+        "title": "Últimas 12 tendencias de desarrollo de software en 2025",
+        "link": "https://innowise.com/es/blog/top-software-development-trends/",
+        "snippet": "Descubra las principales tendencias de desarrollo de software para 2025. Explore las últimas tecnologías y perspectivas que transformarán la ..."
+      },
+      {
+        "title": "Tech Trends 2025 | Deloitte SLATAM",
+        "link": "https://www.deloitte.com/latam/es/industries/technology/perspectives/tech-trends-2025.html",
+        "snippet": "La 16ª edición del informe anual Tech Trends, de Deloitte, detalla cómo se espera que, en los próximos años, que la IA se convierta en el ..."
+      },
+      {
+        "title": "Top Tech Trends 2025: las tecnologías que marcarán el ...",
+        "link": "https://www.apd.es/top-tech-trends-tecnologias-empresarial/",
+        "snippet": "Analizamos de forma exhaustiva el Top Tech Trends 2025, identificando las tecnologías que marcarán el rumbo empresarial para este año."
+      },
+      {
+        "title": "Los peores fracasos de SaaS y lo que aprendimos de ellos",
+        "link": "https://userguiding.com/es/blog/peores-fracasos-saas",
+        "snippet": "El 90% de las startups de SaaS fracasan. En muchos sentidos, se trata de una estadística brutal. Pero el mercado puede ser aún más brutal con tu empresa, a ..."
+      },
+      {
+        "title": "Doce tendencias tecnológicas para 2025, el comienzo de ...",
+        "link": "https://elpais.com/tecnologia/2024-12-24/doce-tendencias-tecnologicas-para-2025-el-comienzo-de-la-era-de-la-convergencia.html",
+        "snippet": "Ciberseguridad. · Conectividad y móviles. · Nueva realidad. · Inteligencia artificial y agentes. La IA se va a incorporar a todos los dispositivos, ..."
+      },
+      {
+        "title": "Casos de éxito y fracaso: Historias inspiradoras de startups ...",
+        "link": "https://www.todostartups.com/3/185696/casos-exito-fracaso-historias-inspiradoras-startups-exitosas-lecciones-aprendidas-lograron-despegar",
+        "snippet": "El camino hacia el éxito de una startup está plagado de obstáculos y momentos críticos que pueden llevarla a la cima o sumirla en el fracaso. En ..."
+      },
+      {
+        "title": "Estadísticas de startups que debes conocer",
+        "link": "https://stripe.com/es/resources/more/startup-statistics-you-should-know",
+        "snippet": "¿Cuáles son las últimas estadísticas sobre tasas de éxito y fracaso de una startup? · ¿Cuáles son los motivos principales del fracaso de las ..."
+      },
+      {
+        "title": "Los peores fracasos de SaaS y lo que aprendimos de ellos",
+        "link": "https://userguiding.com/es/blog/peores-fracasos-saas",
+        "snippet": "La mayoría de las veces, un fracaso en SaaS te enseñará más sobre el éxito que una historia de éxito. Y resulta que hemos reunido algunos fracasos de empresas ..."
+      },
+      {
+        "title": "Casos de éxito de startups que han cambiado el mundo",
+        "link": "https://www.imagar.com/informatica/casos-de-exito-de-startups-que-han-cambiado-el-mundo/",
+        "snippet": "En este artículo, exploraremos algunas de las startups más exitosas y analizaremos las claves de su éxito. Uber y Airbnb son dos de los ..."
+      },
+      {
+        "title": "¿Por qué fracasan las startups en Latinoamérica?",
+        "link": "https://rockstart.com/wp-content/uploads/2023/01/Estudio-del-fracaso.pdf",
+        "snippet": "Por esto, juzgar los fracasos desde la perspectiva externa siempre será más fácil que vivir el proceso cómo fundador. Pero un fracaso o un cierre de una empresa ..."
+      },
+      {
+        "title": "¿Qué es una startup? Definición y tipos",
+        "link": "https://www.juanmerodio.com/que-es-startup/",
+        "snippet": "... éxito o el fracaso de la empresa. Pero, ¿qué entendemos exactamente ... Las historias de éxito de startups son una fuente de ..."
+      },
+      {
+        "title": "Top 20+ Podcasts para Fundadores de Startups en 2025",
+        "link": "https://blog.salesflare.com/es/top-podcasts-fundadores-de-startups",
+        "snippet": "Mixergy - Historias de startups con más de 1000 emprendedores y empresas ... fracasos de los fundadores y líderes de pensamiento más exitosos en los negocios."
+      },
+      {
+        "title": "Empresas que desaparecieron por no innovar",
+        "link": "https://iorekbs.com/empresas-que-desaparecieron-por-no-innovar/",
+        "snippet": "Empresas que desaparecieron por no innovar historias para aprender de sus errores y descubrir cómo la falta de adaptación puede llevar al fracaso ..."
+      },
+      {
+        "title": "Casos de éxito y fracaso: Historias inspiradoras de startups ...",
+        "link": "https://www.todostartups.com/3/185696/casos-exito-fracaso-historias-inspiradoras-startups-exitosas-lecciones-aprendidas-lograron-despegar",
+        "snippet": "El camino hacia el éxito de una startup está plagado de obstáculos y momentos críticos que pueden llevarla a la cima o sumirla en el fracaso. ..."
+      },
+      {
+        "title": "El éxito del fracaso: casos de discontinuidad de iniciativas ...",
+        "link": "https://www.redalyc.org/journal/212/21257589003/",
+        "snippet": "Se presenta un estudio de casos múltiples basado en historias empresariales de emprendedores de un Polo Informático en Argentina. Los resultados demuestran que ..."
+      },
+      {
+        "title": "Los 10 mejores ejemplos de empresas de SaaS que lo ...",
+        "link": "https://www.singlegrain.com/es/marketing-101/los-10-mejores-ejemplos-de-empresas-de-saas-que-lo-estan-petando/",
+        "snippet": "Inspírese en estos 10 ejemplos de empresas de SaaS que están redefiniendo el panorama tecnológico con información sobre su exitoso modelo de ..."
+      },
+      {
+        "title": "ESTUDIO COMPARATIVO DEL ÉXITO DE LAS ...",
+        "link": "https://repositorio.comillas.edu/rest/bitstreams/527728/retrieve",
+        "snippet": "Existen numerosos estudios e informes acerca de los factores de éxito y de fracaso de las startups, y como resultado de su lectura y entendimiento, elegimos ..."
+      }
+    ]
+  },
+  "performance": {
+    "top_posts": [],
+    "avg_length": 0,
+    "common_words": [],
+    "counts": 0
+  },
+  "script": {
+    "title": "Consejo rápido para el futuro de las startups! 💡",
+    "content": "Aquí tienes las estadísticas de startups que debes conocer en 2025. La inteligencia artificial está revolucionando la forma en que las startups operan y se posicionan en el mercado. Si estás pensando en lanzar una startup o ya tienes una, aprovecha el poder de la IA para mejorar tus procesos, desde el desarrollo de software hasta la optimización de la experiencia del cliente. No olvides que el 75% de las startups que utilizan IA reportan un aumento significativo en su eficiencia operativa. Rápido, fácil, efectivo. ¡Inténtalo y dime cómo te va! 👇",
+    "cta": "¿Qué estrategias estás utilizando para incorporar IA en tu startup? Comparte tus experiencias en los comentarios.",
+    "hashtags": [
+      "#Startups",
+      "#InteligenciaArtificial",
+      "#DesarrolloDeSoftware",
+      "#Innovación"
+    ],
+    "prompt_for_image": "Una gráfica que muestre el crecimiento de startups en el sector de la inteligencia artificial, con íconos de tecnología y estadísticas destacadas."
+  },
+  "hooks": [
+    {
+      "id": 40,
+      "hook": "Lo que aprendí construyendo software para clientes reales.",
+      "similarity": 0.5130422137026256,
+      "meta": {
+        "id": 40,
+        "category": "Experience",
+        "hook_text": "Lo que aprendí construyendo software para clientes reales."
+      }
+    },
+    {
+      "id": 98,
+      "hook": "Te comparto una historia corta sobre liderazgo técnico.",
+      "similarity": 0.4906186534993952,
+      "meta": {
+        "id": 98,
+        "category": "Storytelling",
+        "hook_text": "Te comparto una historia corta sobre liderazgo técnico."
+      }
+    },
+    {
+      "id": 68,
+      "hook": "¿Cuál fue tu mayor aprendizaje trabajando con [tecnología]?",
+      "similarity": 0.44137320995665025,
+      "meta": {
+        "id": 68,
+        "category": "Question",
+        "hook_text": "¿Cuál fue tu mayor aprendizaje trabajando con [tecnología]?"
+      }
+    }
+  ]
+}

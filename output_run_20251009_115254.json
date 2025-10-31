@@ -1,0 +1,211 @@
+{
+  "profile": {
+    "name": "Miguel Zambrano Herrera",
+    "headline": "Software Engineer | C# | .NET | Python | Integration IA | Angular | SQL | Scrum | Azure | Git",
+    "location": "Colombia",
+    "followers": 988,
+    "connections": "500+",
+    "current_company": "PersonalSoft",
+    "education": "Universidad Simón Bolívar",
+    "job_search": true,
+    "desired_positions": [
+      "Desarrollador de .NET",
+      "Senior Software Developer",
+      "Ingeniero de Software",
+      "Programador Full Stack"
+    ],
+    "about": "Ingeniero de software con más de 7 años de experiencia en el desarrollo de aplicaciones web robustas y escalables. Comprometido con la escritura de código limpio, mantenible y bien documentado, siguiendo las mejores prácticas y patrones de diseño, y con habilidades en el diseño y optimización de bases de datos relacionales. Fascinado por los nuevos desafíos de la web y cómo podemos utilizarlos para construir mejores software para las personas.",
+    "skills": [
+      "C#",
+      ".NET Core",
+      "Angular",
+      "JavaScript",
+      "Spring Boot",
+      "Python",
+      "SQL",
+      "Scrum",
+      "Azure",
+      "Git"
+    ],
+    "audience": {
+      "target_roles": [
+        "Desarrolladores de software",
+        "Ingenieros de software",
+        "Líderes técnicos",
+        "Reclutadores IT",
+        "CTOs"
+      ],
+      "interests": [
+        "Desarrollo de software",
+        "Buenas prácticas de código",
+        "Arquitectura limpia",
+        "Inteligencia Artificial aplicada a software",
+        "Productividad de desarrolladores",
+        "Tendencias tecnológicas"
+      ]
+    },
+    "goals": [
+      "Mejorar visibilidad profesional",
+      "Aumentar interacción en LinkedIn",
+      "Posicionarse como experto en desarrollo .NET",
+      "Atraer oportunidades laborales y proyectos"
+    ]
+  },
+  "research": {
+    "topic": "Dificil crear una startup en 2025, en comparación a los años pasados, da consejos para quienes quieran empezar a emprender",
+    "summary": "1. Las startups deben verse bajo el método científico · 2. ¿El cliente siempre tiene la razón? · 3. El consumidor debe ser el foco de tu empresa. De cara a 2025, las oportunidades para los emprendedores se multiplican, especialmente en sectores que combinan tecnología, medioambiente y ...",
+    "sources": [
+      {
+        "title": "Cinco Consejos para Emprender en 2025 | by Stefany",
+        "link": "https://medium.com/@lausuperlectura/cinco-consejos-para-emprender-en-2025-936b22c2d59c",
+        "snippet": "1. Las startups deben verse bajo el método científico · 2. ¿El cliente siempre tiene la razón? · 3. El consumidor debe ser el foco de tu empresa."
+      },
+      {
+        "title": "Previsiones y tendencias para emprendedores y startups ...",
+        "link": "https://www.iebschool.com/hub/tendencias-emprendedores-creacion-empresas/",
+        "snippet": "De cara a 2025, las oportunidades para los emprendedores se multiplican, especialmente en sectores que combinan tecnología, medioambiente y ..."
+      },
+      {
+        "title": "Cómo crear una Startup en 2025 y no Morir en el Intento",
+        "link": "https://www.youtube.com/watch?v=MO7JF1taH9o",
+        "snippet": "... de Riudor refleja su capacidad para innovar y emprender, fusionando sus pasiones por ... 10 Estrategias de éxito para crear una Startup ..."
+      },
+      {
+        "title": "¿Qué negocios están creando las personas en 2025 de ...",
+        "link": "https://www.reddit.com/r/Entrepreneur/comments/1hupxjf/what_businesses_are_people_creating_in_2025_solo/?tl=es-es",
+        "snippet": "Las certificaciones que necesitas son: Licencia de Maestro Ilimitada, lo que significa que para obtener esa licencia tienes que trabajar en ..."
+      },
+      {
+        "title": "Tendencias y desafíos en el ecosistema emprendedor 2025",
+        "link": "http://one.gob.es/es/contenidos/tendencias-y-desafios-en-el-ecosistema-emprendedor-2025",
+        "snippet": "En este post hablamos sobre de las tendencias y previsiones clave para el 2025, destacando los sectores de mayor interés, las previsiones de inversión, ..."
+      },
+      {
+        "title": "Tendencias de las startups en 2025: Lo que realmente se ...",
+        "link": "https://wadhwanifoundation.org/es/tendencias-de-las-startups-de-2025-lo-que-realmente-se-esta-poniendo-de-moda/",
+        "snippet": "5 tendencias en startups que todo emprendedor debe conocer · 1. La IA ya no es opcional · 2. La cualificación y la empleabilidad son un gran ..."
+      },
+      {
+        "title": "3 desafíos que los emprendedores enfrentarán en 2025",
+        "link": "https://spanish.entrepreneur.com/emprendedores/3-desafios-que-los-emprendedores-enfrentaran-en-2025/485294",
+        "snippet": "Las condiciones geopolíticas y económicas pueden generar incertidumbre este año, pero también abren puertas para que los negocios ..."
+      },
+      {
+        "title": "Cómo montaré una Startup en 2025",
+        "link": "https://www.youtube.com/watch?v=Hng57yZof00",
+        "snippet": "Cómo montaré una Startup en 2025 es un vídeo en el que explicaré cuál es mi plan para montar una startup este año ... Por Qué $250,000 es la MITAD ..."
+      },
+      {
+        "title": "Previsiones y tendencias para emprendedores y startups ...",
+        "link": "https://www.iebschool.com/hub/tendencias-emprendedores-creacion-empresas/",
+        "snippet": "De cara a 2025, las oportunidades para los emprendedores se multiplican, especialmente en sectores que combinan tecnología, medioambiente y ..."
+      },
+      {
+        "title": "¿Qué negocios están creando las personas en 2025 de ...",
+        "link": "https://www.reddit.com/r/Entrepreneur/comments/1hupxjf/what_businesses_are_people_creating_in_2025_solo/?tl=es-es",
+        "snippet": "Las certificaciones que necesitas son: Licencia de Maestro Ilimitada, lo que significa que para obtener esa licencia tienes que trabajar en ..."
+      },
+      {
+        "title": "El futuro del Emprendimiento: Tendencias y oportunidades ...",
+        "link": "https://www.youtube.com/watch?v=F5hRGgXq_-w",
+        "snippet": "La importancia de conocer las tendencias para saber como usarlo a nuestro favor ante las problemáticas que se presentan en el día a día del ..."
+      },
+      {
+        "title": "Carlos Guayara by Dinstinto",
+        "link": "https://creators.spotify.com/pod/profile/dinstinto/episodes/FUNDADOR-TRII-10-consejos-para-crear-una-startup-exitosa-en-2025--Carlos-Guayara-e2pbupm",
+        "snippet": "⁠⁠FUNDADOR TRII: 10 consejos para crear una startup exitosa en 2025 | Carlos Guayara ... Por qué crear contenido para redes sociales como emprendedores en 2025?"
+      },
+      {
+        "title": "Tendencias de las startups en 2025: Lo que realmente se ...",
+        "link": "https://wadhwanifoundation.org/es/tendencias-de-las-startups-de-2025-lo-que-realmente-se-esta-poniendo-de-moda/",
+        "snippet": "1. La IA ya no es opcional · 2. La cualificación y la empleabilidad son un gran negocio · 3. Los equipos Lean construyen más rápido que nunca · 4."
+      },
+      {
+        "title": "Cómo crear una Startup en 2025 y no Morir en el Intento",
+        "link": "https://www.youtube.com/watch?v=MO7JF1taH9o",
+        "snippet": "... de Riudor refleja su capacidad para innovar y emprender, fusionando sus pasiones por ... 10 Estrategias de éxito para crear una Startup ..."
+      },
+      {
+        "title": "3 desafíos que los emprendedores enfrentarán en 2025",
+        "link": "https://spanish.entrepreneur.com/emprendedores/3-desafios-que-los-emprendedores-enfrentaran-en-2025/485294",
+        "snippet": "Las condiciones geopolíticas y económicas pueden generar incertidumbre este año, pero también abren puertas para que los negocios ..."
+      },
+      {
+        "title": "Las 4 tendencias de emprendimiento para el 2025",
+        "link": "https://coomeva.com.co/blog/post/las-4-tendencias-de-emprendimiento-para-el-2025/3183",
+        "snippet": "En 2025, la creatividad, la adaptabilidad y el compromiso con el cambio serán clave para destacar. Este es el momento de anticiparte al mercado ..."
+      },
+      {
+        "title": "Should You Launch a Startup In 2025?",
+        "link": "https://ehandbook.com/should-you-launch-a-startup-in-2025-9c733ba236dd",
+        "snippet": "Should you launch a startup in 2025? Here's the answer most entrepreneurs today are too busy, obstinate, desperate, or scared to seek out or ..."
+      },
+      {
+        "title": "Previsiones y tendencias para emprendedores y startups ...",
+        "link": "https://www.iebschool.com/hub/tendencias-emprendedores-creacion-empresas/",
+        "snippet": "De cara a 2025, las oportunidades para los emprendedores se multiplican, especialmente en sectores que combinan tecnología, medioambiente y ..."
+      },
+      {
+        "title": "¿Crees que emprender se está poniendo más difícil o ...",
+        "link": "https://www.reddit.com/r/Entrepreneur/comments/1myt7mw/do_you_think_entrepreneurship_is_getting_harder/?tl=es-419",
+        "snippet": "Empezar un negocio no es fácil, pero se puede hacer si le dedicas tiempo y esfuerzo. Aprender un nuevo negocio se puede hacer si no te importa ..."
+      },
+      {
+        "title": "Tendencias de las startups en 2025: Lo que realmente se ...",
+        "link": "https://wadhwanifoundation.org/es/tendencias-de-las-startups-de-2025-lo-que-realmente-se-esta-poniendo-de-moda/",
+        "snippet": "Explora las principales tendencias de las startups de 2025, desde la integración de la IA a los equipos lean, y descubre cómo los fundadores ..."
+      }
+    ]
+  },
+  "performance": {
+    "top_posts": [],
+    "avg_length": 0,
+    "common_words": [],
+    "counts": 0
+  },
+  "script": {
+    "title": "Transformando Ideas en Realidades: La Ciencia Detrás de las Startups",
+    "content": "Después de 3 años trabajando en el desarrollo de software para startups, he compilado una guía completa que cubre todo lo que necesitas saber:\n\nIntroducción:\n- En el mundo de las startups, aplicar el método científico puede ser la clave para el éxito. Pero, ¿qué implica esto realmente? En esta guía, exploraremos cómo centrarte en el consumidor puede revolucionar tu enfoque empresarial.\n\nProceso Paso a Paso:\n1. Definir tu hipótesis: Antes de lanzar tu producto, formula una hipótesis clara sobre cómo resolverás un problema específico. Esto te dará una dirección y te permitirá medir resultados.\n2. Validar con el cliente: No asumas que el cliente siempre tiene la razón. Realiza entrevistas y encuestas para comprender verdaderamente sus necesidades y ajustar tu oferta.\n3. Iterar y mejorar: Usa los datos recolectados para realizar ajustes en tu producto. El ciclo de prueba y error es fundamental para la evolución de tu startup.\n\nErrores Comunes:\n- Ignorar el feedback del cliente: Asegúrate de no caer en la trampa de creer que conoces mejor a tu cliente que ellos mismos. Escuchar es clave.\n- No adaptar tu producto: A veces, las startups se aferran a su idea original. Recuerda que la flexibilidad es esencial para el crecimiento.\n\nConsejos Profesionales:\n- Mantén siempre al consumidor en el centro de tu estrategia. Su opinión es invaluable.\n- Rodéate de un equipo diverso que aporte diferentes perspectivas y habilidades, esto enriquecerá tu proceso de innovación.\n\nPreguntas Frecuentes:\n- ¿Cómo puedo saber si mi idea tiene potencial? Realiza pruebas de mercado y busca opiniones de expertos y usuarios.\n- ¿Qué papel juega la tecnología en las startups? La tecnología es el catalizador que puede escalar tu negocio, así que elige las herramientas adecuadas.\n\nYa seas un desarrollador de software o un CTO, esta guía te llevará desde la concepción de tu idea hasta la creación de un producto que realmente resuene con tu audiencia.\n",
+    "cta": "¿Listo para aplicar el método científico en tu startup? Comparte tus experiencias en los comentarios.",
+    "hashtags": [
+      "#Startups",
+      "#DesarrolloDeSoftware",
+      "#Innovación",
+      "#MétodoCientífico",
+      "#Emprendimiento"
+    ],
+    "prompt_for_image": "Imagen de un equipo de trabajo colaborando en una pizarra, con gráficos y diagramas que representan el método científico aplicado a startups."
+  },
+  "hooks": [
+    {
+      "id": 70,
+      "hook": "¿Qué consejo le darías a alguien que recién empieza?",
+      "similarity": 0.4974442900525457,
+      "meta": {
+        "id": 70,
+        "category": "Question",
+        "hook_text": "¿Qué consejo le darías a alguien que recién empieza?"
+      }
+    },
+    {
+      "id": 48,
+      "hook": "No necesitas hacerlo perfecto, solo empezar.",
+      "similarity": 0.4128426431252944,
+      "meta": {
+        "id": 48,
+        "category": "Inspiration",
+        "hook_text": "No necesitas hacerlo perfecto, solo empezar."
+      }
+    },
+    {
+      "id": 78,
+      "hook": "Un estudio de [empresa] revela la clave para crecer profesionalmente.",
+      "similarity": 0.41233949038574064,
+      "meta": {
+        "id": 78,
+        "category": "Data",
+        "hook_text": "Un estudio de [empresa] revela la clave para crecer profesionalmente."
+      }
+    }
+  ]
+}

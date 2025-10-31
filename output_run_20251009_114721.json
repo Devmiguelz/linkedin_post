@@ -1,0 +1,210 @@
+{
+  "profile": {
+    "name": "Miguel Zambrano Herrera",
+    "headline": "Software Engineer | C# | .NET | Python | Integration IA | Angular | SQL | Scrum | Azure | Git",
+    "location": "Colombia",
+    "followers": 988,
+    "connections": "500+",
+    "current_company": "PersonalSoft",
+    "education": "Universidad Simón Bolívar",
+    "job_search": true,
+    "desired_positions": [
+      "Desarrollador de .NET",
+      "Senior Software Developer",
+      "Ingeniero de Software",
+      "Programador Full Stack"
+    ],
+    "about": "Ingeniero de software con más de 7 años de experiencia en el desarrollo de aplicaciones web robustas y escalables. Comprometido con la escritura de código limpio, mantenible y bien documentado, siguiendo las mejores prácticas y patrones de diseño, y con habilidades en el diseño y optimización de bases de datos relacionales. Fascinado por los nuevos desafíos de la web y cómo podemos utilizarlos para construir mejores software para las personas.",
+    "skills": [
+      "C#",
+      ".NET Core",
+      "Angular",
+      "JavaScript",
+      "Spring Boot",
+      "Python",
+      "SQL",
+      "Scrum",
+      "Azure",
+      "Git"
+    ],
+    "audience": {
+      "target_roles": [
+        "Desarrolladores de software",
+        "Ingenieros de software",
+        "Líderes técnicos",
+        "Reclutadores IT",
+        "CTOs"
+      ],
+      "interests": [
+        "Desarrollo de software",
+        "Buenas prácticas de código",
+        "Arquitectura limpia",
+        "Inteligencia Artificial aplicada a software",
+        "Productividad de desarrolladores",
+        "Tendencias tecnológicas"
+      ]
+    },
+    "goals": [
+      "Mejorar visibilidad profesional",
+      "Aumentar interacción en LinkedIn",
+      "Posicionarse como experto en desarrollo .NET",
+      "Atraer oportunidades laborales y proyectos"
+    ]
+  },
+  "research": {
+    "topic": "Transformación Digital Sostenible",
+    "summary": "The expanded use of automation in digital transformation is expected to be a significant trend in the digital transformation journey in 2025. Similarly, ... Digital transformation in 2025 is reshaping the way companies operate, using AI, cloud, automation, and IoT to drive efficiency, minimize errors ... 10 Digital Transformation Trends for 2025 · 1. Getting a competitive advantage · 2. Cutting costs · 3.",
+    "sources": [
+      {
+        "title": "Top 10 Digital Transformation Trends for 2025 and Further",
+        "link": "https://www.veritis.com/blog/top-10-digital-transformation-trends/",
+        "snippet": "The expanded use of automation in digital transformation is expected to be a significant trend in the digital transformation journey in 2025. Similarly, ..."
+      },
+      {
+        "title": "Digital Transformation 2025: Trends, Challenges & Strategies",
+        "link": "https://siraconsultinginc.com/digital-transformation-in-2025-trends-challenges-and-it-modernization-strategies/",
+        "snippet": "Digital transformation in 2025 is reshaping the way companies operate, using AI, cloud, automation, and IoT to drive efficiency, minimize errors ..."
+      },
+      {
+        "title": "10 Digital Transformation Trends for 2025",
+        "link": "https://www.sprinklr.com/blog/digital-transformation-trends/",
+        "snippet": "10 Digital Transformation Trends for 2025 · 1. Getting a competitive advantage · 2. Cutting costs · 3. Improved customer experience · 4. Increased ..."
+      },
+      {
+        "title": "Top Digital Transformation Trends 2025",
+        "link": "https://www.coherentsolutions.com/insights/top-digital-transformation-trends",
+        "snippet": "Today's key digital transformation trends in healthcare include AI-assisted image reading, electronic health-record interoperability, and telemonitoring."
+      },
+      {
+        "title": "Digital Economy Trends 2025 - DCO",
+        "link": "https://dco.org/digital-economy-trends-2025-report/",
+        "snippet": "The Digital Economy Trends (DET) 2025 Report explores 18 transformative trends shaping industries, societies, and governance at an unprecedented pace."
+      },
+      {
+        "title": "Top 5 Digital Trends for 2025 and Beyond",
+        "link": "https://consultport.com/business-transformation/top-5-key-digital-trends-for-2025-and-beyond/",
+        "snippet": "Digital Trend #1: The Rise of Agentic AI · Digital Trend #2: Nuclear-Powered AI · Digital Trend #3: Post-Quantum Cryptography · Digital Trend #4: Micro LLMs."
+      },
+      {
+        "title": "Digital Transformation Trends for 2025: What to Expect",
+        "link": "https://tbri.com/special-reports/digital-transformation-in-2025-from-optimization-fatigue-to-business-model-reinvention/",
+        "snippet": "Top Predictions for Digital Transformation in 2025. Transformation comes roaring back; GenAI upends pyramids, even as enterprises slow their AI ..."
+      },
+      {
+        "title": "Top Digital Transformation Trends for 2025",
+        "link": "https://www.icreon.com/insights/digital-transformation-trends-2025",
+        "snippet": "This article showcases Icreon's top seven digital transformation trends for 2025. Read deeper to understand each trend's enterprise impact."
+      },
+      {
+        "title": "Transformación digital y sostenible",
+        "link": "https://www.transformaciondigitalysostenible.cl/",
+        "snippet": "Queremos conocer cómo las empresas están abordando los enormes desafíos que impone el siglo XXI, a través de historias humanas que nuestros entrevistados ..."
+      },
+      {
+        "title": "Transformación digital sostenible",
+        "link": "https://tecnofor.es/transformacion-digital-sostenible/",
+        "snippet": "La inversión en infraestructura tecnológica sostenible, como el uso de redes 5G más eficientes, energía renovable para centros de datos o el ..."
+      },
+      {
+        "title": "10 principales tendencias en transformación digital 2024",
+        "link": "https://redwerk.es/blog/las-10-principales-tendencias-en-transformacion-digital-para-2024/",
+        "snippet": "10 principales tendencias en transformación digital 2024 · Hiper-automatización · Personalización · Inteligencia artificial y aprendizaje ..."
+      },
+      {
+        "title": "5 tendencias que configuran el futuro de la transformación ...",
+        "link": "https://www.dynatrace.com/es/info/ebooks/5-trends-shaping-the-future-of-digital-transformation/",
+        "snippet": "5 tendencias clave que configuran el futuro de la transformación digital · Un enfoque de IA compuesta · Arquitectura cloud-native · Un enfoque de observabilidad ..."
+      },
+      {
+        "title": "Transformación digital",
+        "link": "https://www.bancomundial.org/es/topic/digital/overview",
+        "snippet": "La inteligencia artificial y la revolución de los datos están acelerando las capacidades digitales de muchos, pero acentuando las diferencias a medida que los ..."
+      },
+      {
+        "title": "Transformación Digital Sostenible: Guía Inicial y Beneficios ...",
+        "link": "https://blog.bhybrid.com/es/transformacion-digital-sostenible/",
+        "snippet": "Para lograr una transformación sostenible, las empresas deben identificar procesos de digitalización amigables con el planeta y sus recursos."
+      },
+      {
+        "title": "Transformación Digital y Sostenibilidad: Un Nuevo Paradigma ...",
+        "link": "https://revistacodigocientifico.itslosandes.net/index.php/1/article/download/323/739/960",
+        "snippet": "Este estudio explora la interrelación entre la transformación digital y la sostenibilidad en la gestión empresarial, destacando cómo las ..."
+      },
+      {
+        "title": "Diálogo sobre Transformación Digital Sostenible en ...",
+        "link": "https://www.itu.int/es/ITU-T/Workshops-and-Seminars/sg05rg/sdtd/20210930/Pages/default.aspx",
+        "snippet": "En esta sesión se examinarán las últimas tendencias de la transformación digital en América Latina. Panelistas y oradores de la región compartirán sus ideas ..."
+      },
+      {
+        "title": "Role of Digital Transformation for Achieving Sustainability",
+        "link": "https://www.mdpi.com/2071-1050/15/14/11221",
+        "snippet": "DX enables MSMEs to integrate sustainable practices into their operations, fostering resource efficiency and minimizing their ecological footprint [4]. By ..."
+      },
+      {
+        "title": "Responsible Digital Transformation for a Sustainable Society",
+        "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10209953/",
+        "snippet": "This editorial article discusses the importance of responsible digital transformation, emphasizing the need for academia, private and public ..."
+      },
+      {
+        "title": "Our Sustainability Strategy - Target Forward",
+        "link": "https://corporate.target.com/sustainability-governance/strategy-target-forward",
+        "snippet": "Target aims to elevate owned, national and emerging sustainable brands that are affordable, inclusive and inspirational."
+      },
+      {
+        "title": "How does Digital Transformation relate to the concept of ...",
+        "link": "https://www.intelligentcio.com/latam/2021/08/27/how-does-digital-transformation-relate-to-the-concept-of-esg/",
+        "snippet": "The connection exists because Digital Transformation seeks to optimize the execution of processes and improve them, while ESG aims to understand ..."
+      }
+    ]
+  },
+  "performance": {
+    "top_posts": [],
+    "avg_length": 0,
+    "common_words": [],
+    "counts": 0
+  },
+  "script": {
+    "title": "¿Buscas mejorar tu transformación digital? Aquí hay 3 consejos que transformaron mi enfoque:",
+    "content": "La transformación digital está revolucionando la forma en que las empresas operan, y el uso expandido de la automatización es un factor clave para el éxito en este viaje. A medida que nos adentramos en 2025, he recopilado tres consejos que me han ayudado a adoptar un enfoque más efectivo en este proceso:\n\n- Aprovecha la inteligencia artificial: Implementar soluciones de IA no solo puede automatizar tareas repetitivas, sino que también puede ofrecer análisis predictivos que mejoren la toma de decisiones. Esto permite a las empresas anticiparse a las necesidades del mercado y mejorar la experiencia del cliente.\n\n- Invierte en la nube: La migración a la nube permite una agilidad sin precedentes. No solo facilita el acceso a los datos desde cualquier lugar, sino que también optimiza los costos operativos y proporciona una infraestructura escalable que se adapta al crecimiento de tu negocio.\n\n- Fomenta una cultura de innovación: La transformación digital no es solo una cuestión técnica; también implica un cambio cultural. Anima a tu equipo a experimentar y adoptar nuevas tecnologías. Una mentalidad abierta permitirá a todos contribuir a la mejora continua y a la eficiencia organizacional.\n\nAplica estos consejos para ver una verdadera diferencia en tu proceso de transformación digital. ¡Déjame saber cómo te funciona!",
+    "cta": "¿Tienes otros consejos que te han funcionado en tu transformación digital? Comparte tus experiencias en los comentarios.",
+    "hashtags": [
+      "#TransformaciónDigital",
+      "#Automatización",
+      "#InteligenciaArtificial",
+      "#CulturaDeInnovación"
+    ],
+    "prompt_for_image": "Una ilustración moderna que represente la transformación digital con elementos de IA, nube y automatización, mostrando un entorno de trabajo colaborativo."
+  },
+  "hooks": [
+    {
+      "id": 68,
+      "hook": "¿Cuál fue tu mayor aprendizaje trabajando con [tecnología]?",
+      "similarity": 0.3566107263875541,
+      "meta": {
+        "id": 68,
+        "category": "Question",
+        "hook_text": "¿Cuál fue tu mayor aprendizaje trabajando con [tecnología]?"
+      }
+    },
+    {
+      "id": 60,
+      "hook": "La técnica que uso para mantener el enfoque todos los días.",
+      "similarity": 0.3561413626552258,
+      "meta": {
+        "id": 60,
+        "category": "Value",
+        "hook_text": "La técnica que uso para mantener el enfoque todos los días."
+      }
+    },
+    {
+      "id": 32,
+      "hook": "Mi experiencia en [tecnología] me enseñó lo siguiente...",
+      "similarity": 0.34357034272963116,
+      "meta": {
+        "id": 32,
+        "category": "Experience",
+        "hook_text": "Mi experiencia en [tecnología] me enseñó lo siguiente..."
+      }
+    }
+  ]
+}

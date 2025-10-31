@@ -107,6 +107,30 @@
             "name": "Post de tendencias",
             "description": "Para hablar de tendencias y predicciones.",
             "structure": "Al entrar en {Año}, exploremos las tendencias emergentes:\n\n1. {Tendencia 1}\n2. {Tendencia 2}\n3. {Tendencia 3}\n\n📈 ¿Qué tendencias estás observando?\n📉 ¿Cómo planeas adaptarte?"
+        },
+        {
+            "id": "topic_discussion",
+            "name": "Tema de discusión",
+            "description": "Para abrir una conversación sobre un tema específico.",
+            "structure": "Hablemos de {Tema} 💬\n\n{Introducción breve al tema - 2-3 líneas}\n\nAlgunos puntos interesantes:\n• {Punto 1}\n• {Punto 2}\n• {Punto 3}\n\n¿Qué opinas sobre {Tema}?"
+        },
+        {
+            "id": "topic_analysis",
+            "name": "Análisis de tema",
+            "description": "Para profundizar en un tema con observaciones y análisis.",
+            "structure": "{Tema}: Lo que necesitas saber 📊\n\n{Breve contexto del tema}\n\n🔍 Puntos clave:\n- {Observación 1}\n- {Observación 2}\n- {Observación 3}\n\n{Análisis o conclusión sobre el tema}\n\n¿Qué opinas al respecto?"
+        },
+        {
+            "id": "topic_breakdown",
+            "name": "Desglose de tema",
+            "description": "Para explicar un tema complejo de forma simple y directa.",
+            "structure": "Desglosando {Tema} en términos simples:\n\n✓ {Aspecto 1 del tema}\n✓ {Aspecto 2 del tema}\n✓ {Aspecto 3 del tema}\n\nEn resumen: {Conclusión breve}\n\n¿Tienes preguntas sobre esto?"
+        },
+        {
+            "id": "hot_topic",
+            "name": "Tema candente",
+            "description": "Para comentar sobre temas actuales o trending.",
+            "structure": "Todo el mundo está hablando de {Tema} 🔥\n\n{Contexto o descripción del tema - 2-4 líneas}\n\nLo que esto significa:\n→ {Implicación 1}\n→ {Implicación 2}\n\n¿Cuál es tu opinión sobre esto? 👇"
         }
     ]
 }

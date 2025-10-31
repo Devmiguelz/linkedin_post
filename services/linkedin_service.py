@@ -3,6 +3,7 @@ import requests
 from dotenv import load_dotenv
 from services.generate_image import generate_images_with_runware
 import asyncio
+from utils.text_utils import ask_option
 
 # -------------------------------
 # Cargar variables de entorno
@@ -104,17 +105,67 @@ def publish_linkedin_post(text, image_urn=None, author=LINKEDIN_PERSON_URN):
 # 3️⃣ Crear post con imagen generada por IA
 # -------------------------------
 def create_post_with_generated_image(prompt, prompts_for_images, mode="personal"):
-    """Genera una imagen con IA, la sube y publica un post"""
-    image_files = asyncio.run(generate_images_with_runware(prompts_for_images))
-    image_urn = None
+    """Genera una imagen con IA, permite revisarla o reemplazarla, y publica un post"""
 
+    print("\n🎨 Generación de imagen:")
+
+    image_files = None
+    prompt_final = prompts_for_images[0]
+
+    generar_imagen = ask_option(
+        "¿Quieres generar una imagen para acompañar el post?",
+        ["Sí", "No"]
+    )
+
+    if generar_imagen == "Sí":
+        print(f"\n🖼️ Prompt actual para imagen:\n{prompt_final}\n")
+
+        modificar_prompt = ask_option(
+            "¿Deseas modificar o mejorar el prompt antes de generar la imagen?",
+            ["Sí", "No"]
+        )
+
+        if modificar_prompt == "Sí":
+            nuevo_prompt = input("\n✍️ Escribe tu nuevo prompt (deja vacío para mantener el actual): ").strip()
+            if nuevo_prompt:
+                prompt_final = nuevo_prompt
+                print("\n✨ Prompt actualizado correctamente.")
+
+        print(f"\n🧩 Generando imagen con el prompt:\n➡️ {prompt_final}\n")
+        image_files = asyncio.run(generate_images_with_runware([prompt_final]))
+
+        if image_files and len(image_files) > 0:
+            print(f"\n✅ Imagen generada: {image_files[0]}")
+            print("📸 Por favor revisa la imagen generada antes de continuar.")
+            input("⏸️ Presiona Enter cuando la hayas revisado...")
+
+            decision = ask_option(
+                "¿Deseas usar esta imagen o reemplazarla por una existente?",
+                ["Usar la generada", "Reemplazar por una existente"]
+            )
+
+            if decision == "Reemplazar por una existente":
+                ruta_manual = input("\n📂 Escribe la ruta completa de la imagen que quieres usar: ").strip()
+                if os.path.exists(ruta_manual):
+                    image_files = [ruta_manual]
+                    print("✅ Imagen reemplazada correctamente.")
+                else:
+                    print("⚠️ La ruta especificada no existe. Se usará la imagen generada por IA.")
+
+    else:
+        print("🚫 No se generará imagen para este post.")
+        image_files = None
+
+    # Paso final: publicación
+    image_urn = None
     AUTHOR_URN = LINKEDIN_PERSON_URN if mode == "personal" else LINKEDIN_ORGANIZATION_URN
 
     if image_files:
         image_urn = upload_image_to_linkedin(image_files[0], author=AUTHOR_URN)
 
-    if not image_urn:
-        print("⚠️ No se pudo subir la imagen a LinkedIn.")
-        raise ValueError("No se pudo subir la imagen a LinkedIn.")
+        if not image_urn:
+            print("⚠️ No se pudo subir la imagen a LinkedIn.")
+            raise ValueError("No se pudo subir la imagen a LinkedIn.")
 
     return publish_linkedin_post(prompt, image_urn=image_urn, author=AUTHOR_URN)
+

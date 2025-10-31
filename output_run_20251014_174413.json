@@ -1,0 +1,210 @@
+{
+  "profile": {
+    "name": "Miguel Zambrano Herrera",
+    "headline": "Software Engineer | C# | .NET | Python | Integration IA | Angular | SQL | Scrum | Azure | Git",
+    "location": "Colombia",
+    "followers": 988,
+    "connections": "500+",
+    "current_company": "PersonalSoft",
+    "education": "Universidad Simón Bolívar",
+    "job_search": true,
+    "desired_positions": [
+      "Desarrollador de .NET",
+      "Senior Software Developer",
+      "Ingeniero de Software",
+      "Programador Full Stack"
+    ],
+    "about": "Ingeniero de software con más de 7 años de experiencia en el desarrollo de aplicaciones web robustas y escalables. Comprometido con la escritura de código limpio, mantenible y bien documentado, siguiendo las mejores prácticas y patrones de diseño, y con habilidades en el diseño y optimización de bases de datos relacionales. Fascinado por los nuevos desafíos de la web y cómo podemos utilizarlos para construir mejores software para las personas.",
+    "skills": [
+      "C#",
+      ".NET Core",
+      "Angular",
+      "JavaScript",
+      "Spring Boot",
+      "Python",
+      "SQL",
+      "Scrum",
+      "Azure",
+      "Git"
+    ],
+    "audience": {
+      "target_roles": [
+        "Desarrolladores de software",
+        "Ingenieros de software",
+        "Líderes técnicos",
+        "Reclutadores IT",
+        "CTOs"
+      ],
+      "interests": [
+        "Desarrollo de software",
+        "Buenas prácticas de código",
+        "Arquitectura limpia",
+        "Inteligencia Artificial aplicada a software",
+        "Productividad de desarrolladores",
+        "Tendencias tecnológicas"
+      ]
+    },
+    "goals": [
+      "Mejorar visibilidad profesional",
+      "Aumentar interacción en LinkedIn",
+      "Posicionarse como experto en desarrollo .NET",
+      "Atraer oportunidades laborales y proyectos"
+    ]
+  },
+  "research": {
+    "topic": "No-code vs código tradicional: ¿democratización o pérdida de control?",
+    "summary": "Gartner predicts 70% of new enterprise applications will use no-code/low-code by 2025. This projection from Gartner represents a dramatic shift ... Low‑code offers more customization for moderate coding needs. Traditional development gives complete control but takes more time and budget. ... No-code and low-code platforms are now game changers in mobile app development.",
+    "sources": [
+      {
+        "title": "50 Traditional Coding vs No-Code Adoption Statistics in ...",
+        "link": "https://www.adalo.com/posts/traditional-coding-vs-no-code-adoption-statistics",
+        "snippet": "Gartner predicts 70% of new enterprise applications will use no-code/low-code by 2025. This projection from Gartner represents a dramatic shift ..."
+      },
+      {
+        "title": "No-Code vs. Low-Code vs. Traditional Development",
+        "link": "https://top5-websitebuilders.com/articles/no-code-vs-low-code-vs-traditional-development-which-is-right-for-your-business-in-2025/",
+        "snippet": "Low‑code offers more customization for moderate coding needs. Traditional development gives complete control but takes more time and budget. ..."
+      },
+      {
+        "title": "No-Code & Low-Code: Democratizing Mobile Apps in 2025",
+        "link": "https://www.xavor.com/blog/no-code-and-low-code-platforms-in-mobile-app-development/",
+        "snippet": "No-code and low-code platforms are now game changers in mobile app development. They allow people and businesses to build advanced apps ..."
+      },
+      {
+        "title": "50+ No-Code and Low-Code Statistics for 2025",
+        "link": "https://www.index.dev/blog/no-code-low-code-statistics",
+        "snippet": "Compared to traditional development methods, organizations using low-code tools are building software 56% faster, which saves time for both ..."
+      },
+      {
+        "title": "Software development trends in 2025",
+        "link": "https://graphite.dev/guides/software-development-trends-2025",
+        "snippet": "Low-code/no-code platforms: Democratizing development​​ Low-code no-code platforms have matured significantly in 2025, moving from simple form builders to ..."
+      },
+      {
+        "title": "Will Low-Code/No-Code Replace Developers? The Truth ...",
+        "link": "https://www.techverx.com/will-low-code-no-code-replace-developers-the-truth-in-2025/",
+        "snippet": "Low-code/no-code platforms aren't replacing developers; they're transforming how software gets built. By automating routine tasks and empowering ..."
+      },
+      {
+        "title": "Top No-Code & Low-Code Development Trends in 2025",
+        "link": "https://www.neolinelogic.com/no-code-development-trends-2025/",
+        "snippet": "Explore how no-code development is transforming businesses in 2025 with fast, affordable, and scalable digital solutions."
+      },
+      {
+        "title": "Low Code vs Traditional Software Development: 2025 ...",
+        "link": "https://nsc-software.com/en/blog/low-code-vs-traditional-software-development-2025-guide-business-leaders",
+        "snippet": "1. The Changing Landscape of Software Development · 2. What Is Low-Code Development? · 3. What Is Traditional Software Development? · 4."
+      },
+      {
+        "title": "La revolución No-Code - Tulip Interfaces",
+        "link": "https://tulip.co/es/ebooks/no-code/",
+        "snippet": "La revolución No-Code. Conozca cómo las tecnologías de bajo código y sin código están alterando las soluciones de fabricación tradicionales de la Industria 4.0."
+      },
+      {
+        "title": "8-tendencias-que-redefinen-el-desarrollo-de-software",
+        "link": "https://www.deyel.com/blog/plataformas-low-code-no-code-8-tendencias-que-redefinen-el-desarrollo-de-software/",
+        "snippet": "Una de las grandes promesas de las plataformas Low Code y No Code es la democratización del desarrollo de software. ... Los desarrolladores pueden ..."
+      },
+      {
+        "title": "Low-Code vs No-Code vs Desarrollo tradicional - ¿Cuál es ...",
+        "link": "https://innowise.com/es/blog/low-code-vs-no-code/",
+        "snippet": "Comprender las ventajas y desventajas del desarrollo de código reducido frente al desarrollo sin código te ayudará a tomar decisiones con ..."
+      },
+      {
+        "title": "Low Code vs No Code - SMALLTEC",
+        "link": "https://smalltec.es/low-code-vs-no-code/",
+        "snippet": "No Code: Se dirige a usuarios de negocio, emprendedores y no desarrolladores que necesitan crear aplicaciones rápidamente sin involucrarse en el ..."
+      },
+      {
+        "title": "50 Traditional Coding vs No-Code Adoption Statistics in ...",
+        "link": "https://www.adalo.com/posts/traditional-coding-vs-no-code-adoption-statistics",
+        "snippet": "50 stats on no-code vs coding in B2B: 10x speed, 506% ROI, 87% dev use, and rapid growth to \\$264B by 2032."
+      },
+      {
+        "title": "¿Qué es No-Code? Revolución del Desarrollo Sin Código 2025",
+        "link": "https://www.berzerk.es/blog/que-es-no-code",
+        "snippet": "El movimiento no-code representa la mayor democratización tecnológica desde la llegada de internet. En 2025, el 70% de las nuevas aplicaciones ..."
+      },
+      {
+        "title": "Code en la Transformación Digital de la Industria",
+        "link": "https://biblus.us.es/bibing/proyectos/abreproy/95354/fichero/TFG-5354+Moreno+Mor%C3%B3n.pdf",
+        "snippet": "Este Trabajo de Fin de Grado (TFG) se centra en el análisis de las tecnologías No-Code y Low-. Code, destacando su impacto en la industria ..."
+      },
+      {
+        "title": "Desarrollo No Code vs Tradicional: El comparativo definitivo",
+        "link": "https://es.linkedin.com/pulse/desarrollo-code-vs-tradicional-el-comparativo-definitivo-jaime-sol%C3%ADs-dz0pe",
+        "snippet": "En el caso del desarrollo NoCode, al tener poca complejidad, los cambios son hechos de manera más fácil y rápida, demostrando tener bastante ..."
+      },
+      {
+        "title": "No-code vs Code+AI (case study)",
+        "link": "https://medium.com/@willteam35/no-code-vs-chatgpt-case-study-d3c340cc88bd",
+        "snippet": "Both frameworks suck differently. No-code is much easier to learn and start with, but it has a strong vendor lock-in and unpredictable pricing."
+      },
+      {
+        "title": "Low-Code vs No-Code vs Traditional Development",
+        "link": "https://innowise.com/blog/low-code-vs-no-code/",
+        "snippet": "Low-code and no-code application development tools allow companies to build apps without deep coding knowledge, which shortens time-to-market and reduces ..."
+      },
+      {
+        "title": "No-Code/Low-Code vs Traditional Software Development",
+        "link": "https://yellow.systems/blog/no-code-low-code-vs-custom-development",
+        "snippet": "No-code/low-code development means that the process involves minimum or no hand-coding and manual programming."
+      },
+      {
+        "title": "50 Traditional Coding vs No-Code Adoption Statistics in ...",
+        "link": "https://www.adalo.com/posts/traditional-coding-vs-no-code-adoption-statistics",
+        "snippet": "50 stats on no-code vs coding in B2B: 10x speed, 506% ROI, 87% dev use, and rapid growth to \\$264B by 2032."
+      }
+    ]
+  },
+  "performance": {
+    "top_posts": [],
+    "avg_length": 0,
+    "common_words": [],
+    "counts": 0
+  },
+  "script": {
+    "title": "Los 5 mitos principales de las plataformas no-code/low-code DESMENTIDOS 💥:",
+    "content": "Mito: Las plataformas no-code/low-code son solo para principiantes – Verdad: Estas herramientas son utilizadas por desarrolladores experimentados para acelerar el proceso de desarrollo y enfocarse en la lógica del negocio. \nMito: No ofrecen personalización suficiente – Verdad: Aunque son más simples, muchas plataformas no-code/low-code permiten personalizar aplicaciones complejas, adaptándose a necesidades específicas de las empresas. \nMito: Son inseguras – Verdad: La seguridad depende del proveedor. Las principales plataformas cumplen con estándares de seguridad robustos y están diseñadas para proteger datos sensibles. \nMito: Solo sirven para aplicaciones pequeñas – Verdad: Empresas de todos los tamaños están utilizando estas plataformas para desarrollar aplicaciones empresariales críticas que pueden escalar. \nMito: Son más caras a largo plazo – Verdad: Reducen los tiempos de desarrollo y los costos operativos, lo que puede llevar a un ahorro significativo en comparación con el desarrollo tradicional. \n\n¿Tienes más mitos para desmentir? ¡Déjalos en los comentarios!",
+    "cta": "Comparte tus experiencias o dudas sobre el uso de estas herramientas.",
+    "hashtags": [
+      "#NoCode",
+      "#LowCode",
+      "#DesarrolloDeSoftware",
+      "#InnovaciónTecnológica"
+    ],
+    "prompt_for_image": "Una imagen que represente el concepto de desarrollo ágil con no-code/low-code, mostrando a desarrolladores trabajando en sus computadoras y gráficos que representan crecimiento y eficiencia."
+  },
+  "hooks": [
+    {
+      "id": 43,
+      "hook": "Cada línea de código es una oportunidad para mejorar.",
+      "similarity": 0.4432993550685982,
+      "meta": {
+        "id": 43,
+        "category": "Inspiration",
+        "hook_text": "Cada línea de código es una oportunidad para mejorar."
+      }
+    },
+    {
+      "id": 34,
+      "hook": "No todo es código: aquí lo que realmente importa.",
+      "similarity": 0.4227812569912102,
+      "meta": {
+        "id": 34,
+        "category": "Experience",
+        "hook_text": "No todo es código: aquí lo que realmente importa."
+      }
+    },
+    {
+      "id": 3,
+      "hook": "¿Sabías que el 90% de los desarrolladores no hacen esto?",
+      "similarity": 0.3867623195920981,
+      "meta": {
+        "id": 3,
+        "category": "Curiosity",
+        "hook_text": "¿Sabías que el 90% de los desarrolladores no hacen esto?"
+      }
+    }
+  ]
+}
