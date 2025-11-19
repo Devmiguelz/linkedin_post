@@ -1,0 +1,209 @@
+{
+  "profile": {
+    "name": "Miguel Zambrano Herrera",
+    "headline": "Software Engineer | C# | .NET | Python | Integration IA | Angular | SQL | Scrum | Azure | Git",
+    "location": "Colombia",
+    "followers": 988,
+    "connections": "500+",
+    "current_company": "PersonalSoft",
+    "education": "Universidad Simón Bolívar",
+    "job_search": true,
+    "desired_positions": [
+      "Desarrollador de .NET",
+      "Senior Software Developer",
+      "Ingeniero de Software",
+      "Programador Full Stack"
+    ],
+    "about": "Ingeniero de software con más de 7 años de experiencia en el desarrollo de aplicaciones web robustas y escalables. Comprometido con la escritura de código limpio, mantenible y bien documentado, siguiendo las mejores prácticas y patrones de diseño, y con habilidades en el diseño y optimización de bases de datos relacionales. Fascinado por los nuevos desafíos de la web y cómo podemos utilizarlos para construir mejores software para las personas.",
+    "skills": [
+      "C#",
+      ".NET Core",
+      "Angular",
+      "JavaScript",
+      "Spring Boot",
+      "Python",
+      "SQL",
+      "Scrum",
+      "Azure",
+      "Git"
+    ],
+    "audience": {
+      "target_roles": [
+        "Desarrolladores de software",
+        "Ingenieros de software",
+        "Líderes técnicos",
+        "Reclutadores IT",
+        "CTOs"
+      ],
+      "interests": [
+        "Desarrollo de software",
+        "Buenas prácticas de código",
+        "Arquitectura limpia",
+        "Inteligencia Artificial aplicada a software",
+        "Productividad de desarrolladores",
+        "Tendencias tecnológicas"
+      ]
+    },
+    "goals": [
+      "Mejorar visibilidad profesional",
+      "Aumentar interacción en LinkedIn",
+      "Posicionarse como experto en desarrollo .NET",
+      "Atraer oportunidades laborales y proyectos"
+    ]
+  },
+  "research": {
+    "topic": "Desarrollo híbrido .NET + Python: cómo combinar ecosistemas sin duplicar esfuerzos",
+    "summary": "Le damos la bienvenida a los puntos destacados, tendencias y principales acciones de la octava edición anual de la encuesta de desarrolladores ... *¿Qué nos depara el FUTURO de Python en 2025?* En este video exploramos las tendencias emergentes y las tecnologías clave que marcarán el ... El Ecosistema de Python (Las habilidades que TODO desarrollador debería dominar en 2025 ) 1️⃣ ¿Por qué Python sigue dominando el mundo tech ... La combinación de teoría y algoritmos prácticos en Python nos acerca a un futuro donde la planificación estratégica no solo es optimizada por IA ... Sigues programando en Python como si fuera 2024? Entonces este video te va a abrir los ojos.",
+    "sources": [
+      {
+        "title": "El estado de Python 2025 | The PyCharm Blog",
+        "link": "https://blog.jetbrains.com/es/pycharm/2025/09/el-estado-de-python-2025/",
+        "snippet": "Le damos la bienvenida a los puntos destacados, tendencias y principales acciones de la octava edición anual de la encuesta de desarrolladores ..."
+      },
+      {
+        "title": "El Futuro de Python: Tendencias para 2025",
+        "link": "https://www.youtube.com/watch?v=B_j3w6Q7IjU",
+        "snippet": "*¿Qué nos depara el FUTURO de Python en 2025?* En este video exploramos las tendencias emergentes y las tecnologías clave que marcarán el ..."
+      },
+      {
+        "title": "El Ecosistema de Python",
+        "link": "https://www.facebook.com/groups/ProgramDesaSoftware/posts/2848199888720496/",
+        "snippet": "El Ecosistema de Python (Las habilidades que TODO desarrollador debería dominar en 2025 ) 1️⃣ ¿Por qué Python sigue dominando el mundo tech ..."
+      },
+      {
+        "title": "PLANIFICACIÓN ESTRATEGICA EN ECOSISTEMAS ...",
+        "link": "https://juandomingofarnos.wordpress.com/2025/05/23/planificacion-estrategica-en-ecosistemas-inteligentes-de-aprendizaje/",
+        "snippet": "La combinación de teoría y algoritmos prácticos en Python nos acerca a un futuro donde la planificación estratégica no solo es optimizada por IA ..."
+      },
+      {
+        "title": "🚀 7 Essential Python Tools for 2025 That Every Developer ...",
+        "link": "https://www.youtube.com/watch?v=soK9po5pEU8",
+        "snippet": "Sigues programando en Python como si fuera 2024? Entonces este video te va a abrir los ojos. En 2025, el desarrollo en Python está viviendo"
+      },
+      {
+        "title": "Transformaciones Clave en el Ecosistema Python - Code Corp",
+        "link": "https://codecorpve.com/blog/transformaciones-clave-en-el-ecosistema-python",
+        "snippet": "JIT Habilitado por Defecto: El compilador Just-In-Time (basado en tecnología Cinder) ahora opera automáticamente, acelerando hasta un 40% cargas ..."
+      },
+      {
+        "title": "La IA como agente de cocreación en ecosistemas inteligentes ...",
+        "link": "https://juandomingofarnos.wordpress.com/2025/05/01/investigamos-la-autonomia-cognitiva-y-aprendizaje-colaborativo-la-ia-como-agente-de-cocreacion-en-ecosistemas-inteligentes-multiconectados-educacion-disruptiva-ia/",
+        "snippet": "Sin embargo, un modelo de aprendizaje multidisciplinario podría combinar múltiples algoritmos, como Random Forest (bosques aleatorios) y ..."
+      },
+      {
+        "title": "Educación, Ciencia y Tecnologías Emergentes para la ...",
+        "link": "https://www.researchgate.net/profile/Edgar-Roa-2/publication/327871326_DESARROLLO_DE_UN_SISTEMA_PARA_LA_IDENTIFICACION_DE_ALTERACIONES_EN_LA_POSTURA_MEDIANTE_EL_ANALISIS_DE_LA_HUELLA_PLANTAR/links/5d6d4101a6fdcc547d74c7c4/DESARROLLO-DE-UN-SISTEMA-PARA-LA-IDENTIFICACION-DE-ALTERACIONES-EN-LA-POSTURA-MEDIANTE-EL-ANALISIS-DE-LA-HUELLA-PLANTAR.pdf",
+        "snippet": "El presente libro ha sido fruto de los aportes VII Congreso Internacional de Ingeniería. “Tecnologías Emergentes para la Generación del Siglo 21."
+      },
+      {
+        "title": "Transformaciones Clave en el Ecosistema Python - Code Corp",
+        "link": "https://codecorpve.com/blog/transformaciones-clave-en-el-ecosistema-python",
+        "snippet": "JIT Habilitado por Defecto: El compilador Just-In-Time (basado en tecnología Cinder) ahora opera automáticamente, acelerando hasta un 40% cargas ..."
+      },
+      {
+        "title": "ECOSISTEMA DE PYTHON Y OTRAS HERRAMIENTAS ...",
+        "link": "https://www.youtube.com/watch?v=FEOuINGQWYk",
+        "snippet": "ECOSISTEMA DE PYTHON Y OTRAS HERRAMIENTAS PARA DATA SCIENCE, MACHINE LEARNING Y DEEP LEARNING. 69 views · 7 months ago ...more ..."
+      },
+      {
+        "title": "PLANIFICACIÓN ESTRATEGICA EN ECOSISTEMAS ...",
+        "link": "https://juandomingofarnos.wordpress.com/2025/05/23/planificacion-estrategica-en-ecosistemas-inteligentes-de-aprendizaje/",
+        "snippet": "Para lograr un ajuste dinámico efectivo, emplearemos algoritmos de aprendizaje supervisado y redes neuronales para hacer predicciones sobre las ..."
+      },
+      {
+        "title": "La Guía Definitiva del Stack de Datos de Código Abierto de ...",
+        "link": "https://davidregalado255.medium.com/la-gu%C3%ADa-definitiva-del-stack-de-datos-de-c%C3%B3digo-abierto-de-apache-53d8e72a0d0d",
+        "snippet": "También proporciona soporte SQL, lo que te permite realizar operaciones complejas como combinaciones, agregaciones y funciones de ventana sin ..."
+      },
+      {
+        "title": "Implementación de una Solución CI/CD Segura Integrando ...",
+        "link": "https://openaccess.uoc.edu/bitstreams/0849597c-1cdc-4234-9bb7-ffe4127fc990/download",
+        "snippet": "lenguajes de programación, como Python, Java, .NET, Node.js, entre otros. Esta librería no solo automatiza tareas como la compilación, el ..."
+      },
+      {
+        "title": "Desarrollo de Software | Yapiko",
+        "link": "https://yapiko.com/es/blog/category/desarrollo-software/",
+        "snippet": "La integración de sistemas surge como respuesta a estos desafíos. No se trata únicamente de “conectar aplicaciones”, sino de habilitar un flujo de información ..."
+      },
+      {
+        "title": "Next-Gen Software: Languages & Tools",
+        "link": "https://www.softtek.com/hubfs/insights/white-papers/Next-Gen-Software-Languages-and-Tools.pdf?hsLang=es",
+        "snippet": "según la aplicación que necesita ser desarrollada, se puede combinar sin esfuerzo con otros lenguajes de programación y tampoco requiere que se vuelva a ..."
+      },
+      {
+        "title": "La IA como agente de cocreación en ecosistemas inteligentes ...",
+        "link": "https://juandomingofarnos.wordpress.com/2025/05/01/investigamos-la-autonomia-cognitiva-y-aprendizaje-colaborativo-la-ia-como-agente-de-cocreacion-en-ecosistemas-inteligentes-multiconectados-educacion-disruptiva-ia/",
+        "snippet": "Sin embargo, un modelo de aprendizaje multidisciplinario podría combinar múltiples algoritmos, como Random Forest (bosques aleatorios) y ..."
+      },
+      {
+        "title": "Development and Implementation of the Methodology for ...",
+        "link": "https://www.researchgate.net/publication/386054346_Development_and_Implementation_of_the_Methodology_for_Hybrid_digital_Ecosystems_in_online_training",
+        "snippet": "Desarrollo e implementación de la metodología para ecosistemas digitales híbridos en la formación online/Development. and Implementation of the Methodology ..."
+      },
+      {
+        "title": "PLANIFICACIÓN ESTRATEGICA EN ECOSISTEMAS ...",
+        "link": "https://juandomingofarnos.wordpress.com/2025/05/23/planificacion-estrategica-en-ecosistemas-inteligentes-de-aprendizaje/",
+        "snippet": "Para lograr un ajuste dinámico efectivo, emplearemos algoritmos de aprendizaje supervisado y redes neuronales para hacer predicciones sobre las ..."
+      },
+      {
+        "title": "Desarrollo de Software Dirigido por Modelos",
+        "link": "https://www.researchgate.net/profile/Antonio_Vallecillo/publication/323116246_Desarrollo_de_software_dirigido_por_modelos_conceptos_metodos_y_herramientas/links/5a9589d7a6fdccecff0909e4/Desarrollo-de-software-dirigido-por-modelos-conceptos-metodos-y-herramientas.pdf",
+        "snippet": "MARCAS COMERCIALES. Las designaciones utilizadas por las empresas para distinguir sus productos. (hardware, software, sistemas operativos, etc.) ..."
+      },
+      {
+        "title": "Archivo Digital UPM - Universidad Politécnica de Madrid",
+        "link": "https://oa.upm.es/43345/1/ALVARO_ALONSO_GONZALEZ.pdf",
+        "snippet": "Durante los últimos años, los servicios y aplicaciones de videoconferencia han experimentado una serie de cambios debido a la evolución de algunas de las ..."
+      }
+    ]
+  },
+  "performance": {
+    "top_posts": [],
+    "avg_length": 0,
+    "common_words": [],
+    "counts": 0
+  },
+  "script": {
+    "title": "¿Estamos listos para el futuro de Python en 2025? 🚀",
+    "content": "Hablemos de Python y su futuro en 2025 💬\n\nPython ha sido un pilar fundamental en el desarrollo de software y, a medida que nos adentramos en 2025, es crucial reflexionar sobre su evolución y su impacto en la industria.\n\nAlgunos puntos interesantes:\n• Python sigue siendo el lenguaje preferido para la inteligencia artificial y el aprendizaje automático, gracias a su simplicidad y versatilidad.\n• Las nuevas herramientas y bibliotecas continúan emergiendo, facilitando la integración de Python en diversas plataformas y aplicaciones.\n• La demanda de desarrolladores con habilidades en Python está en aumento, lo que resalta la necesidad de seguir aprendiendo y adaptándose a las nuevas tendencias.\n\n¿Qué opinas sobre el futuro de Python? ¿Estás preparado para los cambios que se avecinan en el ecosistema tecnológico?",
+    "cta": "Déjame tus comentarios y comparte tus perspectivas sobre cómo Python seguirá transformando el desarrollo de software.",
+    "hashtags": [
+      "#Python2025",
+      "#DesarrolloDeSoftware",
+      "#InteligenciaArtificial"
+    ],
+    "prompt_for_image": "Crear una imagen que represente la evolución de Python, con gráficos de tendencias y un fondo futurista."
+  },
+  "hooks": [
+    {
+      "id": 64,
+      "hook": "¿Cómo gestionas tu tiempo como desarrollador?",
+      "similarity": 0.4256491830092082,
+      "meta": {
+        "id": 64,
+        "category": "Question",
+        "hook_text": "¿Cómo gestionas tu tiempo como desarrollador?"
+      }
+    },
+    {
+      "id": 36,
+      "hook": "6 años de experiencia en .NET resumidos en 1 publicación.",
+      "similarity": 0.4145911547294481,
+      "meta": {
+        "id": 36,
+        "category": "Experience",
+        "hook_text": "6 años de experiencia en .NET resumidos en 1 publicación."
+      }
+    },
+    {
+      "id": 56,
+      "hook": "El framework mental que uso para resolver problemas complejos.",
+      "similarity": 0.4126932188829154,
+      "meta": {
+        "id": 56,
+        "category": "Value",
+        "hook_text": "El framework mental que uso para resolver problemas complejos."
+      }
+    }
+  ]
+}

@@ -1,0 +1,211 @@
+{
+  "profile": {
+    "name": "Miguel Zambrano Herrera",
+    "headline": "Software Engineer | C# | .NET | Python | Integration IA | Angular | SQL | Scrum | Azure | Git",
+    "location": "Colombia",
+    "followers": 988,
+    "connections": "500+",
+    "current_company": "PersonalSoft",
+    "education": "Universidad Simón Bolívar",
+    "job_search": true,
+    "desired_positions": [
+      "Desarrollador de .NET",
+      "Senior Software Developer",
+      "Ingeniero de Software",
+      "Programador Full Stack"
+    ],
+    "about": "Ingeniero de software con más de 7 años de experiencia en el desarrollo de aplicaciones web robustas y escalables. Comprometido con la escritura de código limpio, mantenible y bien documentado, siguiendo las mejores prácticas y patrones de diseño, y con habilidades en el diseño y optimización de bases de datos relacionales. Fascinado por los nuevos desafíos de la web y cómo podemos utilizarlos para construir mejores software para las personas.",
+    "skills": [
+      "C#",
+      ".NET Core",
+      "Angular",
+      "JavaScript",
+      "Spring Boot",
+      "Python",
+      "SQL",
+      "Scrum",
+      "Azure",
+      "Git"
+    ],
+    "audience": {
+      "target_roles": [
+        "Desarrolladores de software",
+        "Ingenieros de software",
+        "Líderes técnicos",
+        "Reclutadores IT",
+        "CTOs"
+      ],
+      "interests": [
+        "Desarrollo de software",
+        "Buenas prácticas de código",
+        "Arquitectura limpia",
+        "Inteligencia Artificial aplicada a software",
+        "Productividad de desarrolladores",
+        "Tendencias tecnológicas"
+      ]
+    },
+    "goals": [
+      "Mejorar visibilidad profesional",
+      "Aumentar interacción en LinkedIn",
+      "Posicionarse como experto en desarrollo .NET",
+      "Atraer oportunidades laborales y proyectos"
+    ]
+  },
+  "research": {
+    "topic": "Que paso con la caida de cloudflare hoy 18 de noviembre 2025, dame explicaciones para mi publicacion de linkedin",
+    "summary": "La causa de esta interrupción fue un fallo en la infraestructura de almacenamiento subyacente utilizada por nuestro servicio Workers KV, que es ... Varios servicios de Cloudflare, incluidos Workers KV, Access, WARP y el panel de control de Cloudflare, sufrieron una interrupción de hasta 2 horas y 28 minutos ... Una falla en la red de Cloudflare causó la caída simultánea de múltiples plataformas digitales, incluyendo Twitter y LinkedIn, dejando sin servicio a millones ... El conjunto de reglas administradas por Cloudflare de repente empezó a bloquear el tráfico a mi dominio ... ¿Cloudflare DNS caído? 383 ...",
+    "sources": [
+      {
+        "title": "Interrupción del servicio de Cloudflare el 12 de junio de 2025",
+        "link": "https://blog.cloudflare.com/es-es/cloudflare-service-outage-june-12-2025/",
+        "snippet": "La causa de esta interrupción fue un fallo en la infraestructura de almacenamiento subyacente utilizada por nuestro servicio Workers KV, que es ..."
+      },
+      {
+        "title": "Interrupción",
+        "link": "https://blog.cloudflare.com/es-es/tag/outage/",
+        "snippet": "Varios servicios de Cloudflare, incluidos Workers KV, Access, WARP y el panel de control de Cloudflare, sufrieron una interrupción de hasta 2 horas y 28 minutos ..."
+      },
+      {
+        "title": "Cloudflare colapsa: caída global interrumpe Twitter, ...",
+        "link": "https://revistaclevel.com/cloudflare-colapsa-caida-global-interrumpe-twitter-linkedin-y-mas",
+        "snippet": "Una falla en la red de Cloudflare causó la caída simultánea de múltiples plataformas digitales, incluyendo Twitter y LinkedIn, dejando sin servicio a millones ..."
+      },
+      {
+        "title": "¿Cloudflare acaba de romper el internet?",
+        "link": "https://www.reddit.com/r/CloudFlare/comments/1obefst/did_cloudflare_just_break_the_internet/?tl=es-419",
+        "snippet": "El conjunto de reglas administradas por Cloudflare de repente empezó a bloquear el tráfico a mi dominio ... ¿Cloudflare DNS caído? 383 ..."
+      },
+      {
+        "title": "Temporada de cortes | Resumen de las interrupciones de ...",
+        "link": "https://blog.cloudflare.com/es-es/q2-2025-internet-disruption-summary/",
+        "snippet": "La publicación se retrasó aproximadamente media hora respecto al inicio de la interrupción, ya que el tráfico disminuyó hasta un 70 % alrededor ..."
+      },
+      {
+        "title": "A deep dive into Cloudflare's September 12, 2025 ...",
+        "link": "https://blog.cloudflare.com/deep-dive-into-cloudflares-sept-12-dashboard-and-api-outage/",
+        "snippet": "A new version of the Cloudflare Dashboard is released which contains a bug that will trigger many more calls to the /organizations endpoint, ..."
+      },
+      {
+        "title": "The global Cloudflare crash. What happened?",
+        "link": "https://www.youtube.com/watch?v=DrhoWjw__nI",
+        "snippet": "El 12 de junio medio internet se quedó en blanco: Supabase, AWS, Google Cloud y especialmente Cloudflare cayeron por un fallo en Workers KV."
+      },
+      {
+        "title": "Caída de Internet: Cloudflare y Google Cloud en Problemas",
+        "link": "https://www.tiktok.com/@platzi/video/7515216167292718343",
+        "snippet": "Explora el contexto tras la caída global de servicios de Google y Cloudflare. Descubre el peligro de internet y lo que esto significa para los ..."
+      },
+      {
+        "title": "Interrupción",
+        "link": "https://blog.cloudflare.com/es-es/tag/outage/",
+        "snippet": "Varios servicios de Cloudflare, incluidos Workers KV, Access, WARP y el panel de control de Cloudflare, sufrieron una interrupción de hasta 2 horas y 28 minutos ..."
+      },
+      {
+        "title": "Cloudflare colapsa: caída global interrumpe Twitter, ...",
+        "link": "https://revistaclevel.com/cloudflare-colapsa-caida-global-interrumpe-twitter-linkedin-y-mas",
+        "snippet": "Una falla en la red de Cloudflare causó la caída simultánea de múltiples plataformas digitales, incluyendo Twitter y LinkedIn, dejando sin servicio a millones ..."
+      },
+      {
+        "title": "Interrupción del servicio de Cloudflare el 12 de junio de 2025",
+        "link": "https://blog.cloudflare.com/es-es/cloudflare-service-outage-june-12-2025/",
+        "snippet": "La causa de esta interrupción fue un fallo en la infraestructura de almacenamiento subyacente utilizada por nuestro servicio Workers KV, que es ..."
+      },
+      {
+        "title": "¿Cloudflare acaba de romper el internet?",
+        "link": "https://www.reddit.com/r/CloudFlare/comments/1obefst/did_cloudflare_just_break_the_internet/?tl=es-419",
+        "snippet": "Cloudflare decidió cagarnos, y ni siquiera sabemos por qué. · Amo CloudFlare · CloudFlare es una pesadilla de soporte y un chiste. · ¿Por qué ..."
+      },
+      {
+        "title": "Temporada de cortes | Resumen de las interrupciones de ...",
+        "link": "https://blog.cloudflare.com/es-es/q2-2025-internet-disruption-summary/",
+        "snippet": "El tráfico de solicitudes a la resolución DNS 1.1.1.1 de Cloudflare también experimentó una caída significativa. También se observó una ..."
+      },
+      {
+        "title": "The global Cloudflare crash. What happened?",
+        "link": "https://www.youtube.com/watch?v=DrhoWjw__nI",
+        "snippet": "El 12 de junio medio internet se quedó en blanco: Supabase, AWS, Google Cloud y especialmente Cloudflare cayeron por un fallo en Workers KV."
+      },
+      {
+        "title": "Caída de Internet: Cloudflare y Google Cloud en Problemas",
+        "link": "https://www.tiktok.com/@platzi/video/7515216167292718343",
+        "snippet": "Explora el contexto tras la caída global de servicios de Google y Cloudflare. Descubre el peligro de internet y lo que esto significa para los ..."
+      },
+      {
+        "title": "Caída global de Google Cloud y Cloudflare sacude internet",
+        "link": "https://smartdata.com.pe/caida-global-de-google-cloud-y-cloudflare-sacude-internet/",
+        "snippet": "Por su parte, Cloudflare explicó que el problema se debió a la desconexión de uno de sus servicios más críticos que depende directamente de ..."
+      },
+      {
+        "title": "Cloudflare Status",
+        "link": "https://www.cloudflarestatus.com/",
+        "snippet": "Investigating - Cloudflare is experiencing an internal service degradation. Some services may be intermittently impacted. We are focused on restoring service."
+      },
+      {
+        "title": "Cloudflare 1.1.1.1 incident on July 14, 2025",
+        "link": "https://blog.cloudflare.com/cloudflare-1-1-1-1-incident-on-july-14-2025/",
+        "snippet": "The outage occurred because of a misconfiguration of legacy systems used to maintain the infrastructure that advertises Cloudflare's IP ..."
+      },
+      {
+        "title": "Cloudflare incident on August 21, 2025",
+        "link": "https://blog.cloudflare.com/cloudflare-incident-on-august-21-2025/",
+        "snippet": "The incident was a result of a surge of traffic from a single customer that overloaded Cloudflare's links with AWS us-east-1. It was a network ..."
+      },
+      {
+        "title": "What Really Caused the Cloudflare Outage — September 12 ...",
+        "link": "https://www.youtube.com/watch?v=aX8MbmkiBuI",
+        "snippet": "On September 12, 2025, Cloudflare suffered one of its biggest service outages in recent times. In this video, we break down why the outage ..."
+      }
+    ]
+  },
+  "performance": {
+    "top_posts": [],
+    "avg_length": 0,
+    "common_words": [],
+    "counts": 0
+  },
+  "script": {
+    "title": "Todo el mundo está hablando de la caída de Cloudflare 🔥",
+    "content": "Recientemente, un fallo en la infraestructura de almacenamiento subyacente de Cloudflare provocó una interrupción significativa en varios de sus servicios, como Workers KV, Access y WARP. Esta situación dejó a millones de usuarios de plataformas digitales, incluyendo Twitter y LinkedIn, sin acceso durante más de dos horas. El impacto fue inmediato, afectando tanto a empresas como a desarrolladores que dependen de estos servicios para su operativa diaria.\n\nLo que esto significa:\n→ La dependencia de servicios de terceros puede poner en riesgo la continuidad de nuestras operaciones digitales.\n→ Es crucial tener un plan de contingencia para manejar interrupciones y garantizar la disponibilidad de nuestras aplicaciones.\n\n¿Cuál es tu opinión sobre esto? 👇",
+    "cta": "Comparte tu experiencia o estrategias para manejar interrupciones en servicios digitales.",
+    "hashtags": [
+      "#Cloudflare",
+      "#DesarrolloDeSoftware",
+      "#InfraestructuraDigital",
+      "#InterrupcionesTecnológicas",
+      "#Tecnología"
+    ],
+    "prompt_for_image": "Una ilustración que represente la interconexión de servicios digitales, mostrando un gráfico que simbolice la caída de servicios y su impacto en el usuario final."
+  },
+  "hooks": [
+    {
+      "id": 77,
+      "hook": "Según LinkedIn, las publicaciones con [tipo de contenido] tienen más interacción.",
+      "similarity": 0.3666943193885892,
+      "meta": {
+        "id": 77,
+        "category": "Data",
+        "hook_text": "Según LinkedIn, las publicaciones con [tipo de contenido] tienen más interacción."
+      }
+    },
+    {
+      "id": 36,
+      "hook": "6 años de experiencia en .NET resumidos en 1 publicación.",
+      "similarity": 0.3531678239426721,
+      "meta": {
+        "id": 36,
+        "category": "Experience",
+        "hook_text": "6 años de experiencia en .NET resumidos en 1 publicación."
+      }
+    },
+    {
+      "id": 98,
+      "hook": "Te comparto una historia corta sobre liderazgo técnico.",
+      "similarity": 0.3397013468546998,
+      "meta": {
+        "id": 98,
+        "category": "Storytelling",
+        "hook_text": "Te comparto una historia corta sobre liderazgo técnico."
+      }
+    }
+  ]
+}

@@ -44,21 +44,14 @@ def get_trending_topic():
     """
     Selecciona el tema más viral del día entre la lista dada.
     """
-    today = datetime.now().strftime("%Y-%m-%d")
-    prompt = f"""
-    Hoy es {today}. Puedes investigar en internet y analizar
-    cuáles son los temas más virales y relevantes en LinkedIn hoy
-    enfocado en el mercado de tecnologia, noticias, software, emprendimiento y negocios
-    No tiene que estar relacionado con IA necesariamente.
 
-    Basado en las tendencias globales, menciona SOLO uno
-    que sea más viral y relevante hoy para publicar en LinkedIn.
-    Responde SOLO con el nombre exacto del tema.
+    prompt = f"""
+    Eres un analista de tendencias experto en tecnología, negocios, liderazgo, innovación y emprendimiento. Investiga en internet cuáles son los temas más virales y relevantes actualmente en LinkedIn. No te limites a IA o software: incluye también tendencias en negocios globales, sostenibilidad, macroeconomía, cultura laboral, management, startups y transformación digital. Con base en lo que esté resonando hoy en redes profesionales, identifica los temas con mayor tracción. Sugiere tres posibles ideas de contenido, pero al final SOLO devuelve el título del tema más viral. Solo el título.
     """
     response = client.chat.completions.create(
         model="gpt-4o-mini",
         messages=[
-            {"role": "system", "content": "Eres un analista de tendencias tecnológicas experto en IA y software."},
+            {"role": "system", "content": ""},
             {"role": "user", "content": prompt}
         ],
         temperature=0.4

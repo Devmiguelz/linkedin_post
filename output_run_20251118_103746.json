@@ -1,0 +1,209 @@
+{
+  "profile": {
+    "name": "Miguel Zambrano Herrera",
+    "headline": "Software Engineer | C# | .NET | Python | Integration IA | Angular | SQL | Scrum | Azure | Git",
+    "location": "Colombia",
+    "followers": 988,
+    "connections": "500+",
+    "current_company": "PersonalSoft",
+    "education": "Universidad Simón Bolívar",
+    "job_search": true,
+    "desired_positions": [
+      "Desarrollador de .NET",
+      "Senior Software Developer",
+      "Ingeniero de Software",
+      "Programador Full Stack"
+    ],
+    "about": "Ingeniero de software con más de 7 años de experiencia en el desarrollo de aplicaciones web robustas y escalables. Comprometido con la escritura de código limpio, mantenible y bien documentado, siguiendo las mejores prácticas y patrones de diseño, y con habilidades en el diseño y optimización de bases de datos relacionales. Fascinado por los nuevos desafíos de la web y cómo podemos utilizarlos para construir mejores software para las personas.",
+    "skills": [
+      "C#",
+      ".NET Core",
+      "Angular",
+      "JavaScript",
+      "Spring Boot",
+      "Python",
+      "SQL",
+      "Scrum",
+      "Azure",
+      "Git"
+    ],
+    "audience": {
+      "target_roles": [
+        "Desarrolladores de software",
+        "Ingenieros de software",
+        "Líderes técnicos",
+        "Reclutadores IT",
+        "CTOs"
+      ],
+      "interests": [
+        "Desarrollo de software",
+        "Buenas prácticas de código",
+        "Arquitectura limpia",
+        "Inteligencia Artificial aplicada a software",
+        "Productividad de desarrolladores",
+        "Tendencias tecnológicas"
+      ]
+    },
+    "goals": [
+      "Mejorar visibilidad profesional",
+      "Aumentar interacción en LinkedIn",
+      "Posicionarse como experto en desarrollo .NET",
+      "Atraer oportunidades laborales y proyectos"
+    ]
+  },
+  "research": {
+    "topic": "Se cae cloudflare, ¿Qué está pasando que todas las semanas se cae una nube?",
+    "summary": "La causa de esta interrupción fue un fallo en la infraestructura de almacenamiento subyacente utilizada por nuestro servicio Workers KV, que es ... En el 2.º trimestre de 2025, observamos interrupciones en Internet en todo el mundo como resultado de cierres impuestos por los gobiernos, ... En el 1.er trimestre de 2025, observamos un número significativo de interrupciones de Internet debido a daños en los cables y cortes del ... La caída comenzó aproximadamente a la 1:50 p.m. ET del 12 de junio de 2025, y se extendió por varias horas. Las primeras recuperaciones ...",
+    "sources": [
+      {
+        "title": "Interrupción del servicio de Cloudflare el 12 de junio de 2025",
+        "link": "https://blog.cloudflare.com/es-es/cloudflare-service-outage-june-12-2025/",
+        "snippet": "La causa de esta interrupción fue un fallo en la infraestructura de almacenamiento subyacente utilizada por nuestro servicio Workers KV, que es ..."
+      },
+      {
+        "title": "Temporada de cortes | Resumen de las interrupciones de ...",
+        "link": "https://blog.cloudflare.com/es-es/q2-2025-internet-disruption-summary/",
+        "snippet": "En el 2.º trimestre de 2025, observamos interrupciones en Internet en todo el mundo como resultado de cierres impuestos por los gobiernos, ..."
+      },
+      {
+        "title": "Nuevo año, sin cortes de Internet | Resumen de las ...",
+        "link": "https://blog.cloudflare.com/es-es/q1-2025-internet-disruption-summary/",
+        "snippet": "En el 1.er trimestre de 2025, observamos un número significativo de interrupciones de Internet debido a daños en los cables y cortes del ..."
+      },
+      {
+        "title": "Caída global de Google Cloud y Cloudflare sacude internet",
+        "link": "https://smartdata.com.pe/caida-global-de-google-cloud-y-cloudflare-sacude-internet/",
+        "snippet": "La caída comenzó aproximadamente a la 1:50 p.m. ET del 12 de junio de 2025, y se extendió por varias horas. Las primeras recuperaciones ..."
+      },
+      {
+        "title": "The global Cloudflare crash. What happened?",
+        "link": "https://www.youtube.com/watch?v=DrhoWjw__nI",
+        "snippet": "El 12 de junio medio internet se quedó en blanco: Supabase, AWS, Google Cloud y especialmente Cloudflare cayeron por un fallo en Workers KV."
+      },
+      {
+        "title": "Incidente de Cloudflare el 21 de agosto de 2025",
+        "link": "https://www.reddit.com/r/CloudFlare/comments/1mwufve/cloudflare_incident_on_august_21_2025/?tl=es-419",
+        "snippet": "El artículo dice que estaban pidiendo contenido del caché de CloudFlare. No estoy muy seguro de qué tipo de caso de uso tendrías como cliente de ..."
+      },
+      {
+        "title": "Caída de Internet: Cloudflare y Google Cloud en Problemas",
+        "link": "https://www.tiktok.com/@platzi/video/7515216167292718343",
+        "snippet": "Caída de Internet: Cloudflare y Google Cloud en Problemas. Explora el contexto tras la caída global de servicios de Google y Cloudflare."
+      },
+      {
+        "title": "Cloudflare incident on August 21, 2025",
+        "link": "https://blog.cloudflare.com/cloudflare-incident-on-august-21-2025/",
+        "snippet": "The incident was a result of a surge of traffic from a single customer that overloaded Cloudflare's links with AWS us-east-1. It was a network ..."
+      },
+      {
+        "title": "Caída masiva de internet: qué es Cloudflare y por qué fallan ...",
+        "link": "https://www.todojujuy.com/caida-masiva-internet-que-es-cloudflare-y-que-fallan-las-aplicaciones-n282363",
+        "snippet": "Cloudflare confirmó que está investigando un problema en su red global que está provocando “errores 500 generalizados” y fallas también en su ..."
+      },
+      {
+        "title": "X (Twitter) se cayó y todo apunta a un problema con ...",
+        "link": "https://www.infocielo.com/tendencias/x-twitter-se-cayo-y-todo-apunta-a-un-problema-con-cloudflare-que-hacer-y-como-saber-si-vuelve-a-funcionar",
+        "snippet": "Twitter sufre una caída global y todo apunta a una falla del servicio \"Cloudflare\", que también afecta a otros sitios populares."
+      },
+      {
+        "title": "The global Cloudflare crash. What happened?",
+        "link": "https://www.youtube.com/watch?v=DrhoWjw__nI",
+        "snippet": "... Cloudflare cayeron por un fallo en Workers KV. En este video te cuento en 1 min qué pasó, por qué y cómo afecta a la infraestructura global ..."
+      },
+      {
+        "title": "Para tu info, el DNS de Cloudflare está caído en todo ...",
+        "link": "https://www.reddit.com/r/dns/comments/1m0095r/fyi_cloudflares_dns_is_down_worldwide/?tl=es-419",
+        "snippet": "Me estaba preguntando por qué se me fue el internet. Mi sistema OPNsense está apuntando a Cloudflare para el DNS. Dejó de funcionar hace como ..."
+      },
+      {
+        "title": "Interrupción del servicio de Cloudflare el 12 de junio de 2025",
+        "link": "https://blog.cloudflare.com/es-es/cloudflare-service-outage-june-12-2025/",
+        "snippet": "La causa de esta interrupción fue un fallo en la infraestructura de almacenamiento subyacente utilizada por nuestro servicio Workers KV, que es ..."
+      },
+      {
+        "title": "Mucha nube pero al final si se cae un servicio ...",
+        "link": "https://www.xataka.com/servicios/mucha-nube-al-final-se-cae-servicio-se-cae-medio-internet",
+        "snippet": "Lo cierto es que todas estas gigantescas caídas son preocupantes porque demuestran una y otra vez cómo un simple fallo en un servidor o un ..."
+      },
+      {
+        "title": "Interrupción",
+        "link": "https://blog.cloudflare.com/es-es/tag/outage/",
+        "snippet": "El 4 de octubre de 2023, Cloudflare sufrió problemas en la resolución de DNS. Algunos usuarios haber recibido respuestas SERVFAIL DNS a consultas válidas. En ..."
+      },
+      {
+        "title": "Why is the cloud down? Analysis of the CloudFlare crash",
+        "link": "https://www.youtube.com/watch?v=D6PUc4V6B9E",
+        "snippet": "Puede caer un DATA CENTER con todos sus servicios? Aunque los centros de datos tengan todos sus sistemas replicados puede ocurrir una ..."
+      },
+      {
+        "title": "La forma en que todo el internet se cae cuando le pasa ...",
+        "link": "https://www.reddit.com/r/mildlyinfuriating/comments/1m016i1/the_way_the_entire_internet_goes_down_when/?tl=es-419",
+        "snippet": "Downdetector se basa en lo que reporta la gente, y la gente empezó a decir que todo se caía porque no les andaba el DNS."
+      },
+      {
+        "title": "The global Cloudflare crash. What happened?",
+        "link": "https://www.youtube.com/watch?v=DrhoWjw__nI",
+        "snippet": "... Cloudflare cayeron por un fallo en Workers KV. En este video te cuento en 1 min qué pasó, por qué y cómo afecta a la infraestructura global ..."
+      },
+      {
+        "title": "Interrupción del servicio de Cloudflare el 12 de junio de 2025",
+        "link": "https://blog.cloudflare.com/es-es/cloudflare-service-outage-june-12-2025/",
+        "snippet": "La causa de esta interrupción fue un fallo en la infraestructura de almacenamiento subyacente utilizada por nuestro servicio Workers KV, que es ..."
+      },
+      {
+        "title": "Cloudflare incident on August 21, 2025",
+        "link": "https://blog.cloudflare.com/cloudflare-incident-on-august-21-2025/",
+        "snippet": "The incident was a result of a surge of traffic from a single customer that overloaded Cloudflare's links with AWS us-east-1. It was a network ..."
+      }
+    ]
+  },
+  "performance": {
+    "top_posts": [],
+    "avg_length": 0,
+    "common_words": [],
+    "counts": 0
+  },
+  "script": {
+    "title": "Interrupciones de Internet: Lo que necesitas saber 📊",
+    "content": "En los últimos meses, hemos sido testigos de una serie de interrupciones globales en Internet que han afectado a millones de usuarios y empresas. Estas interrupciones fueron causadas, en parte, por fallos en la infraestructura de almacenamiento de servicios como Workers KV. En el 1.er y 2.º trimestre de 2025, se reportaron daños significativos en cables y cierres gubernamentales que complicaron aún más la conectividad. La caída más reciente comenzó el 12 de junio a la 1:50 p.m. ET y se extendió por varias horas, generando un impacto considerable en la economía digital y en la forma en que interactuamos en línea.\n\n🔍 Puntos clave:\n- La infraestructura de almacenamiento es crítica para la continuidad de los servicios en la nube.\n- Las interrupciones pueden ser causadas por factores tanto técnicos como externos, como regulaciones gubernamentales.\n- La recuperación de estas interrupciones depende de la rapidez y eficacia de las respuestas técnicas y operativas.\n\nEste tipo de eventos nos recuerda la importancia de tener planes de contingencia y la necesidad de innovar en nuestras infraestructuras tecnológicas. Como profesionales del desarrollo de software, debemos estar preparados para adaptarnos a estos desafíos, implementando prácticas de desarrollo resilientes y soluciones que minimicen el tiempo de inactividad.\n\n¿Qué opinas al respecto? ¿Cómo crees que deberíamos prepararnos para futuras interrupciones en la conectividad?",
+    "cta": "Comparte tu opinión sobre cómo las interrupciones de Internet han impactado tu trabajo.",
+    "hashtags": [
+      "#InterrupcionesInternet",
+      "#DesarrolloSoftware",
+      "#InfraestructuraTecnológica"
+    ],
+    "prompt_for_image": "Imagen que ilustre la conectividad global y los desafíos de las interrupciones en Internet."
+  },
+  "hooks": [
+    {
+      "id": 2,
+      "hook": "Este error me costó semanas… y probablemente tú también lo estés cometiendo.",
+      "similarity": 0.3704511075163173,
+      "meta": {
+        "id": 2,
+        "category": "Curiosity",
+        "hook_text": "Este error me costó semanas… y probablemente tú también lo estés cometiendo."
+      }
+    },
+    {
+      "id": 13,
+      "hook": "Cometí este error por años y me costó caro.",
+      "similarity": 0.3462500552888031,
+      "meta": {
+        "id": 13,
+        "category": "Problem",
+        "hook_text": "Cometí este error por años y me costó caro."
+      }
+    },
+    {
+      "id": 65,
+      "hook": "¿Qué herramienta no puede faltar en tu stack diario?",
+      "similarity": 0.33982289681252764,
+      "meta": {
+        "id": 65,
+        "category": "Question",
+        "hook_text": "¿Qué herramienta no puede faltar en tu stack diario?"
+      }
+    }
+  ]
+}
